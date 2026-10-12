@@ -19,7 +19,7 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 | **Approx. weight** | ≈ 50 kg/m² (estimate for 2 cm limestone — **[confirm]**) |
 | **Price** | **Trade / clearance price: €22.50/m² excl. VAT (€27.00 incl. 20 % French VAT)**, stone only, ex-warehouse (EXW Gennevilliers or Vernon). Retail price on our website: €35/m². Larger lots: **[your price for 500+ m², if lower]** |
 | **Minimum order** | 25 m² |
-| **Delivery** | Collection at Gennevilliers or Vernon by appointment (Mon–Fri). Delivery in France quoted from 100 m². Export: buyer's forwarder (EXW or FCA Gennevilliers / Vernon) |
+| **Delivery** | Collection at Gennevilliers or Vernon by appointment (Mon–Fri). Delivery in France quoted from 100 m². French buyers: EXW. Foreign buyers: **FCA** Gennevilliers / Vernon (you load the buyer's truck and handle export formalities; ICC recommends FCA over EXW for export) |
 | **Payment** | **[e.g. 30 % deposit to reserve, balance before collection — goods released only after full payment]** |
 | **Lead time** | Collection within **[x]** working days after payment |
 | **Samples / photos** | Real photos and video of the stock on request; sample **[available / not available]** |
@@ -102,13 +102,15 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 **Keywords / tags**
 > limestone, Egyptian limestone, cream limestone, beige limestone, limestone tiles, limestone flooring, limestone paving, 30x60 limestone, natural stone tiles, Egypt stone, stock France, stock Europe
 
+> **If MINYALA is quarried in the Minya region**, also add the trade names buyers search for: *Sunny Menia, Sunny Minya, Menia limestone, Crema Menia, Egyptian beige marble*. Minya stone is listed as both "marble" and "limestone" on these sites. Do not use these names if the origin is different.
+
 **Photos to upload**: real photos only — the crates / pallets, one tile in hand with a tape measure, close-up of the veining, a wet and a dry tile, and any finished project (with the client's consent). Do not upload the AI-generated image from the website.
 
 ---
 
 ## 4. Which RFQs to answer first
 
-1. **Product**: limestone or beige marble tiles; 30×60 or cut-to-size that 30×60 can cover; 2 cm.
+1. **Product**: limestone or beige / cream marble tiles (incl. Sunny, Menia, Galala, Crema Marfil, Ataija, Jura, Dijon requests, offering MINYALA as an alternative); 30×60 or cut-to-size that 30×60 can cover; 2 cm. Skip requests for 3 cm+ pavers, slabs, mosaics or porcelain.
 2. **Destination**: France and nearby EU countries first (collection or short truck delivery); far destinations only if the buyer handles freight.
 3. **Quantity**: with 500–2,000 m² in stock, requests from about 100 m² up to 2,000 m² fit best. At ≈ 50 kg/m² (estimate), 2,000 m² is about 100 t, i.e. roughly 4 full trucks. Requests for several thousand m² usually expect quarry prices from the producing country — answer only if your price can compete.
 4. **Fresh**: posted in the last weeks; old RFQs are usually closed.
@@ -124,6 +126,11 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 - **Check the company**: registration number, VAT number (EU: VIES), website and address before quoting a large order.
 - Be wary of overpayment ("we paid too much, refund the difference"), urgent changes of bank details, and buyers who insist on moving to private messaging apps before giving company details.
 - Keep all exchanges in writing; send a pro-forma invoice with your terms (Incoterm, payment, validity).
+- **A SWIFT copy, MT103 or screenshot is not payment**: only your own bank account shows that money arrived.
+- **Charge for samples** (tiles and shipping paid in advance) or invite the buyer to see the stock; never send free samples abroad on a promise of a big order.
+- **Never open .html / .htm or double-extension attachments** in a "request for quotation" email; ask for the specification in the message body.
+- If the delivery address is a freight forwarder, a home or a warehouse unrelated to the buying company, require full payment first.
+- Report fraud attempts on 17Cyber (cybermalveillance.gouv.fr) and to the platform.
 
 ---
 
@@ -140,3 +147,51 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 | Samples available? Price? | |
 | Collection lead time after payment | |
 | Vernon pickup address and hours | |
+
+---
+
+## 7. Where trade buyers post requests — and what replying costs
+
+Checked 12/10/2026 from the platforms' public pages. Prices change: confirm before paying.
+
+| Platform | Requests visible? | Cost to reply | Verdict |
+|---|---|---|---|
+| **StoneContact** | Yes, but the site blocks automated reading | Free account to list products; quoting appears limited per month and buyer contacts appear reserved to paid **Diamond** members (≈ US$2,000/year on an undated page — **unconfirmed**) | List MINYALA for free first; pay only after a month of measured enquiries. Independent reviews are few and old (one complains of unreachable buyers). |
+| **StoneAdd** (stoneadd.com) | Yes — 27,000+ requests with title, country and date | Free to join; buyer contacts "exclusive for Premium membership" | **Best matches found here** (Austria, Belgium, France). Worth testing. |
+| **go4WorldBusiness** | Yes, dated | Silver from US$75/month (US$449 for 6 months) | Several European limestone / marble requests; container-size. |
+| **Alibaba.com RFQ** | Yes | Paid seller membership required to quote | Swiss request for limestone floor tiles; expensive for one product. |
+| **TradeKey** | Yes | Most stone buyers accept quotes only from Premium members | Weak requests; skip. |
+| **Europages** | Buyers send RFQs to selected suppliers | Supplier "Request Hub", free trial offered | Good for being *found* by European buyers; create a free company page. |
+| **Destockplus** (France) | Clearance marketplace | Free standard listing (published within 72 h); paid plans from €29.16 excl. VAT/month | **List the 500–2,000 m² here.** A competitor sells "Pierre d'Égypte limestone" at €27/m² with a 160 m² minimum — your 25 m² minimum and Paris / Normandy stock are the edge. |
+| Made-in-China | — | For Chinese exporters only | Not usable. |
+
+---
+
+## 8. Requests to look at first
+
+Full list with links and status column: `prospects-minyala.xlsx`, tab **Demandes RFQ** (52 requests, best first).
+
+| Request | Where | Why |
+|---|---|---|
+| Buy Sunny Marble (StoneAdd, 19/05/2026) | Austria — wholesaler supplying Austria and southern Germany | Same Egyptian stone family if MINYALA is from Minya; trucking distance |
+| Ataija Creme Limestone Inquiry (StoneAdd, 17/08/2026) | Belgium, 100 m² | Cream limestone, small quantity, truck from Paris. Use is outdoor / pool: confirm suitability first |
+| Limestone floor tiles (Alibaba RFQ, ≈ 02/10/2026) | Switzerland | Indoor limestone floor tiles, asks for MOQ in m² |
+| Marble Slabs Inquiry (StoneAdd, 15/07/2026) | France, ≈ 150 m² in stock | Wants stock to visit — Gennevilliers / Vernon. Asks for slabs: offer tiles as alternative |
+| Stone articles incl. limestone (go4WorldBusiness, 29/09/2026) | France, 1 × 20' container | Reseller / distributor; product vague |
+| Beige travertine importer (StoneAdd, 27/03/2026) | South-west France, ≈ 40 containers/year | Not a match today, but a regular importer of beige stone: worth a trade introduction |
+| StoneContact requests (unverified) | Rotterdam 150 m², French renovation firm 150 m², Cardiff 30 m², London 63–65 m² | Good sizes for your stock; open them when logged in and answer only if still open |
+
+---
+
+## 9. Sources (safety and terms)
+
+- Advance-fee and fake-buyer scams: https://harris-sliwoski.com/chinalawblog/the-ultimate-guide-to-avoiding-international-scams/ and https://www.trade.gov/market-intelligence/ghana-public-sector-recurring-scams
+- Fake RFQ emails with booby-trapped attachments: https://www.pcrisk.com/removal-guides/35809-confirmation-of-request-for-quotation-rfq-email-scam
+- Fake procurement agents and credit fraud: https://www.proofpoint.com/us/blog/threat-insight/net-rfq-request-quote-scammers-casting-wide-net-steal-real-g
+- Forged "proof of payment" (MT103): https://ohmyfin.org/scam-alert
+- Free-sample scams: https://www.exportbureau.com/export_fraud.html
+- EXW vs FCA: https://academy.iccwbo.org/incoterms/article/incoterms-2020-exw-or-fca/
+- Payment in advance: https://www.trade.gov/cash-advance
+- EU VAT number check (VIES): https://ec.europa.eu/taxation_customs/vies/
+- Report fraud in France: https://www.cybermalveillance.gouv.fr/tous-nos-contenus/17cyber-mon-assistance-en-ligne
+- Competitor listing on Destockplus: https://www.destockplus.com/acheter/c-911305-carrelage-dalles-pierre-d-egypte.html
