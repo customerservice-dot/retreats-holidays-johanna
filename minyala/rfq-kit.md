@@ -83,7 +83,30 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 
 ---
 
-## 3. Which RFQs to answer first
+## 3. Your seller listing (paste into StoneContact or any B2B marketplace)
+
+**Company name**: Pierre d'Égypte (Pierre et retraites)
+
+**Company profile — short (≈ 150 characters)**
+> French stockist of Egyptian natural limestone. Ready stock in Paris area (Gennevilliers): MINYALA cream limestone tiles 30×60×2 cm. EXW / FCA.
+
+**Company profile — long**
+> Pierre d'Égypte (Pierre et retraites, France) selects and sells natural stone from Egypt for private clients, architects, landscapers and contractors. We hold ready stock in Gennevilliers, near Paris, so European buyers avoid sea-freight lead times. Our current stock is MINYALA, a cream limestone with golden veining in 30×60×2 cm tiles. Collection by appointment (Mon–Fri), delivery in France on quotation from 100 m², export EXW/FCA with your forwarder. Contact: info@pierredegypte.online · WhatsApp +33 7 58 50 41 73.
+
+**Product title** (keep the key words at the start)
+> Egyptian Cream Limestone Tiles 30x60x2 cm — MINYALA — Stock in France
+
+**Product description**
+> MINYALA is a natural limestone from Egypt, cream / light beige with golden veining, in 30 × 60 cm tiles, 2 cm (20 mm) thick, [finish]. Ready stock: [m²] m² in Gennevilliers (Paris area), France. Minimum order 25 m². Price on request for trade quantities (list price €35/m² EXW). Suitable, depending on finish and laying, for interior floors, terraces, garden paths, pool surrounds and hospitality projects. Real photos and video of the stock available.
+
+**Keywords / tags**
+> limestone, Egyptian limestone, cream limestone, beige limestone, limestone tiles, limestone flooring, limestone paving, 30x60 limestone, natural stone tiles, Egypt stone, stock France, stock Europe
+
+**Photos to upload**: real photos only — the crates / pallets, one tile in hand with a tape measure, close-up of the veining, a wet and a dry tile, and any finished project (with the client's consent). Do not upload the AI-generated image from the website.
+
+---
+
+## 4. Which RFQs to answer first
 
 1. **Product**: limestone or beige marble tiles; 30×60 or cut-to-size that 30×60 can cover; 2 cm.
 2. **Destination**: France and nearby EU countries first (collection or short truck delivery); far destinations only if the buyer handles freight.
@@ -93,7 +116,7 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 
 ---
 
-## 4. Safety checklist (B2B marketplaces attract fraud)
+## 5. Safety checklist (B2B marketplaces attract fraud)
 
 - **Never pay** a buyer, "agent" or platform-lookalike for inspection, certificates, registration or "verification" fees.
 - **Never log in** through a link in an email that says your account must be verified: open the marketplace yourself.
@@ -104,7 +127,7 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 
 ---
 
-## 5. Before quoting: decide these once
+## 6. Before quoting: decide these once
 
 | Decision | Your answer |
 |---|---|
