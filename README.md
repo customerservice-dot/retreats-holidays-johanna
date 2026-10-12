@@ -1,7 +1,7 @@
 # MINYALA stock sale — Pierre d'Égypte
 
 Materials for selling the MINYALA limestone stock on [pierredegypte.online](https://www.pierredegypte.online).
-All prices and terms match the live store (Oct 2026): €35/m² stone only, 25 m² minimum, 30% deposit option, pickup in Gennevilliers, delivery and installation quoted from 100 m².
+All public prices and terms match the live store (Oct 2026): €35/m² stone only, 25 m² minimum, 30% deposit option, delivery and installation quoted from 100 m². Pickup by appointment in Gennevilliers (92) or Vernon (27). Trade / clearance price for professionals: €27/m² incl. VAT (€22.50 excl. VAT), quoted by message and invoice, not through the website checkout. Stock: 500–2,000 m².
 
 ## What's in `minyala/`
 

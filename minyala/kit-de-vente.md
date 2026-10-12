@@ -1,7 +1,9 @@
 # Kit de vente — MINYALA en stock
 
 Textes prêts à copier-coller pour écouler le stock MINYALA.
-Tous les prix et conditions reprennent ceux du site (35 €/m², dès 25 m², acompte 30 %, retrait Gennevilliers, livraison et pose sur devis dès 100 m²).
+Tous les prix et conditions reprennent ceux du site : prix public 35 €/m², dès 25 m², acompte 30 %, retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous, livraison et pose sur devis dès 100 m².
+
+**Prix professionnel / déstockage : 27 €/m² TTC (22,50 € HT)**, réservé aux messages adressés aux professionnels (section 4). Il ne passe pas par la caisse du site, qui affiche le prix public : commande par message, devis et facture.
 
 **Liens à utiliser partout**
 
@@ -23,7 +25,7 @@ Tous les prix et conditions reprennent ceux du site (35 €/m², dès 25 m², ac
 
 Calcaire naturel d'Égypte, dalles 30×60×2 cm
 👉 35 €/m² pierre seule · dès 25 m²
-👉 Retrait à Gennevilliers sur rendez-vous
+👉 Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous
 👉 Livraison et pose sur devis dès 100 m²
 
 Idéal terrasse, abords de piscine, sol intérieur.
@@ -45,7 +47,7 @@ Pour une terrasse lumineuse, des abords de piscine ou un sol intérieur minéral
 ✔︎ 35 €/m² pierre seule
 ✔︎ Dès 25 m²
 ✔︎ Paiement comptant ou 30 % d'acompte
-✔︎ Retrait à Gennevilliers sur rendez-vous
+✔︎ Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous
 ✔︎ Livraison et pose sur devis dès 100 m²
 
 Lien en bio ou écrivez-nous en message : surface en m² + ville + usage.
@@ -57,7 +59,7 @@ Lien en bio ou écrivez-nous en message : surface en m² + ville + usage.
 
 1. Photo du lot réel — texte : « MINYALA · EN STOCK »
 2. Photo d'une dalle en gros plan — texte : « Calcaire naturel d'Égypte · 30×60×2 cm · 35 €/m² »
-3. Texte : « Dès 25 m² · Retrait Gennevilliers » + sticker lien vers la fiche produit
+3. Texte : « Dès 25 m² · Retrait Gennevilliers ou Vernon » + sticker lien vers la fiche produit
 
 ## 3. Leboncoin (compte Pro)
 
@@ -78,7 +80,7 @@ MINYALA — calcaire naturel d'Égypte, EN STOCK.
 
 Usages : terrasse, patio, allée, abords de piscine (selon finition et pose), sol intérieur, commerces.
 
-Retrait à Gennevilliers sur rendez-vous. Prévoir un véhicule adapté : environ 50 kg/m².
+Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous. Prévoir un véhicule adapté : environ 50 kg/m².
 Livraison et pose possibles sur devis à partir de 100 m².
 
 Paiement sécurisé en ligne (CB, PayPal, Apple Pay, Klarna…) ou réservation avec 30 % d'acompte.
@@ -90,22 +92,22 @@ Envoyez-moi : surface en m² + ville + usage, je vous réponds rapidement.
 
 À envoyer aux paysagistes, piscinistes, carreleurs, architectes d'intérieur et négociants d'Île-de-France et de Normandie.
 
-**Objet :** `Calcaire d'Égypte MINYALA disponible en stock — 35 €/m²`
+**Objet :** `Calcaire d'Égypte MINYALA en stock — prix pro 22,50 € HT/m²`
 
 ```
 Bonjour,
 
-Nous avons actuellement en stock MINYALA, un calcaire naturel d'Égypte en dalles 30×60×2 cm, à 35 €/m² (pierre seule).
+Nous avons actuellement en stock plus de 500 m² de MINYALA, un calcaire naturel d'Égypte en dalles 30×60×2 cm, au prix professionnel de 22,50 € HT/m² (27 € TTC), pierre seule.
 
 C'est une pierre claire aux veines dorées, adaptée aux terrasses, patios, allées, abords de piscine (selon finition et pose) et sols intérieurs.
 
-• Disponible au retrait à Gennevilliers sur rendez-vous
+• Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous
 • Livraison et pose sur devis à partir de 100 m²
 • Commande dès 25 m², paiement comptant ou 30 % d'acompte
 
 Si vous avez un chantier en cours ou à venir, envoyez-nous simplement la surface, la ville et l'usage : nous vous faisons un devis rapidement.
 
-Fiche produit : https://www.pierredegypte.online/products/minyala-pierre-naturelle-egypte
+Fiche produit (le prix affiché sur le site est le prix public) : https://www.pierredegypte.online/products/minyala-pierre-naturelle-egypte
 WhatsApp : https://wa.me/33758504173
 
 Bien cordialement,
@@ -130,6 +132,7 @@ Longueurs vérifiées : titres ≤ 30 caractères, descriptions ≤ 90 caractèr
 | Réservez avec 30 % d'acompte | 28 |
 | Pierre d'Égypte authentique | 27 |
 | Retrait Gennevilliers | 21 |
+| Retrait Vernon (Eure) | 21 |
 | Calcaire naturel 30×60 | 22 |
 | Devis rapide WhatsApp | 21 |
 
@@ -138,7 +141,7 @@ Longueurs vérifiées : titres ≤ 30 caractères, descriptions ≤ 90 caractèr
 | Description | Caractères |
 |---|---|
 | Calcaire naturel d'Égypte en stock à 35 €/m². Dalles 30×60×2 cm, dès 25 m². | 75 |
-| Terrasse, piscine, sol intérieur. Retrait à Gennevilliers sur rendez-vous. | 74 |
+| Terrasse, piscine, sol intérieur. Retrait Gennevilliers ou Vernon sur rendez-vous. | 82 |
 | Payez en ligne ou réservez avec 30 % d'acompte. Livraison et pose dès 100 m². | 77 |
 | Pierre naturelle, pas une imitation. Devis rapide sur WhatsApp : m² + ville + usage. | 84 |
 

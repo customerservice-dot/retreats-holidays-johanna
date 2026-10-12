@@ -33,6 +33,8 @@ Constats du 12/10/2026 sur pierredegypte.online :
 | Image de partage = logo | Préférences de la boutique | Mettre une vraie photo de terrasse MINYALA (c'est l'image qui s'affiche quand on partage le lien sur Facebook ou WhatsApp). |
 | « Acompte 30 % seulement » alors que SINAI SAND est à 75 % | Accueil | Écrire « Acompte 30 % sur MINYALA ». |
 | Photos produit générées par IA (nom de fichier « ChatGPT_Image… ») | Fiche MINYALA | Photos et courtes vidéos du **vrai stock** : palette, dalle à la main, mètre ruban, lumière du jour, dalle mouillée. |
+| Le **point de retrait de Vernon (27)** n'apparaît nulle part | Livraison & Retrait, fiche produit | Ajouter l'adresse et les horaires de Vernon. |
+| Le **prix pro / déstockage (27 € TTC)** n'existe pas sur le site | Fiche produit, page Professionnels | Ajouter « Tarif professionnel sur demande » ; les commandes pro se font par message et facture, pas par la caisse à 35 €. |
 | Aucun lien vers les réseaux sociaux | Pied de page, À propos, Contact | Ajouter Facebook et Instagram une fois créés. |
 
 > Les textes juridiques (CGV, mentions légales, confidentialité) doivent être relus par un professionnel ; ce plan indique seulement ce qui manque.
@@ -46,9 +48,9 @@ Constats du 12/10/2026 sur pierredegypte.online :
 3. **Portefeuille business Meta** (business.facebook.com) au nom de Pierre et retraites. Le compte Facebook du gérant doit avoir le **contrôle total** du portefeuille et de la Page.
 4. **Page Facebook « Pierre d'Égypte »** :
    - Catégorie : fournisseur de matériaux de construction (ou la plus proche proposée).
-   - Adresse de retrait : 51 Route Principale du Port, Bâtiment G1 – Cellule 5, 92230 Gennevilliers. Horaires : lundi–vendredi 9h30–12h et 13h–15h, **sur rendez-vous**.
+   - Adresses de retrait : 51 Route Principale du Port, Bâtiment G1 – Cellule 5, 92230 Gennevilliers (lundi–vendredi 9h30–12h et 13h–15h) et **Vernon (27) [adresse à compléter]**, **sur rendez-vous**.
    - Présentation (à coller) :
-     > Pierre naturelle d'Égypte pour terrasses, abords de piscine et sols. MINYALA, calcaire 30×60×2 cm, en stock à Gennevilliers : 35 €/m² pierre seule, dès 25 m². Livraison et pose sur devis dès 100 m².
+     > Pierre naturelle d'Égypte pour terrasses, abords de piscine et sols. MINYALA, calcaire 30×60×2 cm, en stock à Gennevilliers (92) et Vernon (27) : 35 €/m² pierre seule, dès 25 m². Professionnels : tarif sur demande. Livraison et pose sur devis dès 100 m².
 5. **Relier WhatsApp** : Page > Paramètres > Comptes liés > WhatsApp > numéro +33 7 58 50 41 73 > code de vérification. Puis ajouter le bouton « Envoyer un message WhatsApp » sur la Page.
 6. **Instagram** : passer le compte en **professionnel « Entreprise »** (Paramètres > Type de compte et outils), le relier à la Page (Modifier le profil > Page), et le placer dans le **même portefeuille business**.
 7. **Vérifier le domaine** pierredegypte.online dans le portefeuille business.
@@ -81,7 +83,7 @@ Constats du 12/10/2026 sur pierredegypte.online :
 | # | Campagne | Objectif Meta | Zone | Textes | Visuels | Budget de test |
 |---|---|---|---|---|---|---|
 | 1 | **WhatsApp Île-de-France** | Prospects (ou Interactions) → lieu de conversion : **WhatsApp** | Rayon ~30 km autour de Gennevilliers | A, B | 4:5 + 9:16 | 10–15 €/jour pendant 7 jours |
-| 2 | **Demande de prix Normandie** | Prospects → **formulaire instantané** (section 5) | Villes : Rouen, Le Havre, Caen, Évreux, Deauville (sans rayon) | E, D | 4:5 + 1:1 | 10–15 €/jour pendant 7 jours |
+| 2 | **Demande de prix Normandie** | Prospects → **formulaire instantané** (section 5) | Rayon ~40 km autour de **Vernon** (retrait sur place) ; 2e ensemble : Rouen, Le Havre, Caen, Évreux, Deauville (sans rayon) | E, D | 4:5 + 1:1 | 10–15 €/jour pendant 7 jours |
 | 3 | **Reciblage** (après 2–3 semaines de pixel) | Ventes ou Trafic → site | Visiteurs du site des 30 derniers jours | C | 1:1 | 5–10 €/jour |
 
 Meta n'impose pas de budget minimum fixe : Ads Manager affiche une alerte si le montant est trop bas. Après 7 jours, garder ce qui coûte le moins par conversation WhatsApp ou par formulaire, et couper le reste.
@@ -94,7 +96,7 @@ Meta n'impose pas de budget minimum fixe : Ads Manager affiche une alerte si le 
 | B | Plage de piscine en pierre naturelle ? MINYALA, calcaire crème veiné d'or 30×60×2 cm, en stock à 35 €/m². Votre surface sur WhatsApp. | 133 | Plage de piscine en pierre | 26 |
 | C | Calcaire naturel d'Égypte MINYALA en stock : 35 €/m², dès 25 m². Payez en ligne ou réservez avec 30 % d'acompte. Retrait à Gennevilliers. | 137 | MINYALA en stock · 35 €/m² | 26 |
 | D | Terrasse, allée ou sol en pierre naturelle ? Indiquez votre surface et votre ville : nous vous envoyons votre prix MINYALA (35 €/m², dès 25 m²). | 144 | Demandez votre prix | 19 |
-| E | Normandie : MINYALA, calcaire naturel d'Égypte 30×60×2 cm, en stock à 35 €/m². Livraison et pose sur devis dès 100 m². Écrivez-nous. | 132 | Pierre naturelle 35 €/m² | 24 |
+| E | Normandie : MINYALA, calcaire naturel d'Égypte 30×60×2 cm, en stock à Vernon (27), 35 €/m² dès 25 m². Livraison et pose sur devis dès 100 m². | 141 | Retrait Vernon : 35 €/m² | 24 |
 
 Message WhatsApp pré-rempli : « Bonjour, je souhaite un prix pour MINYALA. Surface : … m². Ville : … Retrait ou livraison : … »
 
@@ -142,8 +144,13 @@ Liste et suivi dans `prospects-minyala.xlsx`, onglet **Groupes Facebook** (20 gr
 **Message à l'admin** :
 > Bonjour, je suis Pierre d'Égypte, fournisseur de pierre naturelle à Gennevilliers. Serait-il possible de publier une seule annonce pour notre calcaire MINYALA en stock (35 €/m²) ? Je respecterai le jour et le format que vous indiquez. Merci !
 
-**Publication** (après accord) :
-> 🟢 MINYALA en stock — calcaire naturel d'Égypte, dalles 30×60×2 cm, 35 €/m² (dès 25 m²). Idéal terrasse, allée, abords de piscine, sol intérieur. Retrait à Gennevilliers sur rendez-vous. Commentez ou écrivez-nous en privé pour un prix selon votre surface.
+**Publication — groupes de ville et particuliers** (prix public, le même que sur le site) :
+> 🟢 MINYALA en stock — calcaire naturel d'Égypte, dalles 30×60×2 cm, 35 €/m² (dès 25 m²). Idéal terrasse, allée, abords de piscine, sol intérieur. Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous. Commentez ou écrivez-nous en privé pour un prix selon votre surface.
+
+**Publication — groupes de professionnels** (VendezVosMateriaux.fr, LES PRO DU BÂTIMENT, artisans) — prix pro / déstockage :
+> 🟢 Déstockage pro — MINYALA, calcaire naturel d'Égypte 30×60×2 cm, plus de 500 m² en stock à Gennevilliers (92) et Vernon (27). **27 €/m² TTC (22,50 € HT)**, pierre seule, retrait sur rendez-vous. Réservé aux [professionnels / commandes dès X m²]. Commande par message, devis et facture. Photos réelles des palettes sur demande.
+
+> **Attention à la cohérence des prix.** Le site affiche 35 €/m² (prix public). Un particulier qui voit 27 € dans un groupe public puis 35 € à la caisse se sentira trompé. Indiquez toujours à qui s'adresse le prix pro, et ne le faites pas passer par la caisse du site. Pour l'annonce déjà en attente dans VendezVosMateriaux.fr : une fois validée, ajoutez en commentaire « Prix pro / gros volume. Particuliers : 35 €/m² sur pierredegypte.online ».
 
 **Normandie** : plutôt que groupe par groupe, demander à l'administrateur du réseau « Tu sais que tu viens de… » (~50 groupes) s'il propose une offre commerçant.
 
