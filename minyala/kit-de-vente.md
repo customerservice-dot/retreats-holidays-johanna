@@ -83,7 +83,7 @@ MINYALA — calcaire naturel d'Égypte, EN STOCK.
 • Environ 5,6 dalles par m² (25 m² ≈ 139 dalles)
 • Teinte claire, variations naturelles, pierre naturelle (pas une imitation)
 
-Usages : terrasse, patio, allée, abords de piscine (selon finition et pose), sol intérieur, commerces.
+Usages, selon finition et pose : terrasse, patio, allée, abords de piscine ; sol intérieur, commerces.
 
 Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous. Prévoir un véhicule adapté : environ 50 kg/m².
 Livraison et pose possibles sur devis à partir de 100 m².

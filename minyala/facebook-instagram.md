@@ -95,7 +95,7 @@ Meta n'impose pas de budget minimum fixe : Ads Manager affiche une alerte si le 
 | A | MINYALA en stock : calcaire naturel d'Égypte 30×60×2 cm, 35 €/m² pierre seule, dès 25 m². Retrait à Gennevilliers. Votre surface sur WhatsApp. | 142 | Pierre seule : 35 €/m² | 22 |
 | B | Calcaire naturel d'Égypte MINYALA 30×60×2 cm, en stock à 35 €/m² pierre seule. Projet piscine ? Selon finition et pose : demandez sur WhatsApp. | 143 | Calcaire d'Égypte 35 €/m² | 25 |
 | C | Calcaire naturel d'Égypte MINYALA en stock : 35 €/m² pierre seule, dès 25 m². En ligne ou acompte de 30 %. Retrait Gennevilliers ou Vernon. | 139 | MINYALA en stock · 35 €/m² | 26 |
-| D | Terrasse, allée ou sol en pierre naturelle ? Indiquez votre surface et votre ville : nous vous envoyons votre prix MINYALA (35 €/m² pierre seule). | 146 | Demandez votre prix | 19 |
+| D | Sol ou terrasse en pierre naturelle, selon finition et pose ? Surface + ville : nous vous envoyons votre prix MINYALA (35 €/m² pierre seule). | 141 | Demandez votre prix | 19 |
 | E | Normandie : MINYALA, calcaire d'Égypte 30×60×2 cm, 35 €/m² pierre seule dès 25 m². Retrait à Vernon (27) sur RDV, livraison et pose sur devis. | 142 | Retrait Vernon : 35 €/m² | 24 |
 
 Message WhatsApp pré-rempli : « Bonjour, je souhaite un prix pour MINYALA. Surface : … m². Ville : … Retrait ou livraison : … »
@@ -150,7 +150,9 @@ Liste et suivi dans `prospects-minyala.xlsx`, onglet **Groupes Facebook** (22 gr
 **Publication — groupes de ville et groupes mixtes** (particuliers et pros, dont VendezVosMateriaux.fr) — prix public, le même que sur le site :
 > 🟢 MINYALA en stock — calcaire naturel d'Égypte, dalles 30×60×2 cm, 35 €/m² pierre seule (dès 25 m²). Pour sol intérieur, terrasse, allée ou abords de piscine, selon finition et pose. Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous. Professionnels et gros volumes : tarif sur demande (devis et facture). Écrivez-nous en privé pour un prix selon votre surface.
 
-**Publication — groupes réservés aux professionnels** (Artisans et Auto-entrepreneurs ; dans LES PRO DU BÂTIMENT une annonce existe déjà : ne pas republier, répondre seulement) — prix pro / déstockage. **À compléter avant publication** (qui a droit au prix pro) :
+**Publication — groupes réservés aux professionnels** (Artisans et Auto-entrepreneurs ; dans LES PRO DU BÂTIMENT une annonce existe déjà : ne pas republier) — prix pro / déstockage.
+
+> **Avant tout prix pro dans un groupe, vérifiez qu'il est réservé aux pros** : groupe privé, questions d'entrée qui filtrent les professionnels. Ouvrez aussi l'annonce déjà publiée dans LES PRO DU BÂTIMENT et regardez quel prix elle affiche. Si le groupe est public ou ouvert aux particuliers, modifiez l'annonce (ou supprimez-la) et utilisez le texte « groupes mixtes » ci-dessus. Notez le résultat dans l'onglet Groupes Facebook. **À compléter avant publication** (qui a droit au prix pro) :
 > 🟢 Déstockage pro — MINYALA, calcaire naturel d'Égypte 30×60×2 cm, plus de 500 m² en stock à Gennevilliers (92) et Vernon (27). **27 €/m² TTC (22,50 € HT)**, pierre seule, retrait sur rendez-vous. Réservé aux [professionnels / commandes dès X m²]. Commande par message, devis et facture. Photos réelles des palettes sur demande.
 
 > **Annonce en attente dans VendezVosMateriaux.fr (groupe mixte, 46,5 K membres).** Elle affiche 27 €/m² TTC à des particuliers qui paieront 35 € sur le site. Demandez à l'admin de la **modifier ou la retirer avant validation**, puis republiez le texte « groupes mixtes » ci-dessus. Un commentaire ajouté après coup ne suffit pas.
