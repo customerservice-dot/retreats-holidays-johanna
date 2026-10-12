@@ -59,9 +59,11 @@ Lien en bio ou écrivez-nous en message : surface en m² + ville + usage.
 2. Photo d'une dalle en gros plan — texte : « Calcaire naturel d'Égypte · 30×60×2 cm · 35 €/m² »
 3. Texte : « Dès 25 m² · Retrait Gennevilliers » + sticker lien vers la fiche produit
 
-## 3. Leboncoin / Facebook Marketplace
+## 3. Leboncoin (compte Pro)
 
-**Catégorie :** Bricolage → Matériaux de construction
+> Une entreprise doit publier avec un **compte Pro** Leboncoin (gratuit, obligatoire). Ne publiez pas sur Facebook Marketplace : il est réservé aux ventes entre particuliers et Meta peut bloquer les vendeurs pros. Sur Facebook, utilisez une Page Pierre d'Égypte et les publicités Meta (voir `prospects-minyala.xlsx`, onglets Particuliers et Règles).
+
+**Catégorie :** Maison & Jardin → Bricolage (choisir au dépôt la sous-catégorie la plus proche)
 **Titre :** `Dalles pierre naturelle calcaire Égypte 30x60 - 35€/m²`
 **Prix :** 875 € (lot minimum 25 m²)
 

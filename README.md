@@ -9,7 +9,8 @@ All prices and terms match the live store (Oct 2026): €35/m² stone only, 25 m
 |---|---|---|
 | `index.html` | Standalone landing page in French, with an m² calculator (price, deposit, slab count, estimated weight). Its buttons go straight to Shopify checkout for the chosen surface. | Host it anywhere static (GitHub Pages, Netlify), then link it from ads, Instagram bio and WhatsApp. |
 | `shopify-description-produit.html` | Replacement description for the MINYALA product page. It leads with **EN STOCK** and adds a full-payment button alongside the deposit one. | Shopify admin → Products → MINYALA → Description → `<>` (HTML view) → paste. |
-| `kit-de-vente.md` | Ready-to-paste French copy: WhatsApp broadcast, Instagram/Facebook post and story, Leboncoin/Marketplace listing, email to trade buyers, Google Ads headlines and descriptions (length-checked). | Copy and paste. |
+| `kit-de-vente.md` | Ready-to-paste French copy: WhatsApp broadcast, Instagram/Facebook post and story, Leboncoin Pro listing, email to trade buyers, Google Ads headlines and descriptions (length-checked). | Copy and paste. |
+| `prospects-minyala.xlsx` | Prospect tracker: 111 verified trade buyers in Île-de-France and Normandy (resellers, showrooms, marble workshops, pool builders, landscapers, fitters, specifiers), where to reach private buyers (listings, forums, fairs, ads), B2B channels, and the French rules for contacting people. | Work through the yellow cells; the first tab counts contacts and m² sold. |
 
 ### Checkout links used
 
