@@ -236,17 +236,17 @@
         </div>
         <p class="price-note">Commande dès 25 m² (875 €). Paiement comptant ou réservation avec 30 % d'acompte.</p>
         <div class="cta-row">
-          <a class="btn btn-primary js-buy" href="https://www.pierredegypte.online/cart/53078996779274:25">Commander 25 m² — 875 €</a>
+          <a class="btn btn-primary js-buy" id="h-buy" href="https://www.pierredegypte.online/cart/53078996779274:25">Commander 25 m² — 875 €</a>
           <a class="btn btn-outline" href="#calculateur">Calculer ma surface</a>
         </div>
         <ul class="reassure">
           <li>Pierre naturelle, pas une imitation</li>
           <li>Paiement sécurisé</li>
-          <li>Accompagnement de A à Z</li>
+          <li>Conseil par WhatsApp</li>
         </ul>
       </div>
       <figure class="hero-img" style="margin:0">
-        <img src="https://cdn.shopify.com/s/files/1/0947/5457/0506/files/ChatGPT_Image_May_18_2026_11_00_02_PM.png?v=1779134619&width=1100" alt="Dalles de calcaire MINYALA, teinte crème aux veines dorées" width="1100" height="1100">
+        <img src="https://cdn.shopify.com/s/files/1/0947/5457/0506/files/ChatGPT_Image_May_18_2026_11_00_02_PM.png?v=1779134619&width=1100" alt="Visuel indicatif (image de synthèse) de dalles de calcaire clair" width="1100" height="1100">
         <figcaption>Visuel indicatif · pierre naturelle, nuances variables</figcaption>
       </figure>
     </div>
@@ -262,7 +262,7 @@
           <label class="field" for="m2">Surface à couvrir</label>
           <div class="qty">
             <button type="button" id="minus" aria-label="Retirer 1 m²">−</button>
-            <input id="m2" type="number" inputmode="numeric" min="25" step="1" value="25" aria-describedby="m2-hint">
+            <input id="m2" type="number" inputmode="numeric" min="25" max="2000" step="1" value="25" aria-describedby="m2-hint">
             <span class="unit">m²</span>
             <button type="button" id="plus" aria-label="Ajouter 1 m²">+</button>
           </div>
@@ -293,7 +293,7 @@
             <a class="btn btn-outline" id="a-dep" href="https://www.pierredegypte.online/cart/53073670603018:25">Réserver avec l'acompte — 262,50 €</a>
             <a class="btn btn-wa js-wa" id="a-wa" href="https://wa.me/33758504173">Une question ? WhatsApp</a>
           </div>
-          <p class="delivery-note" id="o-deliv">Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous. Prévoir un véhicule adapté au poids.</p>
+          <p class="delivery-note" id="o-deliv">Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous (pour Vernon, indiquez-le en note de commande). Prévoir un véhicule adapté au poids.</p>
         </div>
       </div>
     </div>
@@ -302,7 +302,7 @@
   <!-- Uses -->
   <section>
     <div class="wrap">
-      <h2>Une pierre claire, pour l'intérieur comme l'extérieur</h2>
+      <h2>Une pierre claire, en intérieur et en extérieur selon finition et pose</h2>
       <p class="lead">MINYALA est recherché pour son aspect clair et minéral. Chaque dalle porte ses propres variations naturelles.</p>
       <div class="grid-3">
         <div class="use"><h3>Terrasse &amp; patio</h3><p>Rénovation extérieure, cour, allée et jardin.</p></div>
@@ -350,7 +350,7 @@
       <div class="pro">
         <div>
           <h2>Professionnels &amp; grandes surfaces</h2>
-          <p>Paysagistes, piscinistes, architectes, carreleurs, négociants : envoyez la surface en m², la ville et l'usage pour recevoir un devis avec livraison et pose.</p>
+          <p>Paysagistes, piscinistes, architectes, carreleurs, négociants et gros volumes : tarif professionnel sur demande, par devis et facture (pas par le paiement en ligne). Envoyez la surface en m², la ville et l'usage. Livraison et pose sur devis dès 100 m².</p>
         </div>
         <div class="cta-row">
           <a class="btn btn-wa js-wa-pro" href="https://wa.me/33758504173">Demander un devis</a>
@@ -396,8 +396,9 @@
 
 <footer>
   <div class="wrap">
-    <span>© Pierre et retraites · SIREN 985 289 065</span>
-    <a href="https://www.pierredegypte.online">pierredegypte.online</a>
+    <span>© Pierre et retraites · SIREN 985 289 065 · <a href="mailto:info@pierredegypte.online">info@pierredegypte.online</a></span>
+    <span><a href="https://www.pierredegypte.online/policies/terms-of-service">Conditions de vente</a> · <a href="https://www.pierredegypte.online/policies/refund-policy">Rétractation et retours</a> · <a href="https://www.pierredegypte.online/policies/privacy-policy">Confidentialité</a></span>
+    <span>Particuliers : droit de rétractation de 14 jours (voir conditions de vente).</span>
   </div>
 </footer>
 
@@ -411,7 +412,7 @@
   var SHOP = "https://www.pierredegypte.online";
   var VARIANT_FULL = "53078996779274";    // MINYALA — pierre seule, 35 €/m²
   var VARIANT_DEPOSIT = "53073670603018"; // Acompte MINYALA 30 %, 10,50 €/m²
-  var PRICE = 35, DEPOSIT = 10.5, MIN = 25;
+  var PRICE = 35, DEPOSIT = 10.5, MIN = 25, MAX = 2000;  // MAX = stock maximum (500–2 000 m²)
   var SLAB_M2 = 0.18, KG_PER_M2 = 50;     // 30×60 cm ; calcaire 2 cm ≈ 50 kg/m² (estimation)
   var WA = "https://wa.me/33758504173";
 
@@ -427,17 +428,20 @@
 
   function surface() {
     var v = Math.floor(Number(input.value));
-    return isFinite(v) && v > 0 ? v : MIN;
+    return isFinite(v) && v > 0 ? Math.min(v, MAX) : MIN;
   }
 
   function update() {
     var raw = surface();
     var tooSmall = raw < MIN;
     var base = Math.max(raw, MIN);
-    var qty = waste.checked ? Math.ceil(base * 1.1) : base;
+    var qty = waste.checked ? Math.min(MAX, Math.ceil(base * 11 / 10)) : base;  // integer maths: base * 1.1 rounds 100 up to 111
 
-    hint.textContent = tooSmall ? "Minimum de commande : 25 m². Calcul fait sur 25 m²." : "Minimum de commande : 25 m².";
-    hint.classList.toggle("warn", tooSmall);
+    var tooBig = Math.floor(Number(input.value)) > MAX;
+    hint.textContent = tooSmall ? "Minimum de commande : 25 m². Calcul fait sur 25 m²."
+      : tooBig ? "Au-delà de 2 000 m², contactez-nous pour un devis. Calcul fait sur 2 000 m²."
+      : "Minimum de commande : 25 m².";
+    hint.classList.toggle("warn", tooSmall || tooBig);
 
     var total = qty * PRICE, dep = qty * DEPOSIT, kg = qty * KG_PER_M2;
     document.getElementById("o-qty").textContent = qty + " m²" + (waste.checked ? " (dont coupes)" : "");
@@ -449,6 +453,7 @@
 
     var buy = SHOP + "/cart/" + VARIANT_FULL + ":" + qty;
     document.getElementById("a-buy").textContent = "Payer " + eur.format(total) + " et commander";
+    document.getElementById("h-buy").textContent = "Commander " + qty + " m² — " + eur.format(total);
     document.getElementById("a-dep").href = SHOP + "/cart/" + VARIANT_DEPOSIT + ":" + qty;
     document.getElementById("a-dep").textContent = "Réserver avec l'acompte — " + eur.format(dep);
     document.querySelectorAll(".js-buy").forEach(function (a) { a.href = buy; });
@@ -457,8 +462,8 @@
     document.querySelectorAll(".js-wa").forEach(function (a) { a.href = waLink(msg); });
 
     document.getElementById("o-deliv").innerHTML = qty >= 100
-      ? "<strong>Livraison et pose possibles sur devis</strong> à partir de 100 m². Retrait à Gennevilliers ou Vernon également possible."
-      : "Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous. Prévoir un véhicule adapté au poids.";
+      ? "<strong>Livraison et pose possibles sur devis</strong> à partir de 100 m². Retrait à Gennevilliers ou Vernon également possible. Professionnel ou gros volume : demandez le tarif pro sur WhatsApp."
+      : "Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous (pour Vernon, indiquez-le en note de commande). Prévoir un véhicule adapté au poids.";
 
     document.querySelectorAll(".presets button").forEach(function (b) {
       b.setAttribute("aria-pressed", Number(b.dataset.m2) === base ? "true" : "false");

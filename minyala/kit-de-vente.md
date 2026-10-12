@@ -1,11 +1,13 @@
 # Kit de vente — MINYALA en stock
 
 Textes prêts à copier-coller pour écouler le stock MINYALA.
-Tous les prix et conditions reprennent ceux du site : prix public 35 €/m², dès 25 m², acompte 30 %, retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous, livraison et pose sur devis dès 100 m².
+Tous les prix reprennent ceux du site : prix public 35 €/m² pierre seule, dès 25 m², acompte 30 %, livraison et pose sur devis dès 100 m². Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous — Vernon reste à ajouter sur le site.
+
+> **Avant d'envoyer des particuliers vers le paiement en ligne** : corriger les conditions de vente, la politique de retour, les mentions légales et la politique de confidentialité du site (voir README et facebook-instagram.md, section 1).
 
 **Prix professionnel / déstockage : 27 €/m² TTC (22,50 € HT)**, réservé aux messages adressés aux professionnels (section 4). Il ne passe pas par la caisse du site, qui affiche le prix public : commande par message, devis et facture.
 
-**Liens à utiliser partout**
+**Liens pour les particuliers (prix public 35 €/m²) — ne pas envoyer aux professionnels**
 
 | Usage | Lien |
 |---|---|
@@ -18,7 +20,9 @@ Tous les prix et conditions reprennent ceux du site : prix public 35 €/m², d�
 
 ---
 
-## 1. WhatsApp — message de diffusion / statut
+## 1. WhatsApp — statut, ou diffusion aux seuls contacts qui ont accepté
+
+> Diffusion uniquement aux particuliers qui ont répondu oui à « Voulez-vous recevoir nos offres sur WhatsApp ? », ou aux professionnels pour leur métier. Sans cet accord : publiez-le en **statut** seulement.
 
 ```
 🟢 MINYALA EN STOCK
@@ -28,12 +32,13 @@ Calcaire naturel d'Égypte, dalles 30×60×2 cm
 👉 Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous
 👉 Livraison et pose sur devis dès 100 m²
 
-Idéal terrasse, abords de piscine, sol intérieur.
+Pour sol intérieur, terrasse ou abords de piscine, selon finition et pose.
 
 Commander 25 m² (875 €) : https://www.pierredegypte.online/cart/53078996779274:25
 Ou réserver avec 30 % d'acompte (262,50 €) : https://www.pierredegypte.online/cart/53073670603018:25
 
 Répondez avec votre surface en m² + ville + usage pour un devis.
+Répondez STOP pour ne plus recevoir nos messages.
 ```
 
 ## 2. Instagram / Facebook — publication
@@ -41,8 +46,8 @@ Répondez avec votre surface en m² + ville + usage pour un devis.
 ```
 MINYALA est en stock. 🤍
 
-Un calcaire naturel d'Égypte, teinte claire aux veines dorées, en dalles 30×60×2 cm.
-Pour une terrasse lumineuse, des abords de piscine ou un sol intérieur minéral.
+Un calcaire naturel d'Égypte, teinte claire, en dalles 30×60×2 cm.
+Pour un sol intérieur minéral, une terrasse ou des abords de piscine, selon finition et pose.
 
 ✔︎ 35 €/m² pierre seule
 ✔︎ Dès 25 m²
@@ -58,7 +63,7 @@ Lien en bio ou écrivez-nous en message : surface en m² + ville + usage.
 **Story (3 écrans)**
 
 1. Photo du lot réel — texte : « MINYALA · EN STOCK »
-2. Photo d'une dalle en gros plan — texte : « Calcaire naturel d'Égypte · 30×60×2 cm · 35 €/m² »
+2. Photo d'une dalle en gros plan — texte : « Calcaire naturel d'Égypte · 30×60×2 cm · 35 €/m² pierre seule »
 3. Texte : « Dès 25 m² · Retrait Gennevilliers ou Vernon » + sticker lien vers la fiche produit
 
 ## 3. Leboncoin (compte Pro)
@@ -66,7 +71,7 @@ Lien en bio ou écrivez-nous en message : surface en m² + ville + usage.
 > Une entreprise doit publier avec un **compte Pro** Leboncoin (gratuit, obligatoire). Ne publiez pas sur Facebook Marketplace : il est réservé aux ventes entre particuliers et Meta peut bloquer les vendeurs pros. Sur Facebook, utilisez une Page Pierre d'Égypte et les publicités Meta (voir `prospects-minyala.xlsx`, onglets Particuliers et Règles).
 
 **Catégorie :** Maison & Jardin → Bricolage (choisir au dépôt la sous-catégorie la plus proche)
-**Titre :** `Dalles pierre naturelle calcaire Égypte 30x60 - 35€/m²`
+**Titre :** `Dalles calcaire naturel Égypte 30x60 - 35€/m² pierre seule`
 **Prix :** 875 € (lot minimum 25 m²)
 
 ```
@@ -76,7 +81,7 @@ MINYALA — calcaire naturel d'Égypte, EN STOCK.
 • Prix : 35 €/m² pierre seule
 • Commande minimum : 25 m² (875 €), puis au m² près
 • Environ 5,6 dalles par m² (25 m² ≈ 139 dalles)
-• Teinte claire, veines dorées, pierre naturelle (pas une imitation)
+• Teinte claire, variations naturelles, pierre naturelle (pas une imitation)
 
 Usages : terrasse, patio, allée, abords de piscine (selon finition et pose), sol intérieur, commerces.
 
@@ -99,20 +104,25 @@ Bonjour,
 
 Nous avons actuellement en stock plus de 500 m² de MINYALA, un calcaire naturel d'Égypte en dalles 30×60×2 cm, au prix professionnel de 22,50 € HT/m² (27 € TTC), pierre seule.
 
-C'est une pierre claire aux veines dorées, adaptée aux terrasses, patios, allées, abords de piscine (selon finition et pose) et sols intérieurs.
+C'est une pierre claire, pour sols intérieurs, terrasses, patios, allées et abords de piscine selon finition et pose (à valider sur chaque chantier).
 
 • Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous
 • Livraison et pose sur devis à partir de 100 m²
-• Commande dès 25 m², paiement comptant ou 30 % d'acompte
+• Commande dès 25 m² sur devis et facture (pas via le site) : paiement comptant, ou acompte de 30 % (8,10 € TTC/m², soit 202,50 € TTC pour 25 m²)
 
 Si vous avez un chantier en cours ou à venir, envoyez-nous simplement la surface, la ville et l'usage : nous vous faisons un devis rapidement.
 
 Fiche produit (le prix affiché sur le site est le prix public) : https://www.pierredegypte.online/products/minyala-pierre-naturelle-egypte
 WhatsApp : https://wa.me/33758504173
 
+Si vous ne souhaitez plus recevoir nos messages, répondez simplement STOP : nous vous retirerons de notre liste.
+
 Bien cordialement,
-Pierre d'Égypte
+Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065
+info@pierredegypte.online · WhatsApp 07 58 50 41 73
 ```
+
+> Au téléphone : présentez-vous (Pierre d'Égypte, Pierre et retraites), parlez uniquement de leur métier, et proposez de ne plus rappeler. Notez tout refus dans la colonne Notes du fichier de prospection.
 
 ## 5. Google Ads (annonce responsive)
 
@@ -128,7 +138,7 @@ Longueurs vérifiées : titres ≤ 30 caractères, descriptions ≤ 90 caractèr
 | Pierre naturelle claire | 23 |
 | Dès 25 m² · Gennevilliers | 25 |
 | Pierre pour terrasse | 20 |
-| Pierre abords de piscine | 24 |
+| Calcaire clair 30×60×2 cm | 25 |
 | Réservez avec 30 % d'acompte | 28 |
 | Pierre d'Égypte authentique | 27 |
 | Retrait Gennevilliers | 21 |
@@ -142,7 +152,7 @@ Longueurs vérifiées : titres ≤ 30 caractères, descriptions ≤ 90 caractèr
 |---|---|
 | Calcaire naturel d'Égypte en stock à 35 €/m². Dalles 30×60×2 cm, dès 25 m². | 75 |
 | Terrasse, piscine, sol intérieur. Retrait Gennevilliers ou Vernon sur rendez-vous. | 82 |
-| Payez en ligne ou réservez avec 30 % d'acompte. Livraison et pose dès 100 m². | 77 |
+| Payez en ligne ou réservez avec 30 % d'acompte. Livraison et pose sur devis dès 100 m². | 87 |
 | Pierre naturelle, pas une imitation. Devis rapide sur WhatsApp : m² + ville + usage. | 84 |
 
 **Mots-clés suggérés :** pierre naturelle terrasse, dalle calcaire 30x60, pierre calcaire extérieur, pierre blanche terrasse, dallage plage de piscine pierre, pierre d'Égypte, dallage pierre naturelle Île-de-France.
@@ -159,3 +169,5 @@ Ces options ne figurent dans aucun des textes ci-dessus. À activer seulement si
   `https://www.pierredegypte.online/cart/53078996779274:25?discount=VOTRECODE`
 - **Date limite** (« stock disponible jusqu'au … ») : n'utilisez une date que si elle est réelle.
 - **Quantité restante** (« plus que X m² ») : très efficace, mais seulement avec le chiffre exact du stock.
+- Toute réduction annoncée aux particuliers doit indiquer le **prix de référence** (prix le plus bas des 30 jours précédents).
+- **Jamais de code promo du site pour accorder le prix pro** (27 € TTC) : il passe uniquement par devis et facture.

@@ -10,7 +10,7 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 | | |
 |---|---|
 | **Product** | MINYALA — natural limestone from Egypt |
-| **Colour** | Cream / light beige with golden veining (natural variation between tiles) |
+| **Colour** | Cream / light beige, natural variation between tiles (**[describe from real photos]**) |
 | **Format** | 30 × 60 cm, thickness 2 cm (20 mm) |
 | **Finish** | **[honed / polished / tumbled / brushed — to confirm]** |
 | **Available quantity** | Between 500 and 2,000 m² ready stock — **[exact m²]** |
@@ -19,7 +19,7 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 | **Approx. weight** | ≈ 50 kg/m² (estimate for 2 cm limestone — **[confirm]**) |
 | **Price** | **Trade / clearance price: €22.50/m² excl. VAT (€27.00 incl. 20 % French VAT)**, stone only, ex-warehouse (EXW Gennevilliers or Vernon). Retail price on our website: €35/m². Larger lots: **[your price for 500+ m², if lower]** |
 | **Minimum order** | 25 m² |
-| **Delivery** | Collection at Gennevilliers or Vernon by appointment (Mon–Fri). Delivery in France quoted from 100 m². French buyers: EXW. Foreign buyers: **FCA** Gennevilliers / Vernon (you load the buyer's truck and handle export formalities; ICC recommends FCA over EXW for export) |
+| **Delivery** | Collection by appointment: Gennevilliers Mon–Fri 9:30–12:00 and 13:00–15:00; Vernon **[days / hours to confirm]**. Delivery in France quoted from 100 m². French buyers: EXW. Foreign buyers: **FCA** Gennevilliers / Vernon (you load the buyer's truck and handle export formalities; ICC recommends FCA over EXW for export) |
 | **Payment** | **[e.g. 30 % deposit to reserve, balance before collection — goods released only after full payment]** |
 | **Lead time** | Collection within **[x]** working days after payment |
 | **Samples / photos** | Real photos and video of the stock on request; sample **[available / not available]** |
@@ -41,7 +41,7 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 >
 > Thank you for your request for [stone / size / quantity from the RFQ].
 >
-> We hold ready stock in France (Paris area) of **MINYALA**, a natural Egyptian limestone, cream with golden veining, **30 × 60 × 2 cm**, [finish].
+> We hold ready stock in France (Gennevilliers, Paris area, and Vernon, Normandy) of **MINYALA**, a natural Egyptian limestone, cream / light beige, **30 × 60 × 2 cm**, [finish].
 >
 > - Available: [m²] m² (ready stock)
 > - Price: €22.50 per m² excl. VAT, EXW Gennevilliers or Vernon, France (stone only)
@@ -67,7 +67,7 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 >
 > Merci pour votre demande de [pierre / format / quantité].
 >
-> Nous avons en stock en France (Gennevilliers, 92, et Vernon, 27) **MINYALA**, calcaire naturel d'Égypte crème veiné d'or, **30 × 60 × 2 cm**, [finition].
+> Nous avons en stock en France (Gennevilliers, 92, et Vernon, 27) **MINYALA**, calcaire naturel d'Égypte de teinte crème, **30 × 60 × 2 cm**, [finition].
 >
 > - Disponible : [m²] m²
 > - Prix professionnel : 22,50 € HT/m² (27 € TTC), départ Gennevilliers ou Vernon (pierre seule)
@@ -91,18 +91,18 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 > French stockist of Egyptian natural limestone. Ready stock near Paris and in Normandy: MINYALA cream limestone tiles 30×60×2 cm. EXW / FCA.
 
 **Company profile — long**
-> Pierre d'Égypte (Pierre et retraites, France) selects and sells natural stone from Egypt for private clients, architects, landscapers and contractors. We hold ready stock in Gennevilliers (near Paris) and Vernon (Normandy), so European buyers avoid sea-freight lead times. Our current stock is MINYALA, a cream limestone with golden veining in 30×60×2 cm tiles. Collection by appointment (Mon–Fri) at either site, delivery in France on quotation from 100 m², export EXW/FCA with your forwarder. Contact: info@pierredegypte.online · WhatsApp +33 7 58 50 41 73.
+> Pierre d'Égypte (Pierre et retraites, France) selects and sells natural stone from Egypt for private clients, architects, landscapers and contractors. We hold ready stock in Gennevilliers (near Paris) and Vernon (Normandy), so European buyers avoid sea-freight lead times. Our current stock is MINYALA, a cream limestone in 30×60×2 cm tiles. Collection by appointment at either site (Gennevilliers Mon–Fri; Vernon hours to confirm), delivery in France on quotation from 100 m², export EXW/FCA with your forwarder. Contact: info@pierredegypte.online · WhatsApp +33 7 58 50 41 73.
 
 **Product title** (keep the key words at the start)
 > Egyptian Cream Limestone Tiles 30x60x2 cm — MINYALA — Stock in France
 
 **Product description**
-> MINYALA is a natural limestone from Egypt, cream / light beige with golden veining, in 30 × 60 cm tiles, 2 cm (20 mm) thick, [finish]. Ready stock: [m²] m² in Gennevilliers (Paris area) and Vernon (Normandy), France. Minimum order 25 m². Trade price €22.50/m² excl. VAT, EXW. Suitable, depending on finish and laying, for interior floors, terraces, garden paths, pool surrounds and hospitality projects. Real photos and video of the stock available.
+> MINYALA is a natural limestone from Egypt, cream / light beige, in 30 × 60 cm tiles, 2 cm (20 mm) thick, [finish]. Ready stock: [m²] m² in Gennevilliers (Paris area) and Vernon (Normandy), France. Minimum order 25 m². Trade price €22.50/m² excl. VAT, EXW. Suitable, depending on finish and laying, for interior floors, terraces, garden paths, pool surrounds and hospitality projects. Real photos and video of the stock available.
 
 **Keywords / tags**
 > limestone, Egyptian limestone, cream limestone, beige limestone, limestone tiles, limestone flooring, limestone paving, 30x60 limestone, natural stone tiles, Egypt stone, stock France, stock Europe
 
-> **If MINYALA is quarried in the Minya region**, also add the trade names buyers search for: *Sunny Menia, Sunny Minya, Menia limestone, Crema Menia, Egyptian beige marble*. Minya stone is listed as both "marble" and "limestone" on these sites. Do not use these names if the origin is different.
+> **If MINYALA is quarried in the Minya region**, also add the trade names buyers search for: *Sunny Menia, Sunny Minya, Menia limestone, Crema Menia*. **Always describe MINYALA as limestone, never as marble**, even when buyers search for "marble". Minya stone is listed as both "marble" and "limestone" on these sites. Do not use these names if the origin is different.
 
 **Photos to upload**: real photos only — the crates / pallets, one tile in hand with a tape measure, close-up of the veining, a wet and a dry tile, and any finished project (with the client's consent). Do not upload the AI-generated image from the website.
 
@@ -162,7 +162,7 @@ Checked 12/10/2026 from the platforms' public pages. Prices change: confirm befo
 | **Alibaba.com RFQ** | Yes | Paid seller membership required to quote | Swiss request for limestone floor tiles; expensive for one product. |
 | **TradeKey** | Yes | Most stone buyers accept quotes only from Premium members | Weak requests; skip. |
 | **Europages** | Buyers send RFQs to selected suppliers | Supplier "Request Hub", free trial offered | Good for being *found* by European buyers; create a free company page. |
-| **Destockplus** (France) | Clearance marketplace | Free standard listing (published within 72 h); paid plans from €29.16 excl. VAT/month | **List the 500–2,000 m² here.** A competitor sells "Pierre d'Égypte limestone" at €27/m² with a 160 m² minimum — your 25 m² minimum and Paris / Normandy stock are the edge. |
+| **Destockplus** (France) | Clearance marketplace | Free standard listing (published within 72 h); paid plans from €29.16 excl. VAT/month | **List the 500–2,000 m² here.** Enter the trade price as **€22.50 excl. VAT** (= €27 incl. VAT). A competitor lists "Pierre d'Égypte limestone" at €27/m² with a 160 m² minimum — check whether that is excl. or incl. VAT before comparing. Your 25 m² minimum and Paris / Normandy stock are the edge. |
 | Made-in-China | — | For Chinese exporters only | Not usable. |
 
 ---
