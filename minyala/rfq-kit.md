@@ -104,13 +104,13 @@ Fields in **[brackets]** are decisions or facts only you can fill in. Do not sen
 
 > **If MINYALA is quarried in the Minya region**, also add the trade names buyers search for: *Sunny Menia, Sunny Minya, Menia limestone, Crema Menia*. **Always describe MINYALA as limestone, never as marble**, even when buyers search for "marble". Minya stone is listed as both "marble" and "limestone" on these sites. Do not use these names if the origin is different.
 
-**Photos to upload**: real photos only — the crates / pallets, one tile in hand with a tape measure, close-up of the veining, a wet and a dry tile, and any finished project (with the client's consent). Do not upload the AI-generated image from the website.
+**Photos to upload**: real photos only — the crates / pallets, one tile in hand with a tape measure, close-up of the surface and its natural variation, a wet and a dry tile, and any finished project (with the client's consent). Do not upload the AI-generated image from the website.
 
 ---
 
 ## 4. Which RFQs to answer first
 
-1. **Product**: limestone or beige / cream marble tiles (incl. Sunny, Menia, Galala, Crema Marfil, Ataija, Jura, Dijon requests, offering MINYALA as an alternative); 30×60 or cut-to-size that 30×60 can cover; 2 cm. Skip requests for 3 cm+ pavers, slabs, mosaics or porcelain.
+1. **Product**: limestone or beige / cream marble tiles (incl. Sunny, Menia, Galala, Crema Marfil, Ataija, Jura, Dijon requests, offering MINYALA as an alternative); 30×60 or cut-to-size that 30×60 can cover; 2 cm. Skip requests for 3 cm+ pavers, mosaics or porcelain. Slab requests can be answered with tiles when location and quantity fit.
 2. **Destination**: France and nearby EU countries first (collection or short truck delivery); far destinations only if the buyer handles freight.
 3. **Quantity**: with 500–2,000 m² in stock, requests from about 100 m² up to 2,000 m² fit best. At ≈ 50 kg/m² (estimate), 2,000 m² is about 100 t, i.e. roughly 4 full trucks. Requests for several thousand m² usually expect quarry prices from the producing country — answer only if your price can compete.
 4. **Fresh**: posted in the last weeks; old RFQs are usually closed.

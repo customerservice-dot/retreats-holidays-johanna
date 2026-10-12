@@ -22,7 +22,7 @@ Tous les prix reprennent ceux du site : prix public 35 €/m² pierre seule, dè
 
 ## 1. WhatsApp — statut, ou diffusion aux seuls contacts qui ont accepté
 
-> Diffusion uniquement aux particuliers qui ont répondu oui à « Voulez-vous recevoir nos offres sur WhatsApp ? », ou aux professionnels pour leur métier. Sans cet accord : publiez-le en **statut** seulement.
+> Diffusion uniquement aux particuliers qui ont répondu oui à « Voulez-vous recevoir nos offres et arrivages sur WhatsApp ? Oui / Non ». Sans cet accord : publiez-le en **statut** seulement. **Jamais aux professionnels** (ce message porte le prix public et les liens de paiement) : pour eux, utilisez le message de la section 4 (prix pro sur devis), sur WhatsApp seulement s'ils ont accepté.
 
 ```
 🟢 MINYALA EN STOCK
@@ -133,16 +133,16 @@ Longueurs vérifiées : titres ≤ 30 caractères, descriptions ≤ 90 caractèr
 | Titre | Caractères |
 |---|---|
 | Pierre MINYALA en stock | 23 |
-| Calcaire d'Égypte 35 €/m² | 25 |
+| 35 €/m² pierre seule | 20 |
 | Dalles 30×60×2 cm | 17 |
 | Pierre naturelle claire | 23 |
 | Dès 25 m² · Gennevilliers | 25 |
-| Pierre pour terrasse | 20 |
+| Calcaire 30×60 en stock | 23 |
 | Calcaire clair 30×60×2 cm | 25 |
 | Réservez avec 30 % d'acompte | 28 |
 | Pierre d'Égypte authentique | 27 |
 | Retrait Gennevilliers | 21 |
-| Retrait Vernon (Eure) | 21 |
+| Retrait Vernon (Eure) — *à activer seulement quand l'adresse de Vernon est publiée et commandable* | 21 |
 | Calcaire naturel 30×60 | 22 |
 | Devis rapide WhatsApp | 21 |
 
@@ -150,12 +150,12 @@ Longueurs vérifiées : titres ≤ 30 caractères, descriptions ≤ 90 caractèr
 
 | Description | Caractères |
 |---|---|
-| Calcaire naturel d'Égypte en stock à 35 €/m². Dalles 30×60×2 cm, dès 25 m². | 75 |
-| Terrasse, piscine, sol intérieur. Retrait Gennevilliers ou Vernon sur rendez-vous. | 82 |
+| Calcaire naturel d'Égypte en stock à 35 €/m² pierre seule. Dalles 30×60×2 cm, dès 25 m². | 88 |
+| Sol intérieur, terrasse ou piscine selon finition et pose. Retrait sur rendez-vous. | 83 |
 | Payez en ligne ou réservez avec 30 % d'acompte. Livraison et pose sur devis dès 100 m². | 87 |
 | Pierre naturelle, pas une imitation. Devis rapide sur WhatsApp : m² + ville + usage. | 84 |
 
-**Mots-clés suggérés :** pierre naturelle terrasse, dalle calcaire 30x60, pierre calcaire extérieur, pierre blanche terrasse, dallage plage de piscine pierre, pierre d'Égypte, dallage pierre naturelle Île-de-France.
+**Mots-clés suggérés :** pierre naturelle terrasse, dalle calcaire 30x60, pierre calcaire extérieur, pierre beige terrasse, calcaire crème, pierre d'Égypte, dallage pierre naturelle Île-de-France.
 **Ciblage :** Île-de-France et Normandie (zone de retrait réaliste).
 
 ---

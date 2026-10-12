@@ -13,7 +13,7 @@ Aucune extraction (scraping) de données : on attire les acheteurs vers la Page,
 | Jour 1 | **Créer la Page Facebook, le compte Instagram pro et le portefeuille business**, relier WhatsApp (section 2) | Il n'existe aujourd'hui **aucune** Page ni compte Pierre d'Égypte. |
 | Jours 2–3 | **Brancher Shopify à Meta** + bannière cookies (section 3) | Le pixel Meta et les pubs passent par l'application officielle. |
 | Semaine 2 | **Pub « Écrivez-nous sur WhatsApp »** en Île-de-France + groupes Facebook (sections 4 et 6) | Le plus rapide pour obtenir des demandes de prix. |
-| Semaines 3–4 | **Formulaire de demande de prix** en Normandie, reciblage des visiteurs du site, avis clients (sections 1, 4, 5, 7) | Contacts qu'on a le droit de rappeler, et preuve sociale. |
+| Semaines 3–4 | **Formulaire de demande de prix** en Normandie (le volet Vernon seulement quand son adresse est publiée et commandable), reciblage des visiteurs du site, avis clients (sections 1, 4, 5, 7) | Contacts qu'on a le droit de rappeler, et preuve sociale. |
 
 ---
 
@@ -131,7 +131,7 @@ Message WhatsApp pré-rempli : « Bonjour, je souhaite un prix pour MINYALA. Sur
 - Répondre à la demande de prix rapidement : c'est la suite normale de la demande. Pour toute relance commerciale ultérieure, il faut la case cochée (e-mail ou appel).
 - Ne jamais vendre ni transmettre le fichier.
 
-**WhatsApp** : répondre librement dans les **24 h** qui suivent chaque message du client. Pas de promotion WhatsApp ni de liste de diffusion sans accord explicite (« Voulez-vous recevoir nos arrivages sur WhatsApp ? Oui / Non »).
+**WhatsApp** : répondre librement dans les **24 h** qui suivent chaque message du client. Pas de promotion WhatsApp ni de liste de diffusion sans accord explicite (« Voulez-vous recevoir nos offres et arrivages sur WhatsApp ? Oui / Non »).
 
 ---
 
@@ -144,10 +144,13 @@ Liste et suivi dans `prospects-minyala.xlsx`, onglet **Groupes Facebook** (22 gr
 **Message à l'admin** :
 > Bonjour, je suis Pierre d'Égypte, fournisseur de pierre naturelle avec retrait à Gennevilliers (92) et Vernon (27). Serait-il possible de publier une seule annonce pour notre calcaire MINYALA en stock (35 €/m²) ? Je respecterai le jour et le format que vous indiquez. Merci !
 
+**Message à l'admin d'un groupe de professionnels** (le prix demandé est celui qui sera publié) :
+> Bonjour, je suis Pierre d'Égypte (Pierre et retraites), fournisseur de pierre naturelle avec retrait à Gennevilliers (92) et Vernon (27). Serait-il possible de publier une seule annonce de déstockage pour notre calcaire MINYALA, au prix professionnel de 22,50 € HT/m² (27 € TTC) ? Je respecterai le jour et le format que vous indiquez. Merci !
+
 **Publication — groupes de ville et groupes mixtes** (particuliers et pros, dont VendezVosMateriaux.fr) — prix public, le même que sur le site :
 > 🟢 MINYALA en stock — calcaire naturel d'Égypte, dalles 30×60×2 cm, 35 €/m² pierre seule (dès 25 m²). Pour sol intérieur, terrasse, allée ou abords de piscine, selon finition et pose. Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous. Professionnels et gros volumes : tarif sur demande (devis et facture). Écrivez-nous en privé pour un prix selon votre surface.
 
-**Publication — groupes réservés aux professionnels** (LES PRO DU BÂTIMENT, Artisans et Auto-entrepreneurs) — prix pro / déstockage. **À compléter avant publication** (qui a droit au prix pro) :
+**Publication — groupes réservés aux professionnels** (Artisans et Auto-entrepreneurs ; dans LES PRO DU BÂTIMENT une annonce existe déjà : ne pas republier, répondre seulement) — prix pro / déstockage. **À compléter avant publication** (qui a droit au prix pro) :
 > 🟢 Déstockage pro — MINYALA, calcaire naturel d'Égypte 30×60×2 cm, plus de 500 m² en stock à Gennevilliers (92) et Vernon (27). **27 €/m² TTC (22,50 € HT)**, pierre seule, retrait sur rendez-vous. Réservé aux [professionnels / commandes dès X m²]. Commande par message, devis et facture. Photos réelles des palettes sur demande.
 
 > **Annonce en attente dans VendezVosMateriaux.fr (groupe mixte, 46,5 K membres).** Elle affiche 27 €/m² TTC à des particuliers qui paieront 35 € sur le site. Demandez à l'admin de la **modifier ou la retirer avant validation**, puis republiez le texte « groupes mixtes » ci-dessus. Un commentaire ajouté après coup ne suffit pas.
