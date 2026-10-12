@@ -1,0 +1,118 @@
+# MINYALA — trade RFQ kit (StoneContact and other B2B marketplaces)
+
+Ready-to-use material to answer buyers' requests for quotation (RFQs) from your own seller account.
+Fields in **[brackets]** are decisions or facts only you can fill in. Do not send a quote until they are filled.
+
+---
+
+## 1. Product sheet (English, for buyers)
+
+| | |
+|---|---|
+| **Product** | MINYALA — natural limestone from Egypt |
+| **Colour** | Cream / light beige with golden veining (natural variation between tiles) |
+| **Format** | 30 × 60 cm, thickness 2 cm (20 mm) |
+| **Finish** | **[honed / polished / tumbled / brushed — to confirm]** |
+| **Available quantity** | **[m² in stock]** — ready stock |
+| **Stock location** | Gennevilliers (Paris area), France — EU stock, no sea freight lead time |
+| **Packing** | **[wooden crates / pallets, m² per crate, gross weight per crate]** |
+| **Approx. weight** | ≈ 50 kg/m² (estimate for 2 cm limestone — **[confirm]**) |
+| **Price** | List price €35/m², stone only, ex-warehouse Gennevilliers (EXW). Trade / volume price: **[your price per m² for 100 / 300 / 500+ m²]** |
+| **Minimum order** | 25 m² |
+| **Delivery** | Collection at Gennevilliers by appointment (Mon–Fri). Delivery in France quoted from 100 m². Export: buyer's forwarder (EXW or FCA Gennevilliers) |
+| **Payment** | **[e.g. 30 % deposit to reserve, balance before collection — goods released only after full payment]** |
+| **Lead time** | Collection within **[x]** working days after payment |
+| **Samples / photos** | Real photos and video of the stock on request; sample **[available / not available]** |
+| **Seller** | Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065, France · info@pierredegypte.online · WhatsApp +33 7 58 50 41 73 |
+
+**Uses** (to confirm case by case with the installer, depending on finish, substrate and laying): interior floors, terraces and patios, garden paths, pool surrounds, commercial and hospitality projects.
+
+> Do not claim anti-slip ratings, frost resistance, salt/chlorine resistance or water-absorption values unless you have a test report for this stone.
+
+---
+
+## 2. Reply templates
+
+### English (international buyers)
+
+> **Subject: MINYALA Egyptian limestone 30×60×2 cm — stock in France — your RFQ [RFQ title]**
+>
+> Hello,
+>
+> Thank you for your request for [stone / size / quantity from the RFQ].
+>
+> We hold ready stock in France (Paris area) of **MINYALA**, a natural Egyptian limestone, cream with golden veining, **30 × 60 × 2 cm**, [finish].
+>
+> - Available: [m²] m²
+> - Price: [€ per m²] per m², EXW Gennevilliers, France (stone only)
+> - Minimum order: 25 m² · Collection within [x] working days after payment
+> - Delivery in France on quotation from 100 m²; for export we work EXW/FCA with your forwarder
+>
+> To confirm a firm offer, could you tell us:
+> 1. the exact quantity (m²) and finish required,
+> 2. the delivery city/country and your preferred Incoterm,
+> 3. your company name, country and VAT number (for EU invoicing).
+>
+> Real photos and a video of the stock are available on request.
+>
+> Best regards,
+> Pierre d'Égypte — Pierre et retraites (France)
+> info@pierredegypte.online · WhatsApp +33 7 58 50 41 73 · www.pierredegypte.online
+
+### Français (acheteurs francophones)
+
+> **Objet : Calcaire égyptien MINYALA 30×60×2 cm — stock en France — votre demande [titre]**
+>
+> Bonjour,
+>
+> Merci pour votre demande de [pierre / format / quantité].
+>
+> Nous avons en stock en France (Gennevilliers, 92) **MINYALA**, calcaire naturel d'Égypte crème veiné d'or, **30 × 60 × 2 cm**, [finition].
+>
+> - Disponible : [m²] m²
+> - Prix : [€/m²] HT/TTC [préciser], départ Gennevilliers (pierre seule)
+> - Minimum 25 m² · retrait sous [x] jours ouvrés après paiement
+> - Livraison en France sur devis dès 100 m²
+>
+> Pour vous faire une offre ferme, pouvez-vous nous indiquer la quantité exacte, la finition, la ville de livraison, ainsi que votre raison sociale et votre numéro de TVA ?
+>
+> Photos et vidéo du stock sur demande.
+>
+> Cordialement,
+> Pierre d'Égypte — Pierre et retraites · info@pierredegypte.online · WhatsApp 07 58 50 41 73
+
+---
+
+## 3. Which RFQs to answer first
+
+1. **Product**: limestone or beige marble tiles; 30×60 or cut-to-size that 30×60 can cover; 2 cm.
+2. **Destination**: France and nearby EU countries first (collection or short truck delivery); far destinations only if the buyer handles freight.
+3. **Quantity**: within your stock. Huge container RFQs (thousands of m²) usually expect factory prices from the quarry country — answer only if you can match.
+4. **Fresh**: posted in the last weeks; old RFQs are usually closed.
+5. **Real buyer**: company name, website, country and a clear specification.
+
+---
+
+## 4. Safety checklist (B2B marketplaces attract fraud)
+
+- **Never pay** a buyer, "agent" or platform-lookalike for inspection, certificates, registration or "verification" fees.
+- **Never log in** through a link in an email that says your account must be verified: open the marketplace yourself.
+- **Release goods only after full payment has cleared** in your bank account (or a documented letter of credit for large orders).
+- **Check the company**: registration number, VAT number (EU: VIES), website and address before quoting a large order.
+- Be wary of overpayment ("we paid too much, refund the difference"), urgent changes of bank details, and buyers who insist on moving to private messaging apps before giving company details.
+- Keep all exchanges in writing; send a pro-forma invoice with your terms (Incoterm, payment, validity).
+
+---
+
+## 5. Before quoting: decide these once
+
+| Decision | Your answer |
+|---|---|
+| Finish of MINYALA | |
+| m² in stock | |
+| Trade price per m² for 100 / 300 / 500+ m² | |
+| Price shown with or without VAT (B2B quotes are usually excl. VAT) | |
+| Packing (crates / pallets, m² and kg per unit) | |
+| Payment terms for trade buyers | |
+| Samples available? Price? | |
+| Collection lead time after payment | |
