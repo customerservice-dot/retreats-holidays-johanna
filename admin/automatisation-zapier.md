@@ -26,7 +26,8 @@
 | 3. Aiguillage | **Paths** | Chemin A : activite = PIERRE. Chemin B : activite = RETRAITE. Chemin C (par défaut) : rien, juste le suivi. |
 | 4. Brouillon | **AI by Zapier** (ou ChatGPT) | Prompt 1 ci-dessous (version A ou B selon le chemin). |
 | 5. Contrôle | **AI by Zapier** (modèle Claude) ou **Anthropic (Claude) → Send Message** | Prompt 2 ci-dessous. |
-| 6. Brouillon Gmail | **Gmail → Create Draft Reply** | Corps : le texte renvoyé par l'étape 5. Si le contrôle répond `A_REVOIR`, commencez l'objet par « [À REVOIR] ». |
+| 6. Brouillon Gmail | **Gmail → Create Draft Reply** | Corps : **uniquement le champ `texte`** renvoyé par l'étape 5, jamais le JSON entier (si l'étape IA sort le JSON brut, ajoutez une étape Formatter → Extract pour isoler `verdict` et `texte`). |
+| 6 bis. Marquage « à revoir » | **Paths** puis **Gmail → Add Label to Email** | « Create Draft Reply » ne permet pas de modifier l'objet. Si `verdict = A_REVOIR` : appliquez un libellé Gmail « À REVOIR » au message reçu (créez le libellé une fois dans Gmail), et éventuellement une alerte (étape 8). |
 | 7. Suivi | **Google Sheets → Create Spreadsheet Row** (ou Zapier Tables) | Date, source, activité, type de client, ville, m², usage, statut « brouillon prêt ». **Pas de nom, téléphone, e-mail ni adresse.** |
 | 8. Alerte (facultatif) | Gmail → Send Email à vous-même, ou WhatsApp Notifications (premium) | « Nouveau brouillon à relire ». |
 
@@ -126,7 +127,7 @@ Règles à vérifier :
    STOP et la signature avec le SIREN.
 7. Français correct, ton poli, 15 lignes au maximum.
 
-Réponds UNIQUEMENT en JSON :
+Réponds UNIQUEMENT en JSON (dans Zapier, seuls les champs `verdict` et `texte` sont mappés vers les étapes suivantes — jamais le JSON entier) :
 {"verdict": "OK" ou "A_REVOIR",
  "problemes": ["..."],
  "texte": "brouillon corrigé (ou identique si OK)"}

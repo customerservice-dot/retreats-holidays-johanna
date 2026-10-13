@@ -23,7 +23,7 @@
 | 7 | Tragin SAS | tragin-sa@wanadoo.fr | 15:00 | **Spam** | 1a130a17e1bab341 |
 | 8 | MDY — Marbrerie des Yvelines | contact@mdy-france.com | 15:01 | **Spam** | 1a130a275502b1f4 |
 | 9 | Parquet-Carrelage.com | contact@parquet-carrelage.com | 15:01 | Boîte de réception | 1a130a2869df463d |
-| 10 | MCA Matériaux (Achères) * | contact@mca-materiaux.net | 15:03 | Boîte de réception | 1a130a3e99411876 |
+| 10 | MCA Matériaux Cuisines Aménagements (Achères) | contact@mca-materiaux.net | 15:03 | Boîte de réception | 1a130a3e99411876 |
 | 11 | Gedimat — Aux Docks de Clamart | expo@docksclamart.fr | 15:03 | **Spam** | 1a130a3f52a3ee9b |
 | 12 | Gedimat Sefor Houilles | guillaume.lallet@gedimat.fr | 15:03 | **Spam** | 1a130a40c849eb38 |
 | 13 | Batimantes (Colombes) | colombes.expo@batimantes.fr | 15:03 | **Spam** | 1a130a42bbf7cd72 |
@@ -34,7 +34,7 @@
 | 18 | David Paysage * | davidelagagepaysage@gmail.com | 17:57 | **Spam** | 1a13142fb5c3a1c0 |
 | 19 | TerraConcept * | terraconceptservicecommercial@gmail.com | 17:57 | **Spam** | 1a1314310a7fe6cf |
 
-\* Absent de la liste de prospection d'origine : ajouté aux classeurs le 13/10 (fiche à compléter).
+\* Absent de la liste de prospection d'origine : ajouté aux classeurs le 13/10 (fiche à compléter). MCA Matériaux figurait déjà dans la liste (France Matériaux, Achères) : ligne fusionnée le 13/10.
 
 « Copie reçue » décrit **notre copie de suivi**, pas la boîte du destinataire : un envoi peut très bien avoir été remis chez lui alors que notre copie est en spam, et inversement. Seule la boîte Hotmail (réponses, avis d'échec) permet d'en savoir plus.
 
