@@ -72,4 +72,9 @@
 
 **Mailinblack (Le Comptoir des Pierres, 13/10 07h45)** : demande de validation antispam adressée à l'expéditeur — pas une réponse. La valider ferait délivrer le message ; décision du propriétaire, à faire depuis la boîte Hotmail s'il le souhaite.
 
+**Correctif du 13/10 au soir (second passage sur l'export Hotmail)** : les prospects « prioritaires jamais contactés » du matin ne le sont pas tous.
+- **Le Monde de la Pierre** (contact@lemondedelapierre.fr) : un envoi est recensé dans l'export Hotmail (ni rejet, ni copie Gmail retrouvés) — fiche passée en **« Contacté »**, remise non confirmée, pas de relance avant le rapprochement.
+- **Carrelage Design 95, Palatino, Le Monde des Jardins, Carrelage Roger** : au-delà des rejets 5.7.520 du 12–13/10, l'export recense des **tentatives ultérieures** (issue non confirmée) — fiches passées en **« À rapprocher (export Hotmail) »**, ce qui bloque tout envoi (la règle anti-doublon n'autorise que « À contacter »).
+- Le statut définitif de ces 5 fiches sera arrêté au **rapprochement de l'export complet annoncé (~180 messages, 95 destinataires)**, pas avant.
+
 **Classement et anti-doublons** : la spécification complète (classes SORTANT / COPIE_SORTANTE / ÉCHEC / AUTOMATIQUE / RÉPONSE_COMMERCIALE / OPPOSITION / REVUE_MANUELLE, clés event_key / delivery_key / contact_id / account_id / action_key, réservation atomique) est reprise dans `admin/automatisation-zapier.md`, § 10. Les 19 adresses du 12/10 sont initialisées « déjà contacté, relance automatique bloquée » tant que le raccordement n'est pas validé.

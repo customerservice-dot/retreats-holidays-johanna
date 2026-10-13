@@ -163,6 +163,7 @@ Le 12/10, 19 e-mails de prospection sont partis depuis une boîte Hotmail person
 - **Filtre après l'approbation :** continuer seulement si `Decision = approved` ; « Action if reviewer declines » = Stop run ; **délai d'expiration** (72 h conseillé) avec action « End run » — une expiration arrête l'envoi, elle ne répond pas au client : prévoir la **notification immédiate** à l'arrivée de la demande et un **rappel à 12 h** (réglage « reminders » de l'étape) pour tenir l'objectif de réponse sous 24 h.
 - **Test final avant publication, sur une adresse de test, 4 cas :** approbation sans modification, approbation avec modification, refus, expiration. Vérifier à chaque fois ce que Gmail reçoit (ou ne reçoit pas).
 - Le Zap Johanna reste en **Draft** avec un déclencheur limité à l'objet `RH_TEST_JOHANNA` tant que ces tests ne sont pas passés ; ensuite, élargir le déclencheur aux vraies demandes puis publier.
+- **Dépassé le 13/10 au soir** : le propriétaire a demandé « Direct full automatisation » et l'étape d'approbation a été retirée — voir § 11. Cette section reste la référence si l'on revient au circuit avec approbation.
 
 ## 10. Registre et classement des messages (spécification adoptée le 13/10, après l'audit croisé Gmail + Hotmail)
 
@@ -178,3 +179,22 @@ SORTANT · COPIE_SORTANTE (expéditeur propre + destinataire externe, rattachée
 **Règle corrigée sur les brouillons** : « Create Draft Reply » avec Thread ID ne vaut que pour un fil à UN SEUL client (une vraie demande entrante). Pour les deux fils de prospection multi-destinataires du 12/10 : brouillon indépendant, un seul destinataire vérifié, pas de Cc/Bcc, pas de Thread ID hérité, pas de « répondre à tous » — et l'IA ne choisit jamais To/Cc/Bcc.
 
 **Avant chaque envoi** : revérifier réponses, oppositions, échecs et actions intervenues depuis la préparation ; distinguer brouillon / tentative / accepté par le fournisseur / remis / réponse / vente. Un envoi accepté n'est pas une remise ; un délai dépassé n'est pas un échec.
+
+## 11. État déployé le 13/10 au soir — envoi automatique sans approbation (décision du propriétaire)
+
+Le propriétaire a demandé **« Direct full automatisation »** : l'étape d'approbation humaine (§ 9) a été retirée du circuit Johanna, qui envoie désormais seul.
+
+**Ce qui tourne :**
+- **Zap « Johanna » — id 383400721, version 1, PUBLIÉ et ACTIF.** Déclencheur : boîte retreatsholidaysbotpress@gmail.com (`in:inbox` + borne de date), « Never replay » activé. Étapes : rédaction IA → contrôle IA → filtre (décision SEND + contrôle OK + texte non vide) → Gmail « Reply to Email ». Test envoyé et reçu (messages 1a136c1c7f4380fa / 1a136c1dd1d3f9c6).
+- **Zap « Pierre d'Égypte » — id 383400957, BROUILLON.** Ne pas publier tant que : 1) l'expéditeur **info@pierredegypte.online n'est pas vérifié pour l'ENVOI** dans Gmail (« Send mail as » — la redirection en réception ne suffit pas) ; 2) la boîte de production (customerservice@) n'est pas connectée **dans l'éditeur** de Zaps (§ 10).
+
+**Règle de non-simultanéité (impérative).** La variante « brouillons + approbation » (§ 2–§ 9) et la variante « envoi automatique » ne doivent **jamais être actives en même temps sur la même boîte** : même message traité deux fois = double réponse au client. Un seul Zap actif par boîte.
+
+**Garde-fous encore absents en mode auto** (la spécification du 13/10 les liste elle-même comme « à réaliser ») : registre partagé, verrou atomique, vérification des réponses humaines, rapprochement inter-boîtes — donc **aucune garantie d'envoi unique entre plusieurs workflows**. Tant qu'ils manquent :
+- un seul Zap actif par boîte (voir ci-dessus) ;
+- le filtre ne protège pas contre les expéditeurs automatiques : exclure dans le déclencheur ou en filtre `mailer-daemon@`, `postmaster@`, `no-reply`/`noreply`, nos propres adresses, et tout message avec en-tête Auto-Submitted — sinon le Zap répond aux notifications et newsletters ;
+- toute réponse entrante contenant « STOP »/« non » doit interrompre le circuit (classe OPPOSITION, § 10) — à vérifier dans la v1, qui ne semble pas la traiter ;
+- le prompt Retreats reste sans catalogue vérifié (partie B « À COMPLÉTER ») : les réponses doivent rester des questions de qualification — jamais de prix, de disponibilité ou d'engagement inventés ;
+- **revue quotidienne la première semaine** : relire chaque envoi automatique (libellé/dossier des messages envoyés) et couper le Zap au premier envoi incorrect.
+
+**Échéance** : essai Zapier de 14 jours ouvert le 13/10 → décision avant ~27/10 (abonnement Professional ou retour aux brouillons § 9, sans quoi le Zap multi-étapes s'arrête). Périmètre couvert aujourd'hui : uniquement la boîte botpress (tests Retreats Holidays) ; **aucune demande Pierre d'Égypte n'est traitée automatiquement**.
