@@ -16,7 +16,8 @@
 ## Impôt aux Émirats : le 0 % est peu probable
 
 - Impôt sur les sociétés : 0 % jusqu'à 375 000 AED de bénéfice, **9 % au-delà** ([ministère des Finances](https://mof.gov.ae/en/news/ministry-of-finance-confirms-applicable-taxable-income-threshold-for-corporate-tax-abu-dhabi-uae/)).
-- Le taux de 0 % des zones franches ne vaut que pour des revenus « qualifiants ». **Le commerce de marchandises en général n'en fait pas partie**, et les ventes aux particuliers sont exclues ([décision ministérielle 229/2025](https://mof.gov.ae/wp-content/uploads/2025/09/EN-Ministerial-Decision-No.-229-of-2025-Regarding-Qualifying-Activities-and-Excluded-Activities.pdf)). Au-delà de 5 % de revenus non qualifiants, tout le bénéfice au-dessus de 375 000 AED est taxé à 9 %, et le statut est perdu pour 5 périodes.
+- Le taux de 0 % des zones franches ne vaut que pour des revenus « qualifiants ». Pour le négoce de marchandises, un seul cas peut qualifier : la **« distribution de biens dans ou depuis une Designated Zone »**, c'est-à-dire la vente à des revendeurs — pas aux consommateurs finaux —, sous conditions ([décision ministérielle 229/2025](https://mof.gov.ae/wp-content/uploads/2025/09/EN-Ministerial-Decision-No.-229-of-2025-Regarding-Qualifying-Activities-and-Excluded-Activities.pdf)). Que la zone d'IFZA (Dubai Silicon Oasis) compte comme Designated Zone pour cette activité : [À VÉRIFIER auprès d'IFZA et du comptable].
+- Tolérance (« de minimis ») : les revenus non qualifiants ne doivent pas dépasser **le plus petit** de 5 % du chiffre d'affaires ou 5 millions AED. Au-delà, tout le bénéfice au-dessus de 375 000 AED est taxé à 9 % et le statut est perdu pour 5 périodes. Le régime exige aussi une **présence économique réelle aux Émirats** (locaux, personnel ou dépenses adéquats) et des **comptes audités**.
 
 ## Côté France : les principaux risques
 
@@ -32,5 +33,6 @@
 2. L'article 123 bis peut-il s'appliquer, compte tenu de l'actif de la société ?
 3. Quels comptes faudrait-il déclarer sur le formulaire 3916 ?
 4. Qui importerait la pierre, et comment seraient gérées la TVA et la douane ?
-5. Une partie des revenus serait-elle « qualifiante » au taux de 0 % ?
-6. Au total, y a-t-il une vraie économie par rapport à l'entreprise individuelle actuelle, une fois l'activité de vente de pierre déclarée en France ?
+5. Une partie des revenus serait-elle « qualifiante » au taux de 0 % (notamment une distribution à des revendeurs depuis une Designated Zone) — et à quel coût de conformité (substance réelle, comptes audités) ?
+6. Le projet est-il de vivre et diriger l'activité depuis Dubaï, ou de rester entre la France et l'Égypte ? (C'est ce qui décide du lieu de direction effective.)
+7. Au total, y a-t-il une vraie économie par rapport à l'entreprise individuelle actuelle, une fois l'activité de vente de pierre déclarée en France ?

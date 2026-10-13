@@ -156,3 +156,10 @@ Le 12/10, 19 e-mails de prospection sont partis depuis une boîte Hotmail person
 - **Un seul expéditeur : la boîte Gmail connectée.** Les envois Hotmail rendent réponses et échecs invisibles (pas de Reply-To) et finissent en spam (14 copies sur 19).
 - **Classement entrant** : réponse réelle = expéditeur chez le prospect + In-Reply-To ; écho de nos envois = expéditeur interne ; échec = mailer-daemon/postmaster. Réponse « non »/« STOP » → « Ne plus contacter », sans relance.
 - **Une seule relance par prospect**, après vérification manuelle de la boîte Hotmail pour la vague du 12/10.
+
+## 9. Étape « Request Approval » du circuit Johanna (ajout du 13/10, après vérification)
+
+- **Champ à envoyer à Gmail : le brouillon approuvé, avec repli.** « Edited Content Brouillon » n'existe que si le relecteur a modifié le texte. Ajoutez une étape **Formatter → Text → Default value** : valeur = « Edited Content Brouillon », défaut = le champ `texte` d'origine. C'est la sortie de cette étape qui va dans Gmail — ainsi l'envoi marche aussi bien pour une approbation sans correction qu'avec correction.
+- **Filtre après l'approbation :** continuer seulement si `Decision = approved` ; « Action if reviewer declines » = Stop run ; **délai d'expiration** (72 h conseillé) avec action « End run » — une expiration arrête l'envoi, elle ne répond pas au client : prévoir la **notification immédiate** à l'arrivée de la demande et un **rappel à 12 h** (réglage « reminders » de l'étape) pour tenir l'objectif de réponse sous 24 h.
+- **Test final avant publication, sur une adresse de test, 4 cas :** approbation sans modification, approbation avec modification, refus, expiration. Vérifier à chaque fois ce que Gmail reçoit (ou ne reçoit pas).
+- Le Zap Johanna reste en **Draft** avec un déclencheur limité à l'objet `RH_TEST_JOHANNA` tant que ces tests ne sont pas passés ; ensuite, élargir le déclencheur aux vraies demandes puis publier.

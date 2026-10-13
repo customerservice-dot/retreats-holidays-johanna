@@ -39,6 +39,7 @@ Faites l'inventaire en vous connectant à chaque compte tour à tour :
   3) L'actuel propriétaire principal (lui seul) transfère : utilisateur > Modifier > « Propriétaire principal » > Enregistrer. Le destinataire doit déjà être propriétaire ou administrateur.
   4) Seulement ensuite, l'ancien compte peut se retirer. Ses réponses aux avis restent visibles.
 ### 3b. Chaîne YouTube « Retreat Holidays » (@RetreatHolidays-v9b) pour Johanna
+  - **Si « Johanna » est un agent IA (automatisation)** : les autorisations de chaîne ne suffisent pas — les utilisateurs invités n'ont pas accès aux API YouTube (limite confirmée par l'aide Google). Gardez la propriété de la chaîne et connectez l'outil d'automatisation (OAuth/API) avec le compte propriétaire, en limitant ses droits aux tâches voulues. L'invitation « Gestionnaire » reste la bonne solution pour une personne humaine.
   - Option simple, recommandée par YouTube : YouTube Studio > Paramètres > Autorisations > INVITER > e-mail de Johanna > rôle (par exemple Gestionnaire) > OK.
     - L'invitation expire au bout de 30 jours.
     - Si la chaîne est sur un compte de marque, le propriétaire principal doit d'abord passer aux « autorisations au niveau de la chaîne ».
