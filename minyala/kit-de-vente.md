@@ -70,28 +70,13 @@ Lien en bio ou écrivez-nous en message : surface en m² + ville + usage.
 
 > Une entreprise doit publier avec un **compte Pro** Leboncoin (gratuit, obligatoire). Ne publiez pas sur Facebook Marketplace : il est réservé aux ventes entre particuliers et Meta peut bloquer les vendeurs pros. Sur Facebook, utilisez une Page Pierre d'Égypte et les publicités Meta (voir `prospects-minyala.xlsx`, onglets Particuliers et Règles).
 
-**Catégorie :** Maison & Jardin → Bricolage (choisir au dépôt la sous-catégorie la plus proche)
-**Titre :** `Dalles calcaire naturel Égypte 30x60 - 35€/m² pierre seule`
-**Prix :** 875 € (lot minimum 25 m²)
+**L'annonce complète, vérifiée le 13/10/2026, est dans `leboncoin.md`** : titre, prix du lot (875 €), texte, photos à prendre, réponses types et liste de contrôle. N'utilisez plus l'ancienne version de cette section : sa ligne « Paiement sécurisé en ligne (CB, PayPal, Apple Pay, Klarna…) » renvoyait vers la boutique, ce que Leboncoin interdit.
 
-```
-MINYALA — calcaire naturel d'Égypte, EN STOCK.
-
-• Format : dalles 30×60 cm, épaisseur 2 cm (20 mm)
-• Prix : 35 €/m² pierre seule
-• Commande minimum : 25 m² (875 €), puis au m² près
-• Environ 5,6 dalles par m² (25 m² ≈ 139 dalles)
-• Teinte claire, variations naturelles, pierre naturelle (pas une imitation)
-
-Usages, selon finition et pose : terrasse, patio, allée, abords de piscine ; sol intérieur, commerces.
-
-Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous. Prévoir un véhicule adapté : environ 50 kg/m².
-Livraison et pose possibles sur devis à partir de 100 m².
-
-Paiement sécurisé en ligne (CB, PayPal, Apple Pay, Klarna…) ou réservation avec 30 % d'acompte.
-
-Envoyez-moi : surface en m² + ville + usage, je vous réponds rapidement.
-```
+À retenir avant de publier :
+- une seule annonce, localisée à Gennevilliers, catégorie Maison & Jardin > Bricolage, prix 875 € (lot de 25 m²) ;
+- de vraies photos du stock, sans texte ni adresse de site (pas l'image de synthèse ni les visuels du dossier `visuels/`) ;
+- l'IDU de la filière REP des matériaux de construction, demandé par Leboncoin aux vendeurs pros ;
+- pas de paiement en ligne Leboncoin tant que les conditions de vente françaises ne sont pas prêtes.
 
 ## 4. E-mail / message aux professionnels
 
