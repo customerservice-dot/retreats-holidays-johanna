@@ -25,7 +25,7 @@
 
 ## 3. Réponse « Retrait ? »
 
-> Retrait sur rendez-vous à Gennevilliers (92), du lundi au vendredi, 9h30–12h et 13h–15h (ou Vernon, 27). L'adresse exacte vous est envoyée en confirmant le rendez-vous.
+> Retrait sur rendez-vous à Gennevilliers (92), du lundi au vendredi, 9h30–12h et 13h–15h (ou Vernon, 27). L'adresse exacte vous est envoyée à la confirmation du rendez-vous.
 > Prévoyez un véhicule adapté : environ 1,25 tonne pour 25 m² (estimation). Paiement au retrait, facture remise.
 
 ## 4. Réponse « Quantité ? / Il en reste ? »
@@ -52,7 +52,7 @@
 
 ## 8. Relance (une seule fois, après 3 jours)
 
-> Bonjour, toujours intéressé(e) par la pierre MINYALA (35 € TTC le m², dès 25 m²) ? Je peux vous proposer un créneau à Gennevilliers cette semaine pour voir les dalles. Sans réponse de votre part, je ne vous relancerai pas.
+> Bonjour, je reviens vers vous suite à votre demande sur la pierre MINYALA (35 € TTC le m², pierre seule, dès 25 m²). Je peux vous proposer un créneau à Gennevilliers cette semaine pour voir les dalles. Sans réponse de votre part, je ne vous relancerai pas.
 
 ## 9. Confirmation de rendez-vous
 
