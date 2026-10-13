@@ -13,6 +13,7 @@ All public prices match the live store (Oct 2026): €35/m² stone only, 25 m² 
 | `prospects-minyala.xlsx` | Prospect tracker: 197 verified trade buyers in Île-de-France and Normandy (resellers, showrooms, marble workshops, pool and spa builders, landscapers, fitters, house builders, specifiers, hotels with announced works), where to reach private buyers (listings, forums, fairs, ads), 22 Facebook groups to approach with admin consent, 52 trade buyer requests (RFQs), B2B channels, and the French rules for contacting people. | Work through the yellow cells; the first tab counts contacts and m² sold. |
 | `facebook-instagram.md` | Facebook & Instagram plan in French: site fixes to make before advertising, creating the Page / Instagram / business portfolio, connecting Shopify's official Meta app and cookie banner, three ad campaigns with length-checked copy, a GDPR-compliant lead form, Facebook group approach and a 4-week posting calendar. Every technical point is sourced. | Follow the steps in order. |
 | `rfq-kit.md` | English / French kit for trade requests on StoneContact, StoneAdd and other B2B marketplaces: product sheet, reply templates, seller listing, what replying costs, requests to answer first, fraud checklist. Trade price €22.50 excl. VAT. | Fill the [bracketed] decisions first, then paste. |
+| `allovoisins.md` | AlloVoisins guide in French: verdict (don't buy Premier or Booster; at most the one-time 14-day trial on one Gennevilliers area), real costs and 12-month lock-in, settings, profile text, reply templates, rules. | Read section 2 first. |
 | `visuels/` | Three ad images at Meta's recommended sizes: 4:5 feed (1440×1800), 1:1 price card (1440×1440), 9:16 Story/Reel (1440×2560, safe zones respected). They use the store's current image, labelled "Visuel indicatif". | Upload in Ads Manager; replace with real photos when available. Each image also exists as `.jpg` (Instagram posting accepts JPEG only). |
 
 ### Checkout links used
@@ -23,6 +24,14 @@ All public prices match the live store (Oct 2026): €35/m² stone only, 25 m² 
 | `https://www.pierredegypte.online/cart/53073670603018:25` | 30% deposit, 25 m² = €262.50 (product "Acompte réservation MINYALA") |
 
 Change the number after `:` to change the m². Both links were tested and redirect to checkout.
+
+## Check before selling (all channels)
+
+- **Business registration.** The public register lists SIREN 985 289 065 as a sole trader (entrepreneur individuel) whose main activity is 85.51Z (sports and leisure teaching), head office in Paris, with no craft trade registered ([register](https://recherche-entreprises.api.gouv.fr/search?q=985289065), checked 13/10/2026). Add the stone-trading activity (achat-revente) to the register before selling. "Pierre et retraites" is a trade name, not a separate company: the legal notice and invoices must name the business owner.
+- **VAT.** Every price in these files assumes VAT is charged (35 € TTC; trade price 22,50 € HT / 27 € TTC). If the business is under the VAT exemption (franchise en base), prices must instead carry "TVA non applicable, art. 293 B du CGI", and the HT/TTC wording must change everywhere. Confirm with the accountant.
+- **Installation ("pose").** The store and these files offer "livraison et pose sur devis dès 100 m²". Laying tiles as a business requires a tiling qualification (CAP/BP or 3 years' certified experience; 7,500 € fine otherwise) and, for terraces and pool surrounds, décennale insurance named on quotes and invoices ([F39050](https://entreprendre.service-public.gouv.fr/vosdroits/F39050), [F2034](https://www.service-public.gouv.fr/particuliers/vosdroits/F2034)). If the business doesn't have both, change the offer to "pierre seule — pose par votre carreleur" or have an insured installer quote and invoice the customer directly.
+- **Online withdrawal button.** Since 19 June 2026, online sellers to consumers must offer a free online withdrawal function ([F33527](https://entreprendre.service-public.gouv.fr/vosdroits/F33527)). Add it with the French terms of sale (fix 0).
+- **Never use "liquidation".** It is reserved for declared closing-down sales ([F37880](https://entreprendre.service-public.gouv.fr/vosdroits/F37880)). Use "fin de stock, prix fixe". None of these files use it.
 
 ## Fixes to make in the Shopify store
 
