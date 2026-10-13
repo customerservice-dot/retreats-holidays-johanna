@@ -163,3 +163,18 @@ Le 12/10, 19 e-mails de prospection sont partis depuis une boîte Hotmail person
 - **Filtre après l'approbation :** continuer seulement si `Decision = approved` ; « Action if reviewer declines » = Stop run ; **délai d'expiration** (72 h conseillé) avec action « End run » — une expiration arrête l'envoi, elle ne répond pas au client : prévoir la **notification immédiate** à l'arrivée de la demande et un **rappel à 12 h** (réglage « reminders » de l'étape) pour tenir l'objectif de réponse sous 24 h.
 - **Test final avant publication, sur une adresse de test, 4 cas :** approbation sans modification, approbation avec modification, refus, expiration. Vérifier à chaque fois ce que Gmail reçoit (ou ne reçoit pas).
 - Le Zap Johanna reste en **Draft** avec un déclencheur limité à l'objet `RH_TEST_JOHANNA` tant que ces tests ne sont pas passés ; ensuite, élargir le déclencheur aux vraies demandes puis publier.
+
+## 10. Registre et classement des messages (spécification adoptée le 13/10, après l'audit croisé Gmail + Hotmail)
+
+**Boîte de production.** Les connexions du serveur MCP Zapier et celles de l'éditeur de Zaps sont distinctes : dans l'éditeur, connecter la boîte **customerservice@exclusiveyogaretreats.com** (elle reçoit déjà info@pierredegypte.online) comme compte Gmail de production ; la boîte botpress ne sert qu'aux tests. Ne pas élargir le déclencheur de test : créer le déclencheur de production sur la boîte de production.
+
+**Plus aucun envoi depuis Hotmail** (rejets 5.7.520 en sortie — voir `minyala/suivi-envois.md`). Un 5.7.520 se diagnostique (contenu, volume, réputation), il ne se « réessaie » pas en boucle.
+
+**Classes de classement** (décision recalculée sur les en-têtes du message précis, jamais sur le fil ; les libellés Gmail sont des aides visuelles) :
+SORTANT · COPIE_SORTANTE (expéditeur propre + destinataire externe, rattachée par Message-ID RFC + destinataire) · ÉCHEC (notification de transport : rattacher par Message-ID original et Final-Recipient, jamais par le simple champ To) · AUTOMATIQUE (Auto-Submitted, absence, challenge antispam : jamais compté comme réponse humaine) · RÉPONSE_COMMERCIALE (In-Reply-To/References vers un Message-ID connu + expéditeur cohérent ; un « Re: » ou une offre citée ne suffit pas) · OPPOSITION (STOP/« non » : blocage immédiat, alias compris) · REVUE_MANUELLE (en-têtes incomplets, Reply-To inconnu, plusieurs prospects possibles : aucun destinataire automatique).
+
+**Clés d'identité** : event_key = fournisseur+compte+message_id ; delivery_key = Message-ID RFC original + adresse destinataire (valeur brute, jamais reconstruite) ; contact_id interne avec table d'alias validés ; account_id = entreprise (SIREN/SIRET) distincte des contacts (ne pas fusionner tous les Gedimat) ; case_id = activité+contact+demande ; action_key = activité+campagne+contact+type+n° de relance. **Réservation atomique** avant toute rédaction (un Lookup puis un Create séparés ne sont pas un verrou) ; registre technique à accès restreint, séparé du classeur commercial.
+
+**Règle corrigée sur les brouillons** : « Create Draft Reply » avec Thread ID ne vaut que pour un fil à UN SEUL client (une vraie demande entrante). Pour les deux fils de prospection multi-destinataires du 12/10 : brouillon indépendant, un seul destinataire vérifié, pas de Cc/Bcc, pas de Thread ID hérité, pas de « répondre à tous » — et l'IA ne choisit jamais To/Cc/Bcc.
+
+**Avant chaque envoi** : revérifier réponses, oppositions, échecs et actions intervenues depuis la préparation ; distinguer brouillon / tentative / accepté par le fournisseur / remis / réponse / vente. Un envoi accepté n'est pas une remise ; un délai dépassé n'est pas un échec.

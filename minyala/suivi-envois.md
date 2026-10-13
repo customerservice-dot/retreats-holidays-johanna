@@ -56,3 +56,20 @@
 6. **Toute réponse « non » ou « STOP » → statut « Ne plus contacter »** immédiatement, et aucune relance.
 7. **Une seule relance** par prospect (vers le 19/10 pour cette vague), et seulement après avoir vérifié dans la boîte Hotmail qu'il n'a pas déjà répondu.
 8. Aux prochains envois : **ajouter le SIREN 985 289 065 dans la signature**, garder la ligne de désinscription, et envoyer par petits lots espacés (pas 16 en 6 minutes).
+
+---
+
+# Complément d'audit du 13/10/2026 (croisement Gmail + Hotmail)
+
+**Fait principal : Hotmail bloque les envois EN SORTIE.** 18 notifications d'échec reçues entre le 12/10 00h09 et le 13/10 07h45 (UTC), dont **17 avec le code 5.7.520 « contenu identifié comme spam »** — c'est Microsoft qui refuse d'acheminer, pas le destinataire — et 1 avec 5.4.310 (domaine hmt.fr inexistant). Conséquences :
+- **Arrêt définitif des envois depuis la boîte Hotmail.** La réputation d'envoi est grillée ; continuer expose la boîte personnelle à une suspension, et aucun message ne part réellement.
+- Un rejet 5.7.520 **ne signifie pas que l'adresse du prospect est mauvaise** : le prochain contact se fait depuis la boîte Gmail, avec un nouveau texte, par petits lots espacés.
+- La campagne réelle est **plus large que les 19 copies du 12/10** : des tentatives rejetées visaient aussi, entre autres, Palatino, Le Monde des Jardins, Carrelage Design 95, Carrelage Roger (adresse nominative broger@), Décomarbre, Midi Carrelage, Le Comptoir des Pierres, MasterPierre, France Pierre, Al Maha Marbles, DPA94, SFZ Global, HMT. Celles qui figurent dans la liste de prospection ont été annotées dans les classeurs ; les autres restent consignées ici en attendant le registre technique.
+
+**Adresses visées par un rejet 5.7.520 (12–13/10)** : lecomptoirdusol.com, natoupierre.fr, sarlpaco@wanadoo.fr, lahalleauxpierres@orange.fr, sfzglobal.com, almahamarbles@gmail.com (×2), lecomptoirdespierres.com, dpa94.com (david@, florian@), masterpierre.com (dirparisouest@), francepierre.fr, decomarbre94.fr, roger-carrelage.com (broger@), midicarrelage.fr, lemondedesjardins.com, palatino.fr, carrelage-design-95.fr. Et 5.4.310 : hmt.fr (domaine inexistant).
+
+**Statut exact des 19 envois du 12/10** : original retrouvé dans Hotmail + copie reçue dans Gmail ; **remise chez le prospect non confirmée** — ne jamais convertir en « livré » ou « lu ». Aucune réponse humaine identifiée au 13/10 ; les 19 copies Gmail portent désormais les libellés PDE/Copie sortante et PDE/Revue manuelle.
+
+**Mailinblack (Le Comptoir des Pierres, 13/10 07h45)** : demande de validation antispam adressée à l'expéditeur — pas une réponse. La valider ferait délivrer le message ; décision du propriétaire, à faire depuis la boîte Hotmail s'il le souhaite.
+
+**Classement et anti-doublons** : la spécification complète (classes SORTANT / COPIE_SORTANTE / ÉCHEC / AUTOMATIQUE / RÉPONSE_COMMERCIALE / OPPOSITION / REVUE_MANUELLE, clés event_key / delivery_key / contact_id / account_id / action_key, réservation atomique) est reprise dans `admin/automatisation-zapier.md`, § 10. Les 19 adresses du 12/10 sont initialisées « déjà contacté, relance automatique bloquée » tant que le raccordement n'est pas validé.
