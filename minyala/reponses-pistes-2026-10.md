@@ -40,6 +40,14 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 > Hello, thank you for your request (~500 m² of 55×85 cm slabs). We do not stock that size: our stock is 30×60 cm tiles only, 2 cm thick — MINYALA, natural limestone from Egypt. **Could this format work for your project?** If so, I will come back to you with trade terms, by written quotation.
 > Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065
 
+**Teodosiu et Cristina — StoneContact, demandes de TRAVERTIN (ajoutées le 16/10) — première réponse = vérifier l'alternative, rien d'autre.** Aucun volume, aucun tarif (même public) à ce stade ; réponse dans leur demande StoneContact respective ; aucune coordonnée professionnelle vérifiée. Même message pour les deux (FR puis EN selon la langue de la demande) :
+
+> Bonjour, j'ai vu votre demande de travertin. Nous n'en vendons pas — mais nous déstockons MINYALA, un calcaire naturel d'Égypte : dalles 30×60 cm, épaisseur 2 cm, teinte claire, stock situé en France (Hauts-de-Seine). Deux questions : votre recherche est-elle toujours en cours, et ce calcaire pourrait-il convenir à la place du travertin ? Si oui, je vous envoie le détail — et les dalles se visitent sur rendez-vous.
+> Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065
+
+> Hello, I saw your travertine request. We do not sell travertine — but we are clearing MINYALA, a natural Egyptian limestone: 30×60 cm tiles, 2 cm thick, light tone, stock located in France (near Paris). Two questions: is your search still open, and could this limestone work as an alternative to travertine? If so, I will send the details — and the tiles can be viewed by appointment.
+> Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065
+
 *Note prix : « 35 € le m² » sans mention TTC/TVA — pour un particulier, un prix annoncé est par nature toutes taxes comprises ; la mention exacte (TTC ou « TVA non applicable, art. 293 B du CGI ») sera posée sur le devis et la facture une fois le statut TVA confirmé.*
 
 ---
