@@ -47,17 +47,17 @@ Répondez STOP pour ne plus recevoir nos messages.
 MINYALA est en stock. 🤍
 
 Un calcaire naturel d'Égypte, teinte claire, en dalles 30×60×2 cm.
-Pour un sol intérieur minéral, une terrasse ou des abords de piscine, selon finition et pose.
+Pour un sol intérieur minéral — et en terrasse, selon la finition, le support et la pose.
 
 ✔︎ 35 €/m² pierre seule
 ✔︎ Dès 25 m²
 ✔︎ Paiement comptant ou 30 % d'acompte
 ✔︎ Retrait à Gennevilliers (92) ou Vernon (27) sur rendez-vous
-✔︎ Livraison et pose sur devis dès 100 m²
+✔︎ Livraison sur devis dès 100 m² (pierre seule — nous n'assurons pas la pose)
 
 Lien en bio ou écrivez-nous en message : surface en m² + ville + usage.
 
-#pierrenaturelle #calcaire #pierredegypte #terrasse #piscine #renovation #amenagementexterieur #paysagiste #architecteinterieur #iledefrance #gennevilliers #normandie
+#pierrenaturelle #calcaire #pierredegypte #terrasse #renovation #amenagementexterieur #paysagiste #architecteinterieur #iledefrance #gennevilliers #normandie
 ```
 
 **Story (3 écrans)**
