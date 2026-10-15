@@ -8,7 +8,13 @@
 |---|---|---|
 | Nombre de palettes | [À COMPTER] | Compter physiquement, rangée par rangée |
 | Dalles par palette | [À COMPTER] | Compter UNE palette complète, vérifier sur une deuxième |
-| **Total m²** | [= palettes × dalles ÷ 5,6] | C'est LE chiffre de l'annonce et de l'inventaire |
+| **Total m²** | [= nombre total de dalles × 0,18] | Une dalle 30 × 60 = **0,18 m²**. C'est LE chiffre de l'annonce et de l'inventaire |
+
+**Relevé par palette** (une ligne chacune — c'est ce relevé qui distingue le vendable de l'abîmé) :
+
+```
+Palette n° · nombre de dalles · dimensions · état (OK / abîmées : n) · emplacement
+```
 | Dimensions vérifiées | 30 × 60 × 2 cm [à confirmer au mètre sur 3 dalles] | Mesurer longueur, largeur, épaisseur |
 | Poids d'une dalle | [À PESER] kg | Pèse-personne : vous avec/sans la dalle ; ×5,6 = kg/m² réel |
 | État | [neuf sur palettes d'origine / filmé / dalles cassées : nombre ou %] | Ouvrir 2–3 palettes témoins, compter la casse |
