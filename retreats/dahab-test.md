@@ -1,6 +1,8 @@
-# Test Dahab — partenariat d'audience YATAA (15/10/2026)
+# Test Dahab — liste d'intérêt (15/10/2026)
 
-*Un seul test, une seule offre, aucun rachat. Objectif : mesurer si l'audience YATAA peut générer des réservations rentables — rien d'autre n'est promis à personne.*
+*Un seul test, une seule offre. Objectif : mesurer si l'offre Dahab génère des inscriptions rentables via la liste d'intérêt sans paiement, sur nos propres canaux.*
+
+> **Décision du propriétaire (15/10/2026) : le partenariat d'audience YATAA et la proposition à Waldy sont abandonnés.** Aucun message à envoyer, aucune commission à négocier, aucune stat à attendre d'eux. Les sections ci-dessous ont été mises à jour en conséquence ; le § 7 (message à Waldy) est supprimé.
 
 ## 1. L'offre testée
 
@@ -11,10 +13,10 @@
 | Seuil de confirmation | **10 participants au tarif annoncé.** En dessous : le départ n'est confirmé que si les inscrits **acceptent un supplément** ; sinon remboursement intégral. |
 | Test | **Liste d'intérêt sans paiement** (prénom + e-mail + « je veux ma place »), **prix affiché** sur la page — c'est le prix affiché qui rend la demande mesurable. |
 
-## 2. L'économie à poser AVANT de parler commission
+## 2. L'économie à poser AVANT d'ouvrir les acomptes
 
 - Potentiel brut : 10 × 1 990 € = **19 900 €** (variante premium à 2 899 € : 28 990 €).
-- Une commission de 20–30 % du CA ferait **3 980 à 5 970 €** — on ne la propose PAS d'avance. D'abord les coûts réels, ensuite la commission sur la marge restante.
+- Partenariat abandonné (15/10) : **aucune commission à prévoir** — la marge reste entière, mais la distribution repose uniquement sur nos propres canaux (chaîne YouTube, réseaux, bouche-à-oreille).
 - Coûts à chiffrer par devis locaux (le propriétaire est sur place) — tableau à remplir, **aucun chiffre n'est engagé** :
 
 | Poste (par personne sauf mention) | Devis réel |
@@ -27,7 +29,7 @@
 | Assurances (RC organisateur, annulation) | [À CHIFFRER] |
 | Imprévus (10 % du total) | [À CHIFFRER] |
 
-- **Règle** : commission YATAA = pourcentage de la **marge** (CA − coûts), fixé une fois le tableau rempli, **aux résultats** (par réservation encaissée), par écrit avant le premier post.
+- **Règle** : aucun acompte ouvert tant que le tableau n'est pas rempli — le prix ne se confirme qu'une fois la marge réelle connue. (Si un partenariat d'audience revenait un jour : commission en pourcentage de la **marge**, aux résultats, par écrit avant le premier post — jamais un pourcentage du CA promis d'avance.)
 
 ## 3. Alertes chiffrées (vérifiées sur les règles déjà documentées du dépôt)
 
@@ -58,12 +60,13 @@ Johanna répond vite aux demandes entrantes, **sous revue quotidienne** (ses tes
 
 *(RGPD : collecte limitée prénom + e-mail, finalité unique, pas de case précochée, désinscription dans chaque message — cohérent avec `boutique/politique-de-confidentialite.md`.)*
 
-## 7. Message à Waldy (version test, sans promesse de sauvetage)
+## 7. Message à Waldy — supprimé (décision du propriétaire, 15/10/2026)
 
-> Frérot, oublie le rachat pour l'instant — testons si leur audience peut générer des réservations rentables, ensemble. J'ai un séjour concret : Dahab, yoga + kitesurf, 7 jours. Eux postent avec leurs contenus existants, nous on met la page d'inscription (sans paiement) et on gère tout le terrain en Égypte. Rémunération aux résultats, par écrit, une fois qu'on a vu les chiffres. Pour démarrer il me faut : une mise en relation, leur accord de principe sur un test rémunéré aux résultats, et leurs stats récentes — portée des stories, clics, pays de l'audience, et ce qu'ils ont déjà vendu à leur communauté.
+*Le partenariat d'audience YATAA est abandonné : aucun message à envoyer. Numéro de section conservé pour ne pas casser les renvois existants.*
 
 ## 8. Critères de décision du test (fixés avant, pour ne pas se raconter d'histoires)
 
 - **Succès** : ≥ 30 inscrits qualifiés sur la liste en 14 jours (≈ taux de conversion liste→acompte de 1 sur 3 nécessaire pour atteindre 10) → on cale le montage juridique et on ouvre les acomptes.
 - **Signal faible** : 10–29 inscrits → deuxième post + relance de la liste avant de juger.
-- **Échec** : < 10 inscrits en 14 jours → l'audience ne convertit pas sur ce produit à ce prix ; on arrête là, personne n'a rien dépensé.
+- **Échec** : < 10 inscrits en 14 jours → la demande ne convertit pas sur ce produit à ce prix via nos canaux ; on arrête là, personne n'a rien dépensé.
+- *Les 14 jours courent à partir de la mise en ligne de la page sur nos propres canaux (chaîne YouTube, réseaux) — le relais d'audience YATAA ayant été abandonné le 15/10.*

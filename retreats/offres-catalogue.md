@@ -20,7 +20,7 @@
 
 ## Offre 2 — « Dahab » : yoga & kitesurf — 7 jours / 6 nuits — **1 990 €** (option premium 2 899 €)
 
-**Pour qui** : actifs 25–45 ans, audience YATAA (sport, aventure) — c'est l'offre du test partenariat (`dahab-test.md`).
+**Pour qui** : actifs 25–45 ans (sport, aventure) — c'est l'offre du test liste d'intérêt (`dahab-test.md`). *Le partenariat d'audience YATAA a été abandonné le 15/10 : distribution sur nos propres canaux.*
 
 **Programme type** : 6 nuits à Dahab ; yoga quotidien ; **stage de kitesurf 8–9 h avec moniteur IKO, matériel inclus** ; demi-pension ; transferts aéroport Sharm el-Sheikh ; une sortie snorkeling/désert.
 
@@ -47,7 +47,7 @@
 - **Jamais inclus** (standard du marché, à écrire dans chaque annonce) : vol international, visa (~25–30 $), assurance voyage, boissons, pourboires sauf mention.
 - **Encaissement** : aucun acompte avant l'arbitrage « qui vend, encaisse, assure, rembourse » (`dahab-test.md` § 4). La **liste d'intérêt sans paiement** peut, elle, partir tout de suite pour les trois offres (gabarit § 6 de `dahab-test.md`, prix affiché).
 - **Fiscalité** (`inpi-guichet-unique.md`) : franchise de TVA services = 37 500 €/an → une édition Nil (34 900 €) ou deux éditions Dahab la font sauter à elles seules. Plafond micro-prestations 83 600 €/an = ~2 à 3 éditions au total. **Le calendrier des éditions se décide avec le comptable.**
-- [À CONFIRMER par le propriétaire] : dates, lieux exacts, enseignant(e) de yoga francophone, prestataires locaux (devis), et laquelle des trois part en premier (recommandation : Gizeh en premier — logistique la plus simple, risque le plus faible, prix d'appel ; Dahab dès que le test YATAA est accepté).
+- [À CONFIRMER par le propriétaire] : dates, lieux exacts, enseignant(e) de yoga francophone, prestataires locaux (devis), et laquelle des trois part en premier (recommandation : Gizeh en premier — logistique la plus simple, risque le plus faible, prix d'appel ; Dahab ensuite, sur nos propres canaux — le partenariat YATAA a été abandonné le 15/10).
 
 ## Sources des comparables (octobre 2026)
 

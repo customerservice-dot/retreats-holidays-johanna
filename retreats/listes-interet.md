@@ -19,7 +19,7 @@
 
 ## 2. « Dahab » — yoga & kitesurf, 7 jours — 1 990 € [À CONFIRMER]
 
-Texte de référence : `dahab-test.md` § 6 (gabarit maintenu là-bas, prix aligné sur le catalogue). C'est l'offre du test YATAA — critères de décision au § 8.
+Texte de référence : `dahab-test.md` § 6 (gabarit maintenu là-bas, prix aligné sur le catalogue). Critères de décision au § 8 — le partenariat d'audience YATAA ayant été abandonné le 15/10, la liste court sur nos propres canaux.
 
 ## 3. « Le Nil en conscience » — Louxor → Assouan en dahabieh, 8 jours — 3 490 € [À CONFIRMER]
 
