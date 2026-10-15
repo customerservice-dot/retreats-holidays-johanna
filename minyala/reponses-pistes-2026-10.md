@@ -13,6 +13,7 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 2. **Noter la date d'envoi** dans le suivi (onglet « Contacts particuliers » pour Patrick/Francis/Sandra ; ligne FABIAN dans « Tous les clients ») — c'est ce qui empêche une double prise de contact.
 3. AlloVoisins exige un abonnement/essai pour répondre : décision du propriétaire (voir `allovoisins.md` — au plus l'essai gratuit). StoneContact : **ne pas payer l'abonnement avant d'avoir lu les détails gratuits** de la demande de FABIAN.
 4. Adresse exacte du dépôt : uniquement à la confirmation du rendez-vous (message 9 de `messages-courts.md`).
+5. **Avant envoi, le propriétaire confirme les conditions opérationnelles citées dans les textes** : horaires réels du dépôt, disponibilité de Vernon, paiement au retrait, et mention « TTC » (à remplacer par « TVA non applicable, art. 293 B du CGI » en cas de franchise). Elles figurent dans les messages mais n'ont pas été re-confirmées opérationnellement.
 
 ---
 
@@ -26,7 +27,7 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 >
 > En extérieur, la tenue dépend de la finition, du support et de la pose : faites valider le choix par votre poseur, et venez voir les dalles avant de décider. Retrait sur rendez-vous à Gennevilliers (92) ou Vernon (27), lun–ven 9h30–12h / 13h–15h ; paiement au retrait, facture remise.
 >
-> Pouvez-vous me confirmer la surface exacte et votre calendrier ?
+> Pouvez-vous me confirmer la surface exacte, votre échéance, et si vous pourrez venir enlever la pierre (véhicule adapté — comptez ~50 kg/m²) ?
 >
 > Pierre d'Égypte
 
@@ -38,9 +39,9 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 >
 > J'ai vu votre demande sur AlloVoisins. Je déstocke MINYALA : calcaire naturel d'Égypte — le même matériau que celui des pyramides. Dalles 30×60 cm, épaisseur 2 cm, en stock. 35 € TTC le m², pierre seule, minimum 25 m² (soit 875 €).
 >
-> Pour vous répondre précisément : quelle surface vous faut-il, pour quel usage (intérieur ou extérieur), et à quelle échéance ? Sol intérieur ; en extérieur, selon la finition, le support et la pose — à faire valider par votre poseur.
+> Pour vous répondre précisément : quelle surface vous faut-il, pour quel usage (intérieur ou extérieur), à quelle échéance — et pourrez-vous venir enlever la pierre (véhicule adapté, ~50 kg/m²) ? Sol intérieur ; en extérieur, selon la finition, le support et la pose — à faire valider par votre poseur.
 >
-> Le dépôt est à Gennevilliers, à environ 30 minutes de Tremblay : venez voir les dalles sur rendez-vous avant de décider.
+> Le dépôt est à Gennevilliers : venez voir les dalles sur rendez-vous avant de décider.
 >
 > Cordialement,
 > Pierre d'Égypte
@@ -55,7 +56,7 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 >
 > 35 € TTC le m², pierre seule, minimum 25 m² (soit 875 €). Retrait sur rendez-vous à Gennevilliers, tout près de Garches — lundi à vendredi, 9h30–12h / 13h–15h. Paiement au retrait, facture remise.
 >
-> Quelle surface exacte vous faut-il, et pour quel usage (intérieur ou extérieur) ? Le mieux : venez voir les dalles au dépôt avant de décider.
+> Quelle surface exacte vous faut-il, pour quel usage (intérieur ou extérieur), et à quelle échéance ? Pourrez-vous venir enlever la pierre (véhicule adapté, ~50 kg/m²) ? Le mieux : venez voir les dalles au dépôt avant de décider.
 >
 > Bien à vous
 
@@ -71,13 +72,13 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 >
 > Bonjour,
 >
-> Merci pour votre demande d'environ 500 m² de dalles en 55×85 cm. D'emblée : nous n'avons pas ce format. Notre stock est uniquement en 30×60 cm, épaisseur 2 cm (≈ 5,6 dalles/m², ~50 kg/m², estimation). Ce format peut-il convenir à votre projet ?
+> Merci pour votre demande d'environ 500 m² de dalles en 55×85 cm. D'emblée : nous n'avons pas ce format. Notre stock est uniquement en **30×60 cm, épaisseur 2 cm** (≈ 5,6 dalles/m², ~50 kg/m², estimation). **Première question, qui conditionne la suite : ce format peut-il convenir à votre projet ?**
 >
 > Il s'agit de MINYALA, calcaire naturel d'Égypte — le même matériau que celui des pyramides. Sol intérieur ; en extérieur, selon la finition, le support et la pose — à faire valider par votre poseur.
 >
-> Prix public : 35 €/m² TTC, pierre seule. Les conditions professionnelles se font uniquement sur devis écrit, après communication de votre SIRET ou des coordonnées complètes de votre entreprise. Pour 500 m², la livraison peut être étudiée uniquement sur devis ; retrait sur rendez-vous à Gennevilliers (92).
+> Prix public : 35 €/m² TTC, pierre seule. Les conditions professionnelles se font uniquement sur devis écrit, après communication de votre SIRET ou des coordonnées complètes de votre entreprise. Un inventaire précis du stock est en cours : **la quantité disponible sera confirmée avec le devis.** La livraison, pour un volume de cet ordre, ne s'étudie que sur devis ; retrait sur rendez-vous à Gennevilliers (92).
 >
-> Venez voir les dalles au dépôt avant de décider. Quel est votre calendrier ?
+> Venez voir les dalles au dépôt avant de décider. Si le format convient : quelle échéance, et enlèvement possible de votre côté ?
 >
 > Cordialement,
 > Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065
@@ -88,13 +89,13 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 >
 > Hello,
 >
-> Thank you for your request for approximately 500 m² of 55×85 cm slabs in France. To be upfront: we do not stock that size. Our stock is 30×60 cm tiles only, 2 cm thick (≈ 5.6 tiles/m², ~50 kg/m², estimate). Could this format work for your project?
+> Thank you for your request for approximately 500 m² of 55×85 cm slabs in France. To be upfront: we do not stock that size. Our stock is **30×60 cm tiles only, 2 cm thick** (≈ 5.6 tiles/m², ~50 kg/m², estimate). **First question, before anything else: could this format work for your project?**
 >
 > The stone is MINYALA, natural limestone from Egypt — the same material as the pyramids. Interior floors; outdoors, depending on finish, substrate and installation — to be confirmed by your installer.
 >
-> Public price: €35/m² incl. VAT, stone only. Trade terms are given only in a written quotation, once we have your SIRET or full company details. For 500 m², delivery can be considered on quotation only; otherwise collection by appointment in Gennevilliers (92, Paris area).
+> Public price: €35/m² incl. VAT, stone only. Trade terms are given only in a written quotation, once we have your SIRET or full company details. A precise stock inventory is under way: **the available quantity will be confirmed with the quotation.** For a volume of this size, delivery can be considered on quotation only; otherwise collection by appointment in Gennevilliers (92, Paris area).
 >
-> You are welcome to view the tiles at our warehouse. What is your timeline?
+> You are welcome to view the tiles at our warehouse. If the format works for you: what is your timeline, and can you collect?
 >
 > Best regards,
 > Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065

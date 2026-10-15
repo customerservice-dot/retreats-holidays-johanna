@@ -4,14 +4,18 @@
 
 ## 1. Le lot
 
+*Relevé préliminaire du 15/10 : **38 ou 39 palettes à Gennevilliers** (nombre à confirmer). Aucune surface totale ne peut en être déduite sans compter les dalles.*
+
 | Donnée | Valeur relevée | Comment la relever |
 |---|---|---|
-| Nombre de palettes | [À COMPTER] | Compter physiquement, rangée par rangée |
-| Dalles par palette | [À COMPTER] | Compter UNE palette complète, vérifier sur une deuxième |
-| **Total m²** | [= nombre total de dalles × 0,18] | Une dalle 30 × 60 = **0,18 m²**. C'est LE chiffre de l'annonce et de l'inventaire |
+| Nombre de palettes | 38 ou 39 [À CONFIRMER] | Compter physiquement, rangée par rangée |
+| Dalles par palette | [À COMPTER] | Relevé par palette (ci-dessous) — une palette témoin ne donne qu'une estimation |
+| Total m² brut | [= nombre total de dalles × 0,18] | Une dalle 30 × 60 = **0,18 m²** |
+| **Surface VENDABLE (m²)** | [= dalles **intactes comptées** × 0,18] | C'est CE chiffre qui va dans l'annonce et l'inventaire — jamais le brut, jamais une extrapolation de palettes témoins |
 | Dimensions vérifiées | 30 × 60 × 2 cm [à confirmer au mètre sur 3 dalles] | Mesurer longueur, largeur, épaisseur |
-| Poids d'une dalle | [À PESER] kg | Pèse-personne : vous avec/sans la dalle ; ×5,6 = kg/m² réel |
-| État | [neuf sur palettes d'origine / filmé / dalles cassées : nombre ou %] | Ouvrir 2–3 palettes témoins, compter la casse |
+| Poids d'une dalle | [À PESER] kg | Pèse-personne : vous avec/sans la dalle. **kg/m² = poids d'une dalle ÷ 0,18** |
+| Poids palettes + emballages | [À ESTIMER] kg/palette | Indispensable pour organiser le transport (poids total chargé = pierre + palettes + film) |
+| État | [dalles cassées : nombre, via le relevé par palette] | Les palettes témoins donnent une **estimation** du taux de casse ; le total vérifié exige le relevé complet |
 | Finition / teinte | [adouci, brut… / teinte claire, variations naturelles] | Noter ce qui se voit, sans promesse technique |
 | Marquage palettes | [étiquettes : contenu, lot, origine] | Photo de l'étiquette (sans n° de cellule ni adresse) |
 
