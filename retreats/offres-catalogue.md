@@ -30,6 +30,8 @@
 
 **Règles** : base **10 participants** au tarif annoncé ; en dessous, **supplément sur devis** accepté avant confirmation. Vol non inclus (standard du marché : aucune offre ne l'inclut).
 
+**Publication** : fiche BYR en préparation — le clic « Request publishing » **échoue sous la protection du navigateur** (15/10), aucune publication confirmée. ⚠️ Avant toute soumission : vérifier l'écran conditions de CETTE fiche (sur Mamers, la plateforme n'offrait qu'un acompte non remboursable à 100 %) et le parcours de réservation — une fiche publiée peut encaisser, ce que l'arbitrage juridique du § 4 de `dahab-test.md` bloque encore. Les questions posées au support dans `mamers-byr-conditions.md` (politique d'annulation personnalisée, mode demande sans acompte) valent aussi pour cette fiche.
+
 ## Offre 3 — « Le Nil en conscience » : croisière Louxor → Assouan — 5 jours / 4 nuits — **2 899 €** (validée par le propriétaire le 15/10/2026)
 
 **Pour qui** : clientèle premium 40+, couples, petits groupes — la marge de la gamme.
