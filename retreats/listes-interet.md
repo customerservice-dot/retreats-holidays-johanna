@@ -6,7 +6,7 @@
 
 ---
 
-## 1. « Pyramides » — Gizeh, 4 jours — 890 € [À CONFIRMER]
+## 1. « Pyramides » — Gizeh, 4 jours — 890 € [À CONFIRMER : offre non reprise dans la référence validée du 15/10 — maintenue ?]
 
 > **Gizeh, Égypte — 4 jours de yoga face aux pyramides**
 > Guesthouse avec rooftop vue pyramides. Yoga matin et soir, journée Gizeh et Saqqarah avec égyptologue, Grand Musée Égyptien, pension complète, organisation sur place.
@@ -21,14 +21,16 @@
 
 Texte de référence : `dahab-test.md` § 6 (gabarit maintenu là-bas, prix aligné sur le catalogue). Critères de décision au § 8 — le partenariat d'audience YATAA ayant été abandonné le 15/10, la liste court sur nos propres canaux.
 
-## 3. « Le Nil en conscience » — Louxor → Assouan en dahabieh, 8 jours — 3 490 € [À CONFIRMER]
+## 3. « Le Nil en conscience » — croisière Louxor → Assouan, 5 jours / 4 nuits — 2 899 € (validé par le propriétaire le 15/10)
 
-> **Égypte — 8 jours de yoga au fil du Nil, de Louxor à Assouan**
-> 2 nuits à Louxor (Karnak, Vallée des Rois), puis 5 nuits à bord d'une dahabieh, voilier traditionnel : yoga chaque matin sur le pont, temples d'Edfou, Gebel Silsileh, Kom Ombo et Philae avec égyptologue, pension complète à bord.
-> **3 490 € par personne** (hors vol). Départ confirmé à partir de 10 participants. Saison : octobre à avril.
+> **Égypte — 5 jours de yoga au fil du Nil, de Louxor à Assouan**
+> Croisière sur le Nil : yoga chaque matin à bord, visites des temples avec égyptologue, pension complète à bord. [Détail du programme À CONFIRMER avant publication]
+> **2 899 € par personne** (hors vol). Départ confirmé à partir de 10 participants ; en dessous, supplément sur devis accepté avant confirmation. Saison : octobre à avril.
 > Les places partent dans l'ordre de la liste : inscrivez-vous, sans paiement et sans engagement.
 > [Prénom] [E-mail] [→ Je veux ma place]
 > *En vous inscrivant, vous acceptez d'être recontacté(e) au sujet de ce séjour uniquement. Désinscription en un clic.*
+
+*(Premier départ envisagé : 11–15/01/2027, à ne faire figurer sur la page qu'une fois confirmé auprès du bateau. L'offre « Mamers », 7 j / 6 n à 2 899 €, n'a pas encore de page : contenu à terminer.)*
 
 ---
 

@@ -39,7 +39,7 @@ Brouillon préparé par le propriétaire (à NE PAS envoyer tant que les deux ve
 >
 > Would these dates suit you, and what budget per person are you considering?
 
-**Verrou 1 — configuration de l'offre [À CONFIRMER]** : ce brouillon décrit un **Nil 5 j / 4 n à 2 899 €** (départ 11–15/01/2027). Le catalogue du dépôt dit autre chose : Dahab = 5 j / 4 n à 2 899 € (confirmé 15/10) ; Nil = 8 j / 7 n en dahabieh à 3 490 €, sans dates confirmées. À trancher par le propriétaire : s'agit-il d'une **nouvelle déclinaison courte du Nil** (croisière 5 j / 4 n à 2 899 €, distincte du format 8 j) — auquel cas le catalogue sera mis à jour — ou d'une confusion avec les paramètres Dahab ? Le prix et la durée envoyés au prospect doivent correspondre à une offre réelle.
+**Verrou 1 — LEVÉ le 15/10** : le propriétaire a validé la référence « **Nil et Dahab : 5 j / 4 n ; Mamers : 7 j / 6 n — toutes à 2 899 €/personne**, base 10 participants, supplément sur devis en dessous » (validation partagée en session). Le brouillon est donc conforme au catalogue mis à jour : Nil 5 j / 4 n à 2 899 €, départ envisagé 11–15/01/2027 **soumis à confirmation auprès du bateau** — formulation « subject to availability confirmation » déjà présente dans le texte.
 
 **Verrou 2 — date et statut de la demande** : à vérifier avant envoi (règle du § 2). 
 
@@ -50,4 +50,4 @@ Brouillon préparé par le propriétaire (à NE PAS envoyer tant que les deux ve
 - **Aucun encaissement ni acompte** tant que l'arbitrage juridique du § 4 de `dahab-test.md` n'est pas rendu (régime des opérateurs de voyages : Atout France, garantie financière). Un **devis écrit est précontractuel** et reste permis ; le paiement, non.
 - Le « hosted retreat package » relève précisément du régime du forfait : si une demande veut réserver, la réponse s'arrête au devis et à la vérification de disponibilité — pas de confirmation de réservation avant l'arbitrage.
 - Johanna ne répond pas sur Facebook (aucun déclencheur Zapier pour les commentaires/DM — `admin/automatisation-zapier.md` § 1) : ces réponses sont envoyées par le propriétaire lui-même.
-- Faits citables : offre Dahab confirmée (5 j / 4 n, 2 899 €/pers hors vol, base 10 participants, supplément sur devis en dessous). Gizeh et Nil : pas finalisés — en parler comme pistes (« we can explore »), jamais comme offres fermes avec prix.
+- Faits citables : offres confirmées le 15/10 — **Dahab 5 j / 4 n** et **Nil 5 j / 4 n (croisière Louxor → Assouan)**, chacune **2 899 €/pers hors vol**, base 10 participants, supplément sur devis en dessous ; départ Nil envisagé 11–15/01/2027, soumis à confirmation auprès du bateau. **Gizeh et « Mamers » : pas finalisés** — en parler au plus comme pistes (« we can explore »), jamais comme offres fermes avec prix.
