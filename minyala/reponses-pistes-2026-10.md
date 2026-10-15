@@ -2,6 +2,12 @@
 
 *Quatre réponses pour convertir les demandes existantes. Rédigées puis contre-vérifiées contre les règles de `messages-courts.md` (aucun tarif pro, aucun mot interdit, aucune promesse).*
 
+**Objectif de chaque échange — trois réponses à obtenir avant de proposer l'étape suivante :**
+1. **Surface recherchée** (un chiffre, pas « ça dépend ») ;
+2. **Échéance** (quand le chantier/projet a besoin de la pierre) ;
+3. **Enlèvement possible ?** (véhicule adapté — ~50 kg/m² — ou besoin d'une solution).
+Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un devis après SIRET. « Intéressé » sans ces trois réponses = relancer la question, pas la vente.
+
 **Règles d'envoi — à respecter pour chaque piste :**
 1. **Une seule voie de contact par piste** (celle indiquée), un seul expéditeur : le propriétaire, depuis son propre compte sur la plateforme. Jamais deux canaux en même temps pour la même personne.
 2. **Noter la date d'envoi** dans le suivi (onglet « Contacts particuliers » pour Patrick/Francis/Sandra ; ligne FABIAN dans « Tous les clients ») — c'est ce qui empêche une double prise de contact.
