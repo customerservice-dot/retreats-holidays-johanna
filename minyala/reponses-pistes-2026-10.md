@@ -2,6 +2,8 @@
 
 *Quatre réponses pour convertir les demandes existantes. Rédigées puis contre-vérifiées contre les règles de `messages-courts.md` (aucun tarif pro, aucun mot interdit, aucune promesse).*
 
+**État des accès (16/10)** : AlloVoisins — **accès récupéré sur le téléphone du propriétaire** (compte joseph.hanna@hotmail.fr) ; reste la décision d'essai (checklist règle 3) avant d'envoyer les 3 réponses. StoneContact — **aucune session** : le numéro n'est pas associé à un compte ; récupération à tenter par « Forgot password » avec info@pierredegypte.online, puis customerservice@, puis joseph.hanna@hotmail.fr, sur l'appareil du propriétaire ; si aucune boîte ne reçoit de réinitialisation, créer UN seul compte avec info@pierredegypte.online. Aucun message envoyé à ce stade (FABIAN, Teodosiu, Cristina en attente).
+
 **Objectif de chaque échange — trois réponses à obtenir avant de proposer l'étape suivante :**
 1. **Surface recherchée** (un chiffre, pas « ça dépend ») ;
 2. **Échéance** (quand le chantier/projet a besoin de la pierre) ;
