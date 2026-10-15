@@ -44,7 +44,7 @@
 
 **Lieu confirmé** : hôtel particulier à **Mamers (72600, Sarthe, France)**. L'adresse exacte est volontairement tenue hors de ce dépôt public ; elle figure dans la fiche BYR.
 **Inclus** : pension complète, boissons sans alcool, yoga et activités prévues, **transferts CDG aller-retour**.
-**Publication** : fiche BookYogaRetreats **n° 143273** — dernier état vérifié à **87 %**, textes et photos enregistrés ; restent la **géolocalisation** et les **conditions de réservation**. Aucun lien de réservation communiqué tant que la fiche n'est pas finalisée et publiée.
+**Publication** : fiche BookYogaRetreats **n° 143273** — dernier état vérifié à **87 %** (ce n'est pas une publication confirmée), textes et photos enregistrés ; restent la **géolocalisation** et les **conditions de réservation**. Règle fixée par le propriétaire (15/10) : les conditions ne doivent **pas rendre automatiquement tout paiement non remboursable** — projet rédigé dans `mamers-byr-conditions.md`, à faire relire. Aucun lien de réservation communiqué tant que la fiche n'est pas finalisée et publiée.
 **Règles** : base **10 participants** ; en dessous, supplément sur devis accepté avant confirmation.
 ⚠️ Hébergement + activités + transferts combinés = **forfait** : l'arbitrage juridique du § 4 de `dahab-test.md` (régime des opérateurs de voyages) s'applique aussi à cette offre française — aucun encaissement avant.
 
