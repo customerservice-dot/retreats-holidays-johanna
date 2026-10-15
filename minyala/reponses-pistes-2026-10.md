@@ -17,7 +17,34 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 
 ---
 
-## 1. Patrick — AlloVoisins — terrasse ~72 m² (voie : messagerie AlloVoisins)
+## Versions COURTES — démarrage immédiat (16/10)
+
+*Pour engager sans attendre la confirmation des conditions opérationnelles : produit, format, et les trois questions. Horaires, Vernon, paiement et mentions fiscales viendront à l'étape 2 (les versions complètes ci-dessous), après confirmation et avant toute offre ferme.*
+
+**Patrick :**
+> Bonjour Patrick, j'ai vu votre demande pour une terrasse d'environ 72 m². Nous déstockons des dalles MINYALA : calcaire naturel d'Égypte — le même matériau que celui des pyramides. Format unique : 30×60 cm, épaisseur 2 cm. 35 € le m², pierre seule (72 m² ≈ 2 520 €) ; nous ne faisons pas la pose, et en extérieur la tenue dépend de la finition, du support et de la pose (à valider avec votre poseur).
+> Pour avancer : surface exacte ? échéance ? et pourrez-vous venir enlever la pierre (véhicule adapté, ~50 kg/m²) ?
+
+**Francis :**
+> Bonjour Francis, j'ai vu votre demande sur AlloVoisins. Je déstocke MINYALA : calcaire naturel d'Égypte — le même matériau que celui des pyramides. Dalles 30×60 cm, épaisseur 2 cm, en stock à Gennevilliers (92). 35 € le m², pierre seule, minimum 25 m².
+> Pour vous répondre précisément : quelle surface, pour quel usage (intérieur/extérieur), à quelle échéance — et pourrez-vous venir enlever (véhicule adapté, ~50 kg/m²) ?
+
+**Sandra :**
+> Bonjour Sandra, je vous réponds suite à votre demande sur AlloVoisins. En stock à Gennevilliers (92) : dalles MINYALA, calcaire naturel d'Égypte — le même matériau que celui des pyramides. Format unique 30×60 cm, épaisseur 2 cm. 35 € le m², pierre seule, minimum 25 m².
+> Quelle surface exacte, pour quel usage (intérieur/extérieur), à quelle échéance ? Et pourrez-vous venir enlever la pierre (véhicule adapté, ~50 kg/m²) ?
+
+**FABIAN — UNE seule question (FR puis EN) :**
+> Bonjour, merci pour votre demande (~500 m² en 55×85 cm). Nous n'avons pas ce format : notre stock est uniquement en dalles 30×60 cm, épaisseur 2 cm — MINYALA, calcaire naturel d'Égypte. **Ce format peut-il convenir à votre projet ?** Si oui, je reviens vers vous avec les conditions professionnelles, sur devis.
+> Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065
+
+> Hello, thank you for your request (~500 m² of 55×85 cm slabs). We do not stock that size: our stock is 30×60 cm tiles only, 2 cm thick — MINYALA, natural limestone from Egypt. **Could this format work for your project?** If so, I will come back to you with trade terms, by written quotation.
+> Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065
+
+*Note prix : « 35 € le m² » sans mention TTC/TVA — pour un particulier, un prix annoncé est par nature toutes taxes comprises ; la mention exacte (TTC ou « TVA non applicable, art. 293 B du CGI ») sera posée sur le devis et la facture une fois le statut TVA confirmé.*
+
+---
+
+## 1. Patrick — AlloVoisins — terrasse ~72 m² (voie : messagerie AlloVoisins) — version complète (étape 2)
 
 > Bonjour Patrick,
 >
