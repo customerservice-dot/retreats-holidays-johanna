@@ -1,12 +1,14 @@
 <!-- PROJET à faire relire par un professionnel du droit avant toute publication — version du 15/10/2026. Les [CROCHETS] sont des décisions du propriétaire. -->
 
-# Mamers — conditions de réservation pour la fiche BYR 143273 (projet)
+# Mamers — conditions de réservation pour la fiche BYR 143273 (projet — NON PUBLIABLE EN L'ÉTAT)
+
+**NON PRÊT À PUBLIER** : les délais [X]/[Y] et le taux [Z] ne sont pas définis. Un texte contenant des crochets n'entre dans BYR sous aucune forme ; le propriétaire fixe d'abord chaque valeur, puis le texte part en relecture juridique, et seulement ensuite dans la fiche.
 
 *Objectif : finir les 13 % restants de la fiche (géolocalisation + conditions de réservation). Règles d'entrée, fixées le 15/10 : base 10 participants, supplément sur devis en dessous accepté avant confirmation, **jamais de « tout paiement non remboursable » automatique**, et **aucun encaissement tant que l'arbitrage juridique du § 4 de `dahab-test.md` n'est pas rendu** (hébergement + activités + transferts = forfait, y compris pour cette offre française). La géolocalisation (adresse exacte) est saisie par le propriétaire directement dans BYR — elle reste hors de ce dépôt public.*
 
 ## ⚠️ À vérifier AVANT de publier la fiche
 
-BookYogaRetreats/Tripaneer encaisse un acompte à la réservation. **Publier la fiche avec réservation ouverte = encaisser** : soit la fiche reste non réservable (mode demande/« inquiry ») jusqu'à l'arbitrage juridique, soit l'arbitrage est rendu d'abord. À vérifier dans l'interface BYR : quel mode la plateforme permet, et qui encaisse quoi (part plateforme / part organisateur).
+BookYogaRetreats/Tripaneer encaisse un acompte à la réservation. **Publier la fiche avec réservation ouverte = encaisser** : soit l'arbitrage juridique est rendu d'abord, soit la fiche reste non réservable jusque-là. Un mode « demande »/« inquiry », s'il existe, **ne garantit pas par son seul libellé l'absence d'acompte** : vérifier dans l'interface BYR le parcours de réservation réel de bout en bout (ce que voit et paie un client qui clique), quel mode la plateforme permet, et qui encaisse quoi (part plateforme / part organisateur).
 
 ## Texte proposé (anglais, format BYR) — chaque [X] à fixer par le propriétaire
 
