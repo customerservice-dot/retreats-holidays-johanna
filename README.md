@@ -34,6 +34,7 @@ All public prices match the live store (Oct 2026): €35/m² stone only, 25 m² 
 
 | File | What it is |
 |---|---|
+| `offres-catalogue.md` | The three Retreats Holidays offers, each calibrated against real 2025–2027 market listings (sourced): "Pyramides" Giza 4 days €890 (rooftop pyramid view — never promising practice ON the plateau), "Dahab" yoga + IKO kitesurf 7 days €1,990 (the circulating €2,899 turned out to be a competitor's 5-day listing; €2,899 stays as the premium variant), "Nil" Luxor→Aswan dahabiya 8 days €3,490 (Oct–Apr only). With thresholds, what's never included, the VAT/micro-cap scheduling alert, and the no-payment interest-list rule. | Owner confirms dates/providers and which offer launches first (recommended: Giza). |
 | `dahab-test.md` | The YATAA audience-partnership test kit for Retreats Holidays: one offer (Dahab yoga + kitesurf, 7 days, €2,899, confirmation threshold 10 participants or accepted surcharge), the margin worksheet to fill with real local quotes BEFORE any commission is offered, the VAT-franchise and micro-cap alerts, the legal question to settle before any payment (package-travel rules: Atout France registration, financial guarantee), the no-payment interest-list page copy (price displayed), the results-based message to Waldy, and the pass/fail criteria for the test. |
 
 ## What's in `admin/`
