@@ -29,6 +29,12 @@ All public prices match the live store (Oct 2026): €35/m² stone only, 25 m² 
 | `fret-zim.md` | What to enter in ZIM's sea-freight quote form for a 20' container of tiles from Damietta (Egypt) to Le Havre / Gennevilliers, plus the customs side: HS code, 0 % duty with EUR.1, EORI, import VAT, documents to get from the supplier. | Fill the form yourself on zim.com (it blocks automated access). |
 | `visuels/` | Three ad images at Meta's recommended sizes: 4:5 feed (1440×1800), 1:1 price card (1440×1440), 9:16 Story/Reel (1440×2560, safe zones respected). They use the store's current image, labelled "Visuel indicatif". | Upload in Ads Manager; replace with real photos when available. Each image also exists as `.jpg` (Instagram posting accepts JPEG only). |
 
+## What's in `retreats/`
+
+| File | What it is |
+|---|---|
+| `dahab-test.md` | The YATAA audience-partnership test kit for Retreats Holidays: one offer (Dahab yoga + kitesurf, 7 days, €2,899, confirmation threshold 10 participants or accepted surcharge), the margin worksheet to fill with real local quotes BEFORE any commission is offered, the VAT-franchise and micro-cap alerts, the legal question to settle before any payment (package-travel rules: Atout France registration, financial guarantee), the no-payment interest-list page copy (price displayed), the results-based message to Waldy, and the pass/fail criteria for the test. |
+
 ## What's in `admin/`
 
 | File | What it is |
