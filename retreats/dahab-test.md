@@ -7,14 +7,14 @@
 | | |
 |---|---|
 | Séjour | **Dahab (Égypte) — yoga + kitesurf, 7 jours** |
-| Prix affiché | **2 899 € / personne** — [À CONFIRMER par le propriétaire : est-ce l'offre réelle ?] |
+| Prix affiché | **1 990 € / personne** (calibrage marché du 15/10 — `offres-catalogue.md`, offre 2) — [À CONFIRMER par le propriétaire avant toute publication]. Le « 2 899 € » qui circulait est le prix d'un concurrent (combo yoga+kite 5 jours, Nour Boutique Hotel via Tripaneer) ; il est conservé comme **variante premium** si le niveau de prestation (boutique-hôtel, pension complète, excursion désert) le justifie. |
 | Seuil de confirmation | **10 participants au tarif annoncé.** En dessous : le départ n'est confirmé que si les inscrits **acceptent un supplément** ; sinon remboursement intégral. |
 | Test | **Liste d'intérêt sans paiement** (prénom + e-mail + « je veux ma place »), **prix affiché** sur la page — c'est le prix affiché qui rend la demande mesurable. |
 
 ## 2. L'économie à poser AVANT de parler commission
 
-- Potentiel brut : 10 × 2 899 € = **28 990 €**.
-- Une commission de 20–30 % ferait **5 798 à 8 697 €** — on ne la propose PAS d'avance. D'abord les coûts réels, ensuite la commission sur la marge restante.
+- Potentiel brut : 10 × 1 990 € = **19 900 €** (variante premium à 2 899 € : 28 990 €).
+- Une commission de 20–30 % du CA ferait **3 980 à 5 970 €** — on ne la propose PAS d'avance. D'abord les coûts réels, ensuite la commission sur la marge restante.
 - Coûts à chiffrer par devis locaux (le propriétaire est sur place) — tableau à remplir, **aucun chiffre n'est engagé** :
 
 | Poste (par personne sauf mention) | Devis réel |
@@ -31,7 +31,7 @@
 
 ## 3. Alertes chiffrées (vérifiées sur les règles déjà documentées du dépôt)
 
-- **Franchise de TVA — services : 37 500 €** (`inpi-guichet-unique.md`). Une seule édition à 28 990 € en consomme 77 % : la **deuxième retraite de l'année fait sauter la franchise**. À voir avec le comptable avant de programmer la suite.
+- **Franchise de TVA — services : 37 500 €** (`inpi-guichet-unique.md`). Une édition à 19 900 € en consomme 53 % : **deux éditions Dahab dans l'année (39 800 €) font sauter la franchise** — et en variante premium (28 990 €, 77 % de la franchise), la deuxième aussi. À voir avec le comptable avant de programmer la suite.
 - **Plafond micro — prestations : 83 600 €/an** : 2 éditions tiennent, 3 non.
 - Le vol n'est dans aucun chiffre : les participants réservent leur billet eux-mêmes (c'est aussi ce qui allège le montage juridique ci-dessous).
 
@@ -51,7 +51,7 @@ Johanna répond vite aux demandes entrantes, **sous revue quotidienne** (ses tes
 
 > **Dahab, Égypte — 7 jours de yoga & kitesurf**
 > Sinaï, bord de Mer Rouge. Yoga chaque matin, kitesurf l'après-midi dans l'une des meilleures lagunes du monde, encadrement francophone, organisation sur place.
-> **2 899 € par personne** (hors vol). Départ confirmé à partir de 10 participants.
+> **1 990 € par personne** (hors vol). Départ confirmé à partir de 10 participants.
 > Les places partent dans l'ordre de la liste : inscrivez-vous, sans paiement et sans engagement.
 > [Prénom] [E-mail] [→ Je veux ma place]
 > *En vous inscrivant, vous acceptez d'être recontacté(e) au sujet de ce séjour uniquement. Désinscription en un clic.*
