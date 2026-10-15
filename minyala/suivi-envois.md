@@ -54,7 +54,7 @@
    - écho de nos envois : expéditeur = nos propres adresses (Hotmail ou Gmail) → à étiqueter « PROSPECTION/ENVOYÉ », jamais traité comme une réponse ;
    - échec de remise : expéditeur mailer-daemon@ / postmaster@, objet « Delivery Status Notification » / « Undelivered » → statut « E-mail invalide ».
 6. **Toute réponse « non » ou « STOP » → statut « Ne plus contacter »** immédiatement, et aucune relance.
-7. **Une seule relance** par prospect (vers le 19/10 pour cette vague), et seulement après avoir vérifié dans la boîte Hotmail qu'il n'a pas déjà répondu.
+7. **Une seule relance** par prospect (vers le 19/10 pour cette vague — *avancée au 16–17/10 par les directives du 15/10, `directives-chatgpt-prospection.md` ; la règle d'unicité et le contrôle Hotmail préalable restent*), et seulement après avoir vérifié dans la boîte Hotmail qu'il n'a pas déjà répondu.
 8. Aux prochains envois : **ajouter le SIREN 985 289 065 dans la signature**, garder la ligne de désinscription, et envoyer par petits lots espacés (pas 16 en 6 minutes).
 
 ---
