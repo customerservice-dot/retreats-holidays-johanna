@@ -188,16 +188,19 @@ Le propriétaire a demandé **« Direct full automatisation »** : l'étape d'ap
 
 **Ce qui tourne :**
 - **Zap « Johanna » — id 383400721, version 1, PUBLIÉ et ACTIF.** Déclencheur : boîte retreatsholidaysbotpress@gmail.com (`in:inbox` + borne de date), « Never replay » activé. Étapes : rédaction IA → contrôle IA → filtre (décision SEND + contrôle OK + texte non vide) → Gmail « Reply to Email ». Test envoyé et reçu (messages 1a136c1c7f4380fa / 1a136c1dd1d3f9c6).
-- **Zap « Pierre d'Égypte » — id 383400957, BROUILLON.** Ne pas publier tant que : 1) l'expéditeur **info@pierredegypte.online n'est pas vérifié pour l'ENVOI** dans Gmail (« Send mail as » — la redirection en réception ne suffit pas) ; 2) la boîte de production (customerservice@) n'est pas connectée **dans l'éditeur** de Zaps (§ 10).
+- **Zap « Pierre d'Égypte » — id 383400957, BROUILLON.** Ne pas publier tant que : 1) l'expéditeur **info@pierredegypte.online n'est pas vérifié pour l'ENVOI** dans Gmail (« Send mail as » — la redirection en réception ne suffit pas) ; 2) la boîte de production (customerservice@) n'est pas connectée **dans l'éditeur** de Zaps (§ 10) ; 3) un **test d'envoi ET de réception** n'a pas réussi depuis cette configuration exacte (même preuve de bout en bout que pour Johanna), avec l'adresse info@ visible comme expéditeur chez le destinataire.
 
 **Règle de non-simultanéité (impérative).** La variante « brouillons + approbation » (§ 2–§ 9) et la variante « envoi automatique » ne doivent **jamais être actives en même temps sur la même boîte** : même message traité deux fois = double réponse au client. Un seul Zap actif par boîte.
 
+**Déjà couvert dans la v1 publiée** (précision apportée le 13/10 au soir) : le filtre exclut `noreply`/`no-reply`, `mailer-daemon@`, `postmaster@`, les messages « promotions » et les messages de test ; les prompts écartent les oppositions. Un envoi réel de bout en bout (réponse envoyée et reçue sur la boîte de test) **valide le chemin d'envoi Gmail** — il ne remplace pas la surveillance des réponses en production.
+
 **Garde-fous encore absents en mode auto** (la spécification du 13/10 les liste elle-même comme « à réaliser ») : registre partagé, verrou atomique, vérification des réponses humaines, rapprochement inter-boîtes — donc **aucune garantie d'envoi unique entre plusieurs workflows**. Tant qu'ils manquent :
 - un seul Zap actif par boîte (voir ci-dessus) ;
-- le filtre ne protège pas contre les expéditeurs automatiques : exclure dans le déclencheur ou en filtre `mailer-daemon@`, `postmaster@`, `no-reply`/`noreply`, nos propres adresses, et tout message avec en-tête Auto-Submitted — sinon le Zap répond aux notifications et newsletters ;
-- toute réponse entrante contenant « STOP »/« non » doit interrompre le circuit (classe OPPOSITION, § 10) — à vérifier dans la v1, qui ne semble pas la traiter ;
+- **contrôle de l'en-tête `Auto-Submitted`** (absent de la v1) : les réponses d'absence et challenges antispam passent le filtre actuel ;
+- **registre persistant des STOP** : l'écartement par prompt n'est pas un registre — un STOP doit bloquer l'adresse définitivement, pour tous les Zaps et toutes les campagnes (classe OPPOSITION, § 10) ;
+- **alertes** : aucune notification au propriétaire aujourd'hui en cas d'opposition, d'erreur d'étape ou d'arrêt de la file ;
 - le prompt Retreats reste sans catalogue vérifié (partie B « À COMPLÉTER ») : les réponses doivent rester des questions de qualification — jamais de prix, de disponibilité ou d'engagement inventés ;
 - **revue quotidienne la première semaine** : relire chaque envoi automatique (libellé/dossier des messages envoyés) et couper le Zap au premier envoi incorrect ;
-- les **11 tests locaux du 13/10** portaient sur la correspondance des messages et les doublons : ils ne valident **ni** l'étape d'approbation retirée, **ni** le comportement du Zap publié en conditions réelles — la revue quotidienne ci-dessus n'est donc pas optionnelle.
+- les **11 tests locaux du 13/10** portaient sur la correspondance des messages et les doublons ; l'envoi de bout en bout a, lui, été validé une fois sur la boîte de test. Ni l'un ni l'autre ne couvrent le comportement en production sur de vraies demandes — la revue quotidienne ci-dessus n'est donc pas optionnelle.
 
 **Échéance** : essai Zapier de 14 jours ouvert le 13/10 → décision avant ~27/10 (abonnement Professional ou retour aux brouillons § 9, sans quoi le Zap multi-étapes s'arrête). Périmètre couvert aujourd'hui : uniquement la boîte botpress (tests Retreats Holidays) ; **aucune demande Pierre d'Égypte n'est traitée automatiquement**.
