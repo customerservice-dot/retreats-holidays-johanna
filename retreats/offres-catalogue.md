@@ -2,11 +2,11 @@
 
 *Prix calibrés sur des retraites réellement commercialisées en 2025–2027 (sources ci-dessous, converties en euros aux taux d'octobre 2026). Tous les prix s'entendent **par personne, chambre partagée, hors vol international** — c'est le standard du marché. Rien n'est en vente tant que : dates et prestataires [À CONFIRMER], arbitrage juridique du § 4 de `dahab-test.md` non rendu (Atout France / garantie financière), et validation du propriétaire.*
 
-**Référence validée par le propriétaire le 15/10/2026** (validation partagée en session) : **Nil 5 j / 4 n** et **Dahab 5 j / 4 n**, **« Mamers » 7 j / 6 n** — **toutes à 2 899 € / personne**, base 10 participants, supplément sur devis en dessous. Cette référence remplace l'échelle calibrée initiale (890 → 1 990 → 3 490 €) ; les comparables de marché sourcés restent ci-dessous à titre de repère. [À CONFIRMER : le sort de l'offre « Pyramides » à 890 € — non reprise dans la référence — et le contenu de « Mamers ».]
+**Référence validée par le propriétaire le 15/10/2026** (validation partagée en session) : **Nil 5 j / 4 n** et **Dahab 5 j / 4 n**, **« Mamers » 7 j / 6 n** — **toutes à 2 899 € / personne**, base 10 participants, supplément sur devis en dessous. Cette référence remplace l'échelle calibrée initiale (890 → 1 990 → 3 490 €) ; les comparables de marché sourcés restent ci-dessous à titre de repère. Décisions du 15/10 : Gizeh (« Pyramides ») reste **hors des propositions commerciales**, sans être abandonnée ; le contenu de « Mamers » est confirmé (voir sa section).
 
 ---
 
-## Offre 1 — « Pyramides » : yoga face à Gizeh — 4 jours / 3 nuits — **890 €** — [À CONFIRMER : non reprise dans la référence validée du 15/10 — maintenue ou abandonnée ?]
+## Offre 1 — « Pyramides » : yoga face à Gizeh — 4 jours / 3 nuits — **890 €** — HORS PROPOSITIONS COMMERCIALES (décision du 15/10 : non retenue dans les trois offres actuelles, sans être abandonnée — ne pas la proposer)
 
 **Pour qui** : première retraite, budget maîtrisé, week-end prolongé. C'est aussi l'offre-signature de la marque « Pierre et retraites » : le même matériau que celui des pyramides, côté pierre comme côté retraites.
 
@@ -40,9 +40,13 @@
 
 **Règles** : base **10 participants** ; en dessous, **supplément sur devis** accepté avant confirmation. **Saisonnalité : octobre à avril** (janvier convient). Abou Simbel et montgolfière : en option payante, comme tout le marché.
 
-## Offre en préparation — « Mamers » — 7 jours / 6 nuits — **2 899 €** (durée et prix validés le 15/10 ; « reste à terminer »)
+## Offre « Mamers » — hôtel particulier dans la Sarthe — 7 jours / 6 nuits — **2 899 €** (contenu confirmé par le propriétaire le 15/10)
 
-[À CONFIRMER par le propriétaire : lieu, contenu et positionnement — rien d'autre que la durée (7 j / 6 n), le prix (2 899 €) et les règles communes (base 10, supplément sur devis en dessous) n'est validé. **Aucune annonce ni réponse à prospect ne cite cette offre tant qu'elle n'est pas terminée.**]
+**Lieu confirmé** : hôtel particulier à **Mamers (72600, Sarthe, France)**. L'adresse exacte est volontairement tenue hors de ce dépôt public ; elle figure dans la fiche BYR.
+**Inclus** : pension complète, boissons sans alcool, yoga et activités prévues, **transferts CDG aller-retour**.
+**Publication** : fiche BookYogaRetreats **n° 143273** — dernier état vérifié à **87 %**, textes et photos enregistrés ; restent la **géolocalisation** et les **conditions de réservation**. Aucun lien de réservation communiqué tant que la fiche n'est pas finalisée et publiée.
+**Règles** : base **10 participants** ; en dessous, supplément sur devis accepté avant confirmation.
+⚠️ Hébergement + activités + transferts combinés = **forfait** : l'arbitrage juridique du § 4 de `dahab-test.md` (régime des opérateurs de voyages) s'applique aussi à cette offre française — aucun encaissement avant.
 
 ---
 
@@ -50,7 +54,7 @@
 
 - **Jamais inclus** (standard du marché, à écrire dans chaque annonce) : vol international, visa (~25–30 $), assurance voyage, boissons, pourboires sauf mention.
 - **Encaissement** : aucun acompte avant l'arbitrage « qui vend, encaisse, assure, rembourse » (`dahab-test.md` § 4). La **liste d'intérêt sans paiement** peut, elle, partir tout de suite pour les trois offres (gabarit § 6 de `dahab-test.md`, prix affiché).
-- **Fiscalité** (`inpi-guichet-unique.md`) : à la référence validée, chaque édition pleine = 10 × 2 899 € = **28 990 €**, soit 77 % de la franchise de TVA services (37 500 €/an) → **toute deuxième édition dans l'année fait sauter la franchise**. Plafond micro-prestations 83 600 €/an : 2 éditions pleines tiennent (57 980 €), 3 non (86 970 €). **Le calendrier des éditions se décide avec le comptable.**
+- **Fiscalité — hypothèses à valider avec le comptable, rien d'acquis** (`inpi-guichet-unique.md`) : si le régime de franchise documenté s'applique, chaque édition pleine = 10 × 2 899 € = **28 990 €**, soit 77 % de la franchise de TVA services (37 500 €/an), et toute deuxième édition dans l'année la ferait sauter ; le plafond micro-prestations (83 600 €/an) tiendrait 2 éditions pleines, pas 3. **Le régime applicable et le calendrier des éditions se vérifient avec le comptable avant toute décision.**
 - [À CONFIRMER par le propriétaire] : le sort de l'offre « Pyramides »/Gizeh (890 €), le contenu de « Mamers », les dates et prestataires de chaque offre (devis), l'enseignant(e) de yoga francophone, et l'ordre de lancement. Premier départ envisagé : Nil, 11–15/01/2027, soumis à confirmation auprès du bateau. (Le partenariat YATAA a été abandonné le 15/10 : distribution sur nos propres canaux.)
 
 ## Sources des comparables (octobre 2026)

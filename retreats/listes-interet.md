@@ -6,7 +6,7 @@
 
 ---
 
-## 1. « Pyramides » — Gizeh, 4 jours — 890 € [À CONFIRMER : offre non reprise dans la référence validée du 15/10 — maintenue ?]
+## 1. « Pyramides » — Gizeh, 4 jours — 890 € — HORS PROPOSITIONS COMMERCIALES (15/10) : ne pas publier cette page tant que l'offre n'est pas réintégrée
 
 > **Gizeh, Égypte — 4 jours de yoga face aux pyramides**
 > Guesthouse avec rooftop vue pyramides. Yoga matin et soir, journée Gizeh et Saqqarah avec égyptologue, Grand Musée Égyptien, pension complète, organisation sur place.
@@ -30,7 +30,7 @@ Texte de référence : `dahab-test.md` § 6 (gabarit maintenu là-bas, prix alig
 > [Prénom] [E-mail] [→ Je veux ma place]
 > *En vous inscrivant, vous acceptez d'être recontacté(e) au sujet de ce séjour uniquement. Désinscription en un clic.*
 
-*(Premier départ envisagé : 11–15/01/2027, à ne faire figurer sur la page qu'une fois confirmé auprès du bateau. L'offre « Mamers », 7 j / 6 n à 2 899 €, n'a pas encore de page : contenu à terminer.)*
+*(Premier départ envisagé : 11–15/01/2027, à ne faire figurer sur la page qu'une fois confirmé auprès du bateau. L'offre « Mamers » — 7 j / 6 n à 2 899 €, hôtel particulier dans la Sarthe, pension complète, boissons sans alcool, transferts CDG A/R inclus — se publie via sa fiche BookYogaRetreats n° 143273 (87 % ; restent géolocalisation et conditions de réservation) ; une page liste d'intérêt ne se justifie que si la fiche tarde.)*
 
 ---
 

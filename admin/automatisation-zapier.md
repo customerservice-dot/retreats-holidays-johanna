@@ -79,20 +79,23 @@ demande le nom de l'entreprise, son SIRET et la surface, et écris qu'un devis
 écrit suivra.
 
 === B. RETRAITES (Retreats Holidays) ===
-Faits autorisés (mis à jour le 15/10/2026 — offres Dahab et Nil confirmées) :
+Faits autorisés (mis à jour le 15/10/2026 — offres Dahab, Nil et Mamers confirmées) :
 - Séjour « Dahab » : yoga + kitesurf, à Dahab (Égypte, Mer Rouge), 5 jours / 4 nuits.
 - Séjour « Le Nil en conscience » : yoga + visites culturelles, croisière sur le
   Nil entre Louxor et Assouan (Égypte), 5 jours / 4 nuits.
-- Prix de chaque séjour : 2 899 € par personne, hors vol international,
-  base 10 participants.
+- Séjour « Mamers » : yoga et activités dans un hôtel particulier à Mamers
+  (Sarthe, France), 7 jours / 6 nuits, pension complète, boissons sans alcool,
+  transferts CDG aller-retour inclus.
+- Prix de chaque séjour : 2 899 € par personne, base 10 participants
+  (séjours égyptiens : hors vol international).
 - En dessous de 10 participants : supplément sur devis, accepté avant confirmation.
-- Jamais inclus : vol international, visa, assurance voyage.
+- Jamais inclus (séjours égyptiens) : vol international, visa, assurance voyage.
 - Dates : pas encore confirmées — ne donne JAMAIS de date.
 - Tu ne confirmes JAMAIS une réservation, tu n'encaisses JAMAIS et tu ne
   demandes aucun paiement ; la disponibilité doit être vérifiée avec les
   prestataires avant toute confirmation.
-Les autres séjours (Gizeh, « Mamers ») ne sont PAS finalisés : n'en donne ni
-prix ni contenu. Si une information n'est pas dans cette liste, ne l'invente pas :
+L'offre Gizeh est hors des propositions commerciales : n'en donne ni prix ni
+contenu. Si une information n'est pas dans cette liste, ne l'invente pas :
 remercie, pose les questions utiles (dates souhaitées, nombre de personnes,
 budget, niveau de yoga et de kitesurf) et propose un échange.
 
@@ -134,10 +137,11 @@ Règles à vérifier :
    offre de pose, date de livraison.
 3. Tout usage extérieur est suivi de « selon la finition, le support et la pose ».
 4. Retrait : Gennevilliers, sur rendez-vous ; pas d'autre adresse ni d'autres horaires.
-5. Retraites : seules les offres Dahab et Nil sont autorisées (chacune
-   5 jours / 4 nuits, 2 899 € par personne hors vol, base 10 participants,
-   supplément sur devis en dessous) ; aucune date, aucune autre offre ou
-   prestation, aucune confirmation de réservation ni demande de paiement.
+5. Retraites : seules les offres Dahab (5 j / 4 n), Nil (5 j / 4 n) et
+   Mamers (7 j / 6 n) sont autorisées, chacune à 2 899 € par personne
+   (séjours égyptiens : hors vol), base 10 participants, supplément sur
+   devis en dessous ; aucune date, aucune autre offre ou prestation,
+   aucune confirmation de réservation ni demande de paiement.
 6. E-mail de prospection aux pros : contient la phrase permettant de répondre
    STOP et la signature avec le SIREN.
 7. Français correct, ton poli, 15 lignes au maximum.
@@ -214,7 +218,7 @@ Le propriétaire a demandé **« Direct full automatisation »** : l'étape d'ap
 - **contrôle de l'en-tête `Auto-Submitted`** (absent de la v1) : les réponses d'absence et challenges antispam passent le filtre actuel ;
 - **registre persistant des STOP** : l'écartement par prompt n'est pas un registre — un STOP doit bloquer l'adresse définitivement, pour tous les Zaps et toutes les campagnes (classe OPPOSITION, § 10) ;
 - **alertes** : aucune notification au propriétaire aujourd'hui en cas d'opposition, d'erreur d'étape ou d'arrêt de la file ;
-- le **Zap publié (v1) porte encore l'ancienne partie B « À COMPLÉTER »** : la partie B mise à jour le 15/10 (offres Dahab et Nil confirmées : chacune 5 j / 4 n, 2 899 €, base 10, supplément sur devis) est prête au § 4 mais n'est pas collée dans Zapier — tant que ce n'est pas fait, les réponses du Zap doivent rester des questions de qualification, jamais de prix, de disponibilité ou d'engagement ;
+- le **Zap publié (v1) porte encore l'ancienne partie B « À COMPLÉTER »** : la partie B mise à jour le 15/10 (offres Dahab, Nil et Mamers confirmées — 2 899 €, base 10, supplément sur devis) est prête au § 4 mais n'est pas collée dans Zapier — tant que ce n'est pas fait, les réponses du Zap doivent rester des questions de qualification, jamais de prix, de disponibilité ou d'engagement ;
 - **revue quotidienne la première semaine** : relire chaque envoi automatique (libellé/dossier des messages envoyés) et couper le Zap au premier envoi incorrect ;
 - les **11 tests locaux du 13/10** portaient sur la correspondance des messages et les doublons ; l'envoi de bout en bout a, lui, été validé une fois sur la boîte de test. Ni l'un ni l'autre ne couvrent le comportement en production sur de vraies demandes — la revue quotidienne ci-dessus n'est donc pas optionnelle.
 

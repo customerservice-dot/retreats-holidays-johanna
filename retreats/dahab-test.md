@@ -33,7 +33,7 @@
 
 ## 3. Alertes chiffrées (vérifiées sur les règles déjà documentées du dépôt)
 
-- **Franchise de TVA — services : 37 500 €** (`inpi-guichet-unique.md`). Une édition à 28 990 € en consomme 77 % : **la deuxième retraite de l'année fait sauter la franchise**. À voir avec le comptable avant de programmer la suite.
+- **Franchise de TVA — services : 37 500 €** (`inpi-guichet-unique.md`) — **hypothèse à valider avec le comptable, le régime applicable n'est pas confirmé** : si elle s'applique, une édition à 28 990 € en consomme 77 % et la deuxième retraite de l'année la fait sauter. À trancher avec le comptable avant de programmer la suite.
 - **Plafond micro — prestations : 83 600 €/an** : 2 éditions tiennent, 3 non.
 - Le vol n'est dans aucun chiffre : les participants réservent leur billet eux-mêmes (c'est aussi ce qui allège le montage juridique ci-dessous).
 
