@@ -2,7 +2,7 @@
 
 *Prix calibrés sur des retraites réellement commercialisées en 2025–2027 (sources ci-dessous, converties en euros aux taux d'octobre 2026). Tous les prix s'entendent **par personne, chambre partagée, hors vol international** — c'est le standard du marché. Rien n'est en vente tant que : dates et prestataires [À CONFIRMER], arbitrage juridique du § 4 de `dahab-test.md` non rendu (Atout France / garantie financière), et validation du propriétaire.*
 
-**L'échelle des trois offres** : 890 € (découverte, 4 j) → 1 990 € (cœur de gamme, 7 j) → 3 490 € (premium, 8 j). La découverte alimente la liste et la confiance ; le cœur fait le volume ; le premium fait la marge.
+**L'échelle des trois offres** : 890 € (découverte, 4 j) → 2 899 € (cœur de gamme, 5 j — **confirmée par le propriétaire le 15/10**) → 3 490 € (premium, 8 j). La découverte alimente la liste et la confiance ; le cœur fait le volume ; le premium fait la marge.
 
 ---
 
@@ -18,17 +18,17 @@
 
 **Règles** : seuil de confirmation **8 participants** (petite structure) ou supplément accepté. ⚠️ **Ne jamais promettre une pratique SUR le plateau de Gizeh** : pas de voie officielle publique, les autorités ont déjà annulé une méditation au pied de la Grande Pyramide ; on pratique en rooftop/jardin vue pyramides. L'« accès privé du soir » existe via des opérateurs autorisés par le ministère des Antiquités : option à l'étude [À CONFIRMER], jamais garantie dans l'annonce.
 
-## Offre 2 — « Dahab » : yoga & kitesurf — 7 jours / 6 nuits — **1 990 €** (option premium 2 899 €)
+## Offre 2 — « Dahab » : yoga & kitesurf — 5 jours / 4 nuits — **2 899 €** (confirmée par le propriétaire le 15/10/2026)
 
 **Pour qui** : actifs 25–45 ans (sport, aventure) — c'est l'offre du test liste d'intérêt (`dahab-test.md`). *Le partenariat d'audience YATAA a été abandonné le 15/10 : distribution sur nos propres canaux.*
 
-**Programme type** : 6 nuits à Dahab ; yoga quotidien ; **stage de kitesurf 8–9 h avec moniteur IKO, matériel inclus** ; demi-pension ; transferts aéroport Sharm el-Sheikh ; une sortie snorkeling/désert.
+**Programme type** : 4 nuits à Dahab en boutique-hôtel ; yoga quotidien ; **stage de kitesurf avec moniteur IKO, matériel inclus** (volume d'heures [À CONFIRMER]) ; pension et excursions [À CONFIRMER] ; transferts aéroport Sharm el-Sheikh.
 
-**Le marché** : yoga simple 7 nuits = 900–1 200 € ; camp kite seul 7 j = 885–1 505 € ; stage kite seul 8–9 h = 320–500 €. **Le seul combo yoga+kite packagé trouvé se vend 2 899 € pour 5 jours** (Nour Boutique Hotel, Tripaneer) — c'est précisément le chiffre qui circulait : c'est le prix d'un concurrent, pas encore le nôtre. Un combo monté soi-même revient à ~1 400–1 500 € : à 1 990 € l'offre est compétitive et margeuse ; à 2 899 €, il faut le niveau boutique-hôtel + pension complète + excursion désert pour le justifier.
+**Le marché** : yoga simple 7 nuits = 900–1 200 € ; camp kite seul 7 j = 885–1 505 € ; stage kite seul 8–9 h = 320–500 €. **Le seul combo yoga+kite packagé trouvé se vend 2 899 € pour 5 jours** (Nour Boutique Hotel, Tripaneer) : l'offre confirmée se positionne exactement sur ce comparable — même durée, même prix. Conséquence du calibrage : à 2 899 € face à un combo monté soi-même (~1 400–1 500 €), le niveau de prestation doit suivre — boutique-hôtel, pension et excursion à la hauteur.
 
-**Économie indicative (à confirmer par devis — table dans `dahab-test.md` § 2)** : coûts ~1 050–1 500 €/pers à 1 990 € de prix de vente → marge brute ~500–900 €/pers, soit **5 000–9 000 € par édition de 10** avant commission partenaire.
+**Économie** : prix de vente confirmé (2 899 €) ; coûts à chiffrer par devis locaux (table dans `dahab-test.md` § 2) **avant d'ouvrir le moindre acompte** — la marge réelle n'est pas encore connue.
 
-**Règles** : seuil **10 participants** au tarif annoncé, sinon supplément accepté avant confirmation. Vol non inclus (standard du marché : aucune offre ne l'inclut).
+**Règles** : base **10 participants** au tarif annoncé ; en dessous, **supplément sur devis** accepté avant confirmation. Vol non inclus (standard du marché : aucune offre ne l'inclut).
 
 ## Offre 3 — « Le Nil en conscience » : Louxor → Assouan en dahabieh — 8 jours / 7 nuits — **3 490 €**
 

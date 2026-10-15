@@ -17,7 +17,7 @@
 
 ⚠️ Interdit dans toute annonce : promettre une pratique **sur** le plateau de Gizeh ou garantir l'« accès privé du soir » (`offres-catalogue.md`, offre 1). On écrit « rooftop vue pyramides », rien d'autre.
 
-## 2. « Dahab » — yoga & kitesurf, 7 jours — 1 990 € [À CONFIRMER]
+## 2. « Dahab » — yoga & kitesurf, 5 jours / 4 nuits — 2 899 € (confirmé par le propriétaire le 15/10)
 
 Texte de référence : `dahab-test.md` § 6 (gabarit maintenu là-bas, prix aligné sur le catalogue). Critères de décision au § 8 — le partenariat d'audience YATAA ayant été abandonné le 15/10, la liste court sur nos propres canaux.
 

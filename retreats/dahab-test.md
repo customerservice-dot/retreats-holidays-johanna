@@ -8,14 +8,14 @@
 
 | | |
 |---|---|
-| Séjour | **Dahab (Égypte) — yoga + kitesurf, 7 jours** |
-| Prix affiché | **1 990 € / personne** (calibrage marché du 15/10 — `offres-catalogue.md`, offre 2) — [À CONFIRMER par le propriétaire avant toute publication]. Le « 2 899 € » qui circulait est le prix d'un concurrent (combo yoga+kite 5 jours, Nour Boutique Hotel via Tripaneer) ; il est conservé comme **variante premium** si le niveau de prestation (boutique-hôtel, pension complète, excursion désert) le justifie. |
-| Seuil de confirmation | **10 participants au tarif annoncé.** En dessous : le départ n'est confirmé que si les inscrits **acceptent un supplément** ; sinon remboursement intégral. |
+| Séjour | **Dahab (Égypte) — yoga + kitesurf, 5 jours / 4 nuits** |
+| Prix affiché | **2 899 € / personne** (hors vol) — **CONFIRMÉ par le propriétaire le 15/10/2026**. Même durée et même prix que le seul comparable packagé du marché (Nour Boutique Hotel via Tripaneer) : le niveau de prestation doit suivre (boutique-hôtel, pension, excursion). L'ancien calibrage « 1 990 € / 7 jours » est remplacé. |
+| Seuil de confirmation | **Base 10 participants au tarif annoncé.** En dessous : **supplément sur devis**, accepté par les inscrits avant confirmation ; sinon remboursement intégral. |
 | Test | **Liste d'intérêt sans paiement** (prénom + e-mail + « je veux ma place »), **prix affiché** sur la page — c'est le prix affiché qui rend la demande mesurable. |
 
 ## 2. L'économie à poser AVANT d'ouvrir les acomptes
 
-- Potentiel brut : 10 × 1 990 € = **19 900 €** (variante premium à 2 899 € : 28 990 €).
+- Potentiel brut : 10 × 2 899 € = **28 990 €**.
 - Partenariat abandonné (15/10) : **aucune commission à prévoir** — la marge reste entière, mais la distribution repose uniquement sur nos propres canaux (chaîne YouTube, réseaux, bouche-à-oreille).
 - Coûts à chiffrer par devis locaux (le propriétaire est sur place) — tableau à remplir, **aucun chiffre n'est engagé** :
 
@@ -33,7 +33,7 @@
 
 ## 3. Alertes chiffrées (vérifiées sur les règles déjà documentées du dépôt)
 
-- **Franchise de TVA — services : 37 500 €** (`inpi-guichet-unique.md`). Une édition à 19 900 € en consomme 53 % : **deux éditions Dahab dans l'année (39 800 €) font sauter la franchise** — et en variante premium (28 990 €, 77 % de la franchise), la deuxième aussi. À voir avec le comptable avant de programmer la suite.
+- **Franchise de TVA — services : 37 500 €** (`inpi-guichet-unique.md`). Une édition à 28 990 € en consomme 77 % : **la deuxième retraite de l'année fait sauter la franchise**. À voir avec le comptable avant de programmer la suite.
 - **Plafond micro — prestations : 83 600 €/an** : 2 éditions tiennent, 3 non.
 - Le vol n'est dans aucun chiffre : les participants réservent leur billet eux-mêmes (c'est aussi ce qui allège le montage juridique ci-dessous).
 
@@ -47,13 +47,13 @@ La **liste d'intérêt ne vend rien** : elle peut partir sans attendre cet arbit
 
 ## 5. Johanna — rôle dans le test
 
-Johanna répond vite aux demandes entrantes, **sous revue quotidienne** (ses tests ont montré une réponse correcte ET des lacunes — `admin/automatisation-zapier.md` § 11) : qualification et collecte (dates envisagées, niveau kitesurf, questions), **jamais** de confirmation de réservation ni d'encaissement automatiques. Son prompt ne reçoit l'offre Dahab qu'une fois la case [À CONFIRMER] du § 1 levée par le propriétaire.
+Johanna répond vite aux demandes entrantes, **sous revue quotidienne** (ses tests ont montré une réponse correcte ET des lacunes — `admin/automatisation-zapier.md` § 11) : qualification et collecte (dates envisagées, niveau kitesurf, questions), **jamais** de confirmation de réservation ni d'encaissement automatiques. L'offre Dahab étant confirmée (15/10), ses faits peuvent entrer dans son prompt : la partie B du Prompt 1 est mise à jour dans `admin/automatisation-zapier.md` § 4 — mais **le Zap publié (v1) porte encore l'ancien prompt** tant que le nouveau texte n'est pas collé dans Zapier. D'ici là, Johanna reste en qualification pure.
 
 ## 6. Page « liste d'intérêt » — texte prêt (support : Google Form, page Shopify ou page statique)
 
-> **Dahab, Égypte — 7 jours de yoga & kitesurf**
+> **Dahab, Égypte — 5 jours de yoga & kitesurf**
 > Sinaï, bord de Mer Rouge. Yoga chaque matin, kitesurf l'après-midi dans l'une des meilleures lagunes du monde, encadrement francophone, organisation sur place.
-> **1 990 € par personne** (hors vol). Départ confirmé à partir de 10 participants.
+> **2 899 € par personne** (hors vol). Départ confirmé à partir de 10 participants ; en dessous, supplément sur devis accepté avant confirmation.
 > Les places partent dans l'ordre de la liste : inscrivez-vous, sans paiement et sans engagement.
 > [Prénom] [E-mail] [→ Je veux ma place]
 > *En vous inscrivant, vous acceptez d'être recontacté(e) au sujet de ce séjour uniquement. Désinscription en un clic.*
