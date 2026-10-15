@@ -27,6 +27,24 @@
 
 **Réponse au besoin précis → dates / effectif / budget → devis écrit → disponibilité confirmée auprès des prestataires.** Et : **aucun paiement demandé sur un lien défaillant.**
 
+## 3 bis. Demande repérée le 15/10 — retraite de yoga autour du 15 janvier 2027 (destination ouverte)
+
+*Signalée par le propriétaire le 15/10 : demande mieux adaptée qu'une demande de lieu — une personne cherche une retraite de yoga autour du 15/01/2027 (voyage d'anniversaire), destination ouverte. **Aucun commentaire envoyé** : la protection du navigateur bloque l'accès aux publications, la **date de publication reste à vérifier**. Les demandes à dates passées ou destinations incompatibles ont été écartées ; aucune prospection exhaustive n'est annoncée.*
+
+Brouillon préparé par le propriétaire (à NE PAS envoyer tant que les deux verrous ci-dessous ne sont pas levés) :
+
+> Hi! I'm Joseph from Retreats Holidays. We offer a 5-day / 4-night yoga and cultural retreat on a Nile cruise between Luxor and Aswan. Our planned 11–15 January 2027 departure could fit your birthday trip, subject to availability confirmation.
+>
+> The package is €2,899 per person, excluding flights, based on a retreat group of at least 10 participants. Solo travellers are welcome to enquire; smaller groups require a supplement agreed before confirmation.
+>
+> Would these dates suit you, and what budget per person are you considering?
+
+**Verrou 1 — configuration de l'offre [À CONFIRMER]** : ce brouillon décrit un **Nil 5 j / 4 n à 2 899 €** (départ 11–15/01/2027). Le catalogue du dépôt dit autre chose : Dahab = 5 j / 4 n à 2 899 € (confirmé 15/10) ; Nil = 8 j / 7 n en dahabieh à 3 490 €, sans dates confirmées. À trancher par le propriétaire : s'agit-il d'une **nouvelle déclinaison courte du Nil** (croisière 5 j / 4 n à 2 899 €, distincte du format 8 j) — auquel cas le catalogue sera mis à jour — ou d'une confusion avec les paramètres Dahab ? Le prix et la durée envoyés au prospect doivent correspondre à une offre réelle.
+
+**Verrou 2 — date et statut de la demande** : à vérifier avant envoi (règle du § 2). 
+
+**Améliorations suggérées au brouillon** (à valider) : ajouter la ligne de transparence du gabarit § 1 (« For transparency, this is a commercial recommendation from our own business ») — elle protège vis-à-vis des règles des groupes ; et garder « subject to availability confirmation », déjà présent. Aucune donnée identifiante du prospect ne doit entrer dans ce dépôt public.
+
 ## 4. Garde-fous (rappel des règles du dépôt)
 
 - **Aucun encaissement ni acompte** tant que l'arbitrage juridique du § 4 de `dahab-test.md` n'est pas rendu (régime des opérateurs de voyages : Atout France, garantie financière). Un **devis écrit est précontractuel** et reste permis ; le paiement, non.
