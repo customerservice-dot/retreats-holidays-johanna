@@ -2,7 +2,7 @@
 
 *Quatre réponses pour convertir les demandes existantes. Rédigées puis contre-vérifiées contre les règles de `messages-courts.md` (aucun tarif pro, aucun mot interdit, aucune promesse).*
 
-**État des accès (16/10)** : AlloVoisins — **accès récupéré sur le téléphone du propriétaire** (compte joseph.hanna@hotmail.fr) ; reste la décision d'essai (checklist règle 3) avant d'envoyer les 3 réponses. StoneContact — **aucune session** : le numéro n'est pas associé à un compte ; récupération à tenter par « Forgot password » avec info@pierredegypte.online, puis customerservice@, puis joseph.hanna@hotmail.fr, sur l'appareil du propriétaire ; si aucune boîte ne reçoit de réinitialisation, créer UN seul compte avec info@pierredegypte.online. Aucun message envoyé à ce stade (FABIAN, Teodosiu, Cristina en attente).
+**État des accès (15/10)** : AlloVoisins — **accès récupéré sur le téléphone du propriétaire** (compte joseph.hanna@hotmail.fr) ; reste la décision d'essai (checklist règle 3) avant d'envoyer les 3 réponses. StoneContact — **aucune session** : le numéro n'est pas associé à un compte ; récupération à tenter par « Forgot password » avec info@pierredegypte.online, puis customerservice@, puis joseph.hanna@hotmail.fr, sur l'appareil du propriétaire ; si aucune boîte ne reçoit de réinitialisation, créer UN seul compte avec info@pierredegypte.online. Aucun message envoyé à ce stade (FABIAN, Teodosiu, Cristina en attente).
 
 **Objectif de chaque échange — trois réponses à obtenir avant de proposer l'étape suivante :**
 1. **Surface recherchée** (un chiffre, pas « ça dépend ») ;
@@ -19,7 +19,7 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 
 ---
 
-## Versions COURTES — démarrage immédiat (16/10)
+## Versions COURTES — démarrage immédiat
 
 *Pour engager sans attendre la confirmation des conditions opérationnelles : produit, format, et les trois questions. Horaires, Vernon, paiement et mentions fiscales viendront à l'étape 2 (les versions complètes ci-dessous), après confirmation et avant toute offre ferme.*
 
@@ -42,7 +42,7 @@ Les trois obtenues → proposer un créneau de visite réel ou, pour un pro, un 
 > Hello, thank you for your request (~500 m² of 55×85 cm slabs). We do not stock that size: our stock is 30×60 cm tiles only, 2 cm thick — MINYALA, natural limestone from Egypt. **Could this format work for your project?** If so, I will come back to you with trade terms, by written quotation.
 > Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065
 
-**Teodosiu et Cristina — StoneContact, demandes de TRAVERTIN (ajoutées le 16/10) — première réponse = vérifier l'alternative, rien d'autre.** Aucun volume, aucun tarif (même public) à ce stade ; réponse dans leur demande StoneContact respective ; aucune coordonnée professionnelle vérifiée. Même message pour les deux (FR puis EN selon la langue de la demande) :
+**Teodosiu et Cristina — StoneContact, demandes de TRAVERTIN (ajoutées le 15/10) — première réponse = vérifier l'alternative, rien d'autre.** Aucun volume, aucun tarif (même public) à ce stade ; réponse dans leur demande StoneContact respective ; aucune coordonnée professionnelle vérifiée. Même message pour les deux (FR puis EN selon la langue de la demande) :
 
 > Bonjour, j'ai vu votre demande de travertin. Nous n'en vendons pas — mais nous déstockons MINYALA, un calcaire naturel d'Égypte : dalles 30×60 cm, épaisseur 2 cm, teinte claire, stock situé en France (Hauts-de-Seine). Deux questions : votre recherche est-elle toujours en cours, et ce calcaire pourrait-il convenir à la place du travertin ? Si oui, je vous envoie le détail — et les dalles se visitent sur rendez-vous.
 > Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065

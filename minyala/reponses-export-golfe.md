@@ -1,12 +1,12 @@
-# Réponses export Golfe — RFQ saoudiennes et prospects (16/10/2026)
+# Réponses export Golfe — RFQ saoudiennes et prospects (15/10/2026)
 
-*Trois messages pour le volet saoudien/émirati retrouvé dans les suivis des 12–13/10. Principe : **qualification seulement** — aucun volume garanti, aucun prix, aucune promesse de capacité. Envoi : boîte Gmail uniquement, objet unique « MINYALA — [Société] », dans la limite des **10 envois/jour TOUTES campagnes confondues** (la vague française passe d'abord), date + Message-ID journalisés.*
+*Trois messages pour le volet saoudien/émirati retrouvé dans les suivis des 12–13/10. Principe : **qualification seulement** — aucun volume garanti, aucun prix, aucune promesse de capacité. Envoi : boîte Gmail uniquement, objet unique par destinataire (gabarit C : « MINYALA — [Société] » ; les réponses aux RFQ A et B gardent leur objet spécifique), dans la limite des **10 envois/jour TOUTES campagnes confondues** (la vague française passe d'abord), date + Message-ID journalisés.*
 
 ## Les limites dures (à ne jamais franchir dans ces échanges)
 
-1. **Échelle** : le lot en France fait au plus ~2 000 m² (inventaire en cours, 38–39 palettes — probablement nettement moins). Face à 45 000 m², on ne « répond » pas à la demande : on demande si elle est encore ouverte et si un lot d'essai a un sens.
+1. **Échelle** : la surface vendable du lot en France est inconnue (38–39 palettes, comptage en cours). Face à 45 000 m², on ne « répond » pas à la demande : on demande si elle est encore ouverte et si un lot d'essai a un sens.
 2. **Spécification** : 30×60 cm, **2 cm**, orienté **sol**. Pas de 3 cm, pas de finition bouchardée, et **aucune revendication façade** (usage non validé, normes différentes, pas de DoP à ce jour).
-3. **Fourniture depuis l'Égypte : décision du propriétaire (16/10) — « on enverra directement d'Égypte ».** Les messages peuvent donc l'annoncer comme voie d'approvisionnement. Ce qui reste interdit tant que le fournisseur n'a pas confirmé par écrit (formats, finitions, capacité, prix FOB, délais) : chiffrer un volume, un prix ou un délai, ou garantir une spécification (3 cm, bouchardé, qualité façade). Formule autorisée : « subject to confirmation with the producer ».
+3. **Fourniture depuis l'Égypte : décision du propriétaire (15/10) — « on enverra directement d'Égypte ».** Les messages peuvent donc l'annoncer comme voie d'approvisionnement. Ce qui reste interdit tant que le fournisseur n'a pas confirmé par écrit (formats, finitions, capacité, prix FOB, délais) : chiffrer un volume, un prix ou un délai, ou garantir une spécification (3 cm, bouchardé, qualité façade). Formule autorisée : « subject to confirmation with the producer ».
 4. **Al Maha Marbles : NE PAS recontacter** (rejet antispam enregistré, `registre-rejets-2026-10-12.csv`).
 5. Les 80 000 € évoqués ailleurs : **non justifiés par un calcul retrouvé — pas une vente**. Rien dans ces messages ne doit s'y référer.
 
@@ -16,7 +16,7 @@
 >
 > Hello,
 >
-> We noted your request from last April for 45,000 m² of beige limestone for façades (60×30 cm). Two honest points first: our current stock in France is a single clearance lot of 30×60 cm tiles, 2 cm thick, specified for flooring — far below your volume, and not a façade product.
+> We noted your request from last April for 45,000 m² of beige limestone for façades (60×30 cm). Two points first: our current stock in France is a single clearance lot of 30×60 cm tiles, 2 cm thick, specified for flooring — far below your volume, and not a façade product.
 >
 > Beyond that lot, we organise supply directly from Egypt, at origin. Whether façade-grade material in your specification can be supplied is something we would confirm with the producer before any offer.
 >
@@ -27,7 +27,7 @@
 > Pierre d'Égypte — Pierre et retraites (France), SIREN 985 289 065
 > Reply STOP to be removed from our contacts.
 
-*Statut après envoi : « Contacté » + date. Si la demande est close ou sans réponse sous 10 jours : « Pas intéressé », aucune relance.*
+*Statut après envoi : « Contacté » + date. Demande close ou refus exprimé : « Pas intéressé ». Sans réponse sous 10 jours : « Sans réponse — clos (date) ». Aucune relance dans les deux cas.*
 
 ## B. RFQ Riyadh — 2 700 m², 30×60×3 cm, finition bouchardée
 
@@ -35,7 +35,7 @@
 >
 > Hello,
 >
-> About your request for 2,700 m² of 30×60×3 cm bush-hammered limestone — to be upfront: our stock in France is 30×60 cm in 2 cm thickness, not bush-hammered, so it does not match.
+> About your request for 2,700 m² of 30×60×3 cm bush-hammered limestone — our stock in France is 30×60 cm in 2 cm thickness, not bush-hammered, so it does not match.
 >
 > However, we organise supply directly from Egypt, at origin. Whether your exact specification (3 cm, bush-hammered) can be supplied is something we would confirm with the producer before any offer.
 >
@@ -63,7 +63,7 @@
 > Pierre d'Égypte — Pierre et retraites (France), SIREN 985 289 065
 > Reply STOP to be removed from our contacts.
 
-*Réalité économique : ces sociétés achètent du calcaire égyptien à la source — le lot de Gennevilliers ne les intéressera probablement pas. L'intérêt du canal est la **fourniture directe depuis l'Égypte** (décision du 16/10) : fret court Égypte→Golfe, prix à l'origine. La vague française garde néanmoins la priorité sur les 10 envois/jour : elle seule peut acheter le lot existant.*
+*Réalité économique : ces sociétés achètent du calcaire égyptien à la source — le lot de Gennevilliers ne les intéressera probablement pas. L'intérêt du canal est la **fourniture directe depuis l'Égypte** (décision du 15/10) : fret court Égypte→Golfe, prix à l'origine. La vague française garde néanmoins la priorité sur les 10 envois/jour : elle seule peut acheter le lot existant.*
 
 ## Préalables avant toute OFFRE CHIFFRÉE depuis l'Égypte (la qualification, elle, peut partir)
 
@@ -74,4 +74,4 @@
 
 ## Journal
 
-- 16/10 : messages rédigés, **aucun envoi**. Gmail refonctionne, aucun retour MINYALA constaté. Outlook et Network Solutions non reconnectés (accès propriétaire uniquement).
+- 15/10 : messages rédigés, **aucun envoi** ; envois prévus à partir du 16/10, vague française d'abord. Gmail refonctionne, aucun retour MINYALA constaté. Outlook et Network Solutions non reconnectés (accès propriétaire uniquement).
