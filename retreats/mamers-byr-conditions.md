@@ -10,6 +10,23 @@
 
 BookYogaRetreats/Tripaneer encaisse un acompte à la réservation. **Publier la fiche avec réservation ouverte = encaisser** : soit l'arbitrage juridique est rendu d'abord, soit la fiche reste non réservable jusque-là. Un mode « demande »/« inquiry », s'il existe, **ne garantit pas par son seul libellé l'absence d'acompte** : vérifier dans l'interface BYR le parcours de réservation réel de bout en bout (ce que voit et paie un client qui clique), quel mode la plateforme permet, et qui encaisse quoi (part plateforme / part organisateur).
 
+**Constaté le 15/10 (reprise du propriétaire)** : l'écran conditions de la fiche 143273 ne propose **qu'un acompte non remboursable**, affiché à **100 %** — non validé. Ce réglage est contraire à la règle du propriétaire et, tel quel, incompatible avec le remboursement intégral dû quand le départ n'est pas confirmé (base 10). Par ailleurs, la **carte reste blanche** à l'étape localisation (France et adresse ressaisies, enregistrement non confirmé) : correction technique Tripaneer nécessaire. D'où le message au support ci-dessous.
+
+## Message au support Tripaneer/BYR — prêt à envoyer par le propriétaire
+
+> **Subject: Listing 143273 — location map not loading + cancellation policy options**
+>
+> Hello,
+>
+> I'm finalizing listing 143273 (yoga retreat in Mamers, France) and I'm blocked on the last two steps:
+>
+> 1. **Location**: the country and full address are entered, but the map stays blank, so I cannot place or confirm the pin, and I'm not sure the location data is being saved. Can you fix the map on this listing or confirm the location on your side from the address entered?
+>
+> 2. **Booking conditions**: the screen only offers a single "non-refundable deposit" setting, currently showing 100%. We do not want any payment to be automatically non-refundable — in particular, our retreat is confirmed from 10 participants, and anyone who paid must be refunded in full if the departure is not confirmed. What are the options for (a) a tiered or custom cancellation policy, and (b) keeping the listing on an inquiry basis — no deposit collected at booking — until our cancellation conditions are finalized?
+>
+> Thank you,
+> Joseph — Retreats Holidays (listing 143273)
+
 ## Texte proposé (anglais, format BYR) — chaque [X] à fixer par le propriétaire
 
 > **Group confirmation.** The retreat is confirmed from 10 participants at the advertised price. With fewer participants, we may propose a supplement, agreed in writing before confirmation; if the retreat is not confirmed, every amount paid is refunded in full.
