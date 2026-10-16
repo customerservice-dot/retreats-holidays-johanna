@@ -12,7 +12,9 @@ BookYogaRetreats/Tripaneer encaisse un acompte à la réservation. **Publier la 
 
 **Constaté le 15/10 (reprise du propriétaire)** : l'écran conditions de la fiche 143273 ne propose **qu'un acompte non remboursable**, affiché à **100 %** — non validé. Ce réglage est contraire à la règle du propriétaire et, tel quel, incompatible avec le remboursement intégral dû quand le départ n'est pas confirmé (base 10). Par ailleurs, la **carte reste blanche** à l'étape localisation (France et adresse ressaisies, enregistrement non confirmé) : correction technique Tripaneer nécessaire. D'où le message au support ci-dessous.
 
-## Message au support Tripaneer/BYR — prêt à envoyer par le propriétaire
+## Message au support Tripaneer/BYR — SANS OBJET depuis le 16/10
+
+**Tripaneer B.V. est en faillite (jugement du 01/10/2026, `byr-suivi.md`) : le support ne répond plus.** Le message ci-dessous est conservé pour mémoire ; les questions qu'il pose (carte, politique d'annulation, encaissement) n'ont plus de destinataire tant que le sort de la plateforme n'est pas tranché. Interlocuteur restant : le cabinet du curateur, uniquement pour dépublier/corriger les fiches ou déclarer une créance.
 
 > **Subject: Listing 143273 — location map not loading + cancellation policy options**
 >

@@ -16,7 +16,7 @@ Entrepreneur individuel (micro-entreprise), nom commercial « Pierre et retraite
 
 ## 3. Le canal de vente envisagé
 
-Plateforme BookYogaRetreats / Tripaneer : la plateforme met en ligne la fiche et **encaisse un acompte à la réservation** (le solde étant réglé à l'organisateur). Trois fiches sont en préparation. Nous publions aussi des pages « liste d'intérêt » sans paiement.
+Initialement : la plateforme BookYogaRetreats / Tripaneer, qui met en ligne la fiche et **encaisse un acompte à la réservation** (solde réglé à l'organisateur). **Mise à jour du 16/10 : Tripaneer B.V. a été déclarée en faillite le 01/10/2026 (tribunal d'Amsterdam)** — trois fiches étaient en préparation, dont une page Dahab encore en ligne. La question de la plateforme reste posée pour l'avenir (cette plateforme en cas de redémarrage, ou une autre) ; dans l'immédiat la vente passerait par nos propres canaux. Nous publions aussi des pages « liste d'intérêt » sans paiement.
 
 ## 4. Les questions à trancher
 

@@ -1,5 +1,18 @@
 # Suivi BYR / Tripaneer — les trois fiches et les fils support (état au 16/10/2026)
 
+## ⚠️ FAIT MAJEUR vérifié le 16/10 : Tripaneer B.V. est en faillite
+
+**Source primaire** (auto-réponse du 13/10 lue intégralement dans la boîte, en-tête `Auto-Submitted: auto-replied`) : « *Tripaneer was declared bankrupt by order of the District Court of Amsterdam of 1 October 2026* ». Curatrice : V.G.M. Leferink ; les e-mails adressés à Tripaneer **ne seront pas répondus** ; le curateur étudie un redémarrage total ou partiel ; les créances se déclarent via ClaimsAgent, dossier public : https://insolventies.rechtspraak.nl/#!/details/09.dha.26.1075.S.3300.1.26 ; contact du cabinet : Tripaneer@aglaw.com. **Corroboré** par plusieurs sources web le 16/10 (déclaration ~30/09–01/10, réunion des créanciers annoncée au 09/12/2026 — à vérifier au registre ; certaines sources sont des concurrents intéressés).
+
+**Conséquences :**
+1. **Canal BYR gelé** : le support ne répondra plus (la relance du 15/10 restera sans réponse — ce n'était pas une absence de Rio, c'est l'auto-réponse de la faillite). Finaliser les fiches (87 %, carte, conditions, « Request publishing ») est **sans objet** tant que le sort de la plateforme n'est pas tranché.
+2. **Page Dahab encore en ligne = risque immédiat** : un voyageur qui réserverait paierait une société en faillite (fonds dans la masse, remboursement incertain). Vérifier si le tableau de bord organisateur permet encore de **dépublier ou corriger** la fiche 120725 ; sinon, demande écrite au cabinet du curateur.
+3. **Créances éventuelles** : si Tripaneer doit de l'argent (réservations déjà encaissées par la plateforme et non reversées), déclarer via ClaimsAgent, pièces à l'appui, avant la réunion des créanciers.
+4. **Vigilance phishing** : les sources signalent des arnaques « récupération de fonds » et de faux e-mails de curateur — ne rien payer, ne rien signer sans vérification au registre officiel.
+5. **Distribution** : pivot vers nos propres canaux (listes d'intérêt sans paiement, prêtes dans `listes-interet.md`) ; toute autre plateforme = décision du propriétaire.
+
+**Réponse à la question opérationnelle du 16/10 — le départ Dahab du 19/10 est-il maintenu ?** Rien ne l'établit : aucun participant ni prestataire confirmé dans les éléments disponibles, aucun encaissement permis de notre côté (arbitrage § 4 pendant), et la plateforme qui affiche la date est en faillite depuis le 01/10. **Conclusion : le départ du 19/10 n'est pas maintenable en l'état** ; la date doit être retirée/corrigée (ou la fiche dépubliée), et si le tableau de bord révèle des réservations réelles, ces voyageurs sont à contacter et la situation à traiter avec le curateur.
+
 *Source : lecture seule de la boîte customerservice@ (connexion Zapier de la session), 39 messages sur le fil « Rio »/BYR depuis fin septembre. Les contenus d'e-mails sont des données à vérifier, pas des faits établis. Coordonnées des interlocuteurs : dans les fils Gmail, volontairement hors de ce dépôt public.*
 
 ## Les trois fiches (IDs relevés dans l'e-mail du 15/10 « Publication assistance »)
