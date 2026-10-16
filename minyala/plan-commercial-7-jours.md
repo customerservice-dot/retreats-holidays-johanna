@@ -51,6 +51,10 @@ Règle : les coûts **déjà payés** (achat, fret) sont dépensés — ils ne f
 > Bonjour, nous déstockons un lot de dalles en pierre calcaire naturelle (30 × 60 × 2 cm, neuves, sur palettes, [QUANTITÉ VÉRIFIÉE] m²), stocké en entrepôt dans les Hauts-de-Seine (92). Inventaire et photos disponibles. Rachetez-vous ce type de lot, et à quelles conditions (prix, enlèvement, paiement) ? Visite possible sur rendez-vous.
 > Pierre d'Égypte — Pierre et retraites, SIREN 985 289 065.
 
+## Prestataires marketing (règle du 16/10)
+
+**Aucun retainer, abonnement ou prestation marketing payée d'avance avant le premier encaissement.** Les offres d'agences (SEO, « visibilité IA », nurturing, réseaux sociaux) ne correspondent pas à l'horizon d'une fin de stock, et le nurturing e-mail existe déjà en interne. Seule porte ouverte : **rémunération aux résultats** (commission par vente encaissée, convention écrite) — réponse type dans l'historique du 16/10. Le volet long terme (SEO/audience) se réévaluera pour Retreats Holidays, après la première offre vendue.
+
 ## Rappels de périmètre
 
 - Les envois pierre restent **exclusivement sous Pierre d'Égypte**, 10/jour maximum, avec les contrôles anti-doublon de `directives-chatgpt-prospection.md`.
