@@ -1,27 +1,20 @@
-# Johanna — site de production (Vercel) : suivi des tests (ouvert le 19/10/2026)
+# Johanna — site de production (Vercel) : rapport de test du 19/10/2026
 
-*Statut relayé par la session Minyala le 19/10 au soir, présenté comme vérifié par le propriétaire — à reconfirmer sur pièces. L'application ne vit PAS dans ce dépôt (PR #20 et commit 8be85f7 introuvables ici) ; dépôt et URL de production demandés à la session Minyala.*
+*Dépôt vérifié : `customerservice-dot/retreats-holidays-live`, HEAD `main` = 8be85f7 « Vouvoyer the visitor and stop assuming their gender. (#20) » — conforme au statut du propriétaire. Production testée : https://retreats-holidays-live.vercel.app/ (titre FR confirmé). Moyens : lecture du code + appels HTTP ; pas de navigateur, donc pas de test interactif multi-tours ni de clic WhatsApp réel — ceux-là restent au propriétaire.*
 
-## État relayé (19/10, [À CONFIRMER sur la production])
+## ✅ Vérifié conforme (code + test réel)
 
-- Production Vercel passée sur `main`, commit `8be85f7`, PR #20, statut READY (remplace la version PR #6).
-- Dernier changement décrit : **Johanna vouvoie les visiteurs et ne présume plus leur genre.**
-- Domaines `retreats-holidays.com` et `www` : **non vérifiés dans Vercel** (production donc sur une URL *.vercel.app).
-- **Non retesté** dans ce contrôle : WhatsApp, frais de 2,99 €, envoi d'e-mails.
-- Chantier Resend : **clôturé** (décision du propriétaire).
+1. **Chat en production fonctionne** — test POST réel du 19/10 : réponse `ok:true, fallback:false, provider:hostinger, model:claude-haiku-4.5`.
+2. **Vouvoiement + genre** : la réponse vouvoie, Johanna parle d'elle au féminin (« Ravie »), ne présume pas le genre du visiteur (règles explicites du prompt, lignes 143–144 de `src/lib/johanna.ts`).
+3. **Prix verrouillés** : question test « Combien ça coûte ? » → aucun chiffre, renvoi vers « Joseph prépare une proposition personnalisée ». Triple garde dans le code : règle de prompt + `redactPrices()` (caviarde tout montant) + filtre anti-« je n'annonce pas de prix ». Jamais de confirmation de réservation ni de paiement (règle + pied de chaque e-mail de demande).
+4. **Offres affichées = référence validée du 15/10** : Dahab 5 j/4 n, Nil 5 j/4 n (départ 11–15/01/2027 « dès que le bateau confirme »), Mamers 7 j/6 n (adresse privée), badges « en préparation », aucun prix affiché, Maurice = liste d'intérêt ; Gizeh absente. `bookable` ne fait que basculer le bouton entre « devis » et « intérêt » — **aucun paiement nulle part dans l'app** (BookingModal vérifié).
+5. **Les trois rôles téléphoniques, correctement séparés** (commentaire de code explicite, grep confirmé) : WhatsApp Johanna « Aide humaine » **+230 5846 1923** ; WhatsApp Johanna « Demande exclusive » **+20 155 644 3550** ; **+33 7 58 50 41 73** = contact du site uniquement (footer/Contact/SEO), jamais présenté comme WhatsApp Johanna. Les liens `wa.me` préremplissent un message construit **uniquement avec les choix du visiteur** (jamais les suggestions ou prix de Johanna) ; c'est le visiteur qui appuie sur envoyer.
+6. **Parcours de mise en relation** : chat → jeton `[[COLLECT]]` → formulaire prérempli → `POST /api/inquiry` (validation + honeypot anti-spam) → envoi Resend vers customerservice@exclusiveyogaretreats.com, Cc info@retreats-holidays.com et joseph.hanna@retreats-holidays.com, Reply-To le visiteur ; repli `mailto:` prérempli si Resend absent. Le chat ne cite jamais Pierre d'Égypte/Minyala (filtre de marque).
 
-## Tests demandés par le propriétaire (priorité)
+## ⚠️ À arbitrer par le propriétaire
 
-Sur CETTE version de production : les **trois orientations WhatsApp** et le **parcours de mise en relation**.
-
-## Plan de test (selon les moyens de cette session — pas de navigateur)
-
-1. [ ] Obtenir dépôt + URL de production (demandés le 19/10).
-2. [ ] Vérification statique de la page de production (fetch) : vouvoiement, aucune présomption de genre, présence des trois orientations WhatsApp (liens `wa.me`, numéros et messages préremplis), mention des frais de 2,99 €, point d'entrée de la mise en relation.
-3. [ ] Lecture du code (si dépôt accessible) : logique des trois orientations, du parcours de mise en relation, et conformité aux règles dures (Johanna ne confirme jamais une réservation, n'encaisse jamais, ne donne pas de date ; offres citables : Dahab/Nil/Mamers à 2 899 €, base 10, supplément sur devis ; Gizeh exclue).
-4. [ ] Ce qui restera au propriétaire : test interactif réel du chatbot et du WhatsApp depuis son appareil.
-5. Contrainte connue à intégrer aux conclusions : **canal Zapier/Gmail bloqué (« Task limits », 19/10)** — tout test d'envoi d'e-mail échouera ou restera silencieux tant que le quota n'est pas rétabli.
-
-## Garde-fous applicables au site
-
-Les règles du dépôt valent pour le chatbot de production comme pour le Zap : aucune confirmation de réservation, aucun encaissement (arbitrage juridique § 4 de `dahab-test.md` pendant — la question du statut des 2,99 € de frais au regard de ce verrou est à poser au juriste via `arbitrage-juridique-brief.md`), aucune date promise, B2C : on répond, on ne démarche pas.
+1. **Deux versions en ligne en parallèle (vérifié par moi)** : `www.retreats-holidays.com` sert l'ANCIENNE build anglaise (« Wellness & Yoga Retreats from the Middle East ») pendant que la nouvelle version (PR #20) ne vit que sur l'URL vercel.app. Les visiteurs du domaine public voient l'ancienne version, sans les correctifs. Correction : rattacher/vérifier le domaine sur le nouveau projet Vercel.
+2. **Page Terms, § 17 (`src/pages/Terms.tsx`)** : frais de conciergerie **2,99 €** « quand une mise en relation via Johanna est confirmée », **5 %** de frais prestataires, et « booking fee is **non-refundable** after 48 hours ». Trois conflits : encaissement avant l'arbitrage juridique (§ 4 de `dahab-test.md`) ; « non remboursable » contraire à la règle du 15/10 ; un modèle « place de marché » que rien d'autre ne reflète. Et la page est en anglais sur un site français. → ajouté au périmètre du brief juridique.
+3. **Resend est configuré en production** (`email:true` au statut `/api/chat`) alors que le chantier Resend a été déclaré clôturé : les e-mails de mise en relation partiront réellement. À confirmer : voulu ou pas ; et quel expéditeur (`RESEND_FROM`, non lisible de l'extérieur).
+4. **`OPENROUTER_MODEL` absent** de l'environnement : le secours OpenRouter utiliserait le défaut `openrouter/free`. Mineur tant que la voie principale (Hostinger) répond — c'est le cas.
+5. **Non testé d'ici** : conversation multi-tours, clics WhatsApp réels, soumission réelle du formulaire (elle enverrait un vrai e-mail — j'attends votre feu vert ou votre propre test), et tout envoi e-mail côté Zapier reste bloqué par le quota.
