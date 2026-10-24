@@ -1,5 +1,7 @@
 # Ancien site (www.retreats-holidays.com) — remplacement du bot SEUL (décision du 24/10)
 
+> **OBSOLÈTE (24/10, consigne propriétaire)** : NE PAS déployer ce relais Supabase. Le bon dépôt de l'ancien site est `kodekins/retreat-holidays` (projet Vercel kodekins-projects/retreat-holidays) ; la route `/api/chat` de retreats-holidays-live renvoie 404. Remplacement retenu : iframe Johanna (johanna-retreats-holidays-gxdv8a.v2.appdeploy.ai) dans Chatbot.tsx + purge du parcours Stripe — implémenté sur la branche `feat/johanna-embed-remove-stripe` de kodekins/retreat-holidays (commit 9585671).
+
 **Décision propriétaire (24/10)** : garder l'ancien site public tel quel ; seul le chatbot bascule
 sur la nouvelle Johanna. Ni DNS ni domaine ne bougent (TXT Hostinger : NE PAS ajouter).
 
