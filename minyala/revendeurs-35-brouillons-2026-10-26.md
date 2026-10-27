@@ -1,137 +1,160 @@
-# Brouillons « Revendeurs à 35 € » — À VALIDER, RIEN NE PART
+# Brouillons « Revendeurs à 35 € » — v2 corrigée (27/10) — À VALIDER, RIEN NE PART
 
 Expéditeur prévu : **info@pierredegypte.online** (Network Solutions) — envoi
 possible uniquement après vérification du From réel. Interdits :
-customerservice@exclusiveyogaretreats.com, Hotmail.
+customerservice@exclusiveyogaretreats.com, Hotmail. **Aucun envoi ni appel
+tant que le propriétaire n'a pas validé ces textes.**
 
-Top 5 révisé après vérification du 26/10 : **Cubik Minéral Outdoor est écarté**
-(société introuvable) et remplacé par **Minéral Pierre Naturelle**, vrai vendeur
-de Sinaï Pearl (~60,90 €/m²) déjà dans notre registre.
+## Corrections appliquées dans cette v2 (consignes du 27/10)
 
-Règles respectées : prix public 35 €/m² TTC seulement, minimum 25 m² (875 €),
-jamais de prix revendeur par écrit, jamais « prix le plus bas », prochaine
-étape datée dans chaque message. Les prix cités sont ceux affichés publiquement
-par le destinataire lui-même (vérifiés le 26/10).
-
----
-
-## 1. C-Négoce — contact@c-negoce.com (P1, marge +41,50 €/m²)
-
-**Objet : Calcaire égyptien MINYALA — lot disponible en Île-de-France, 35 € TTC/m²**
-
-Bonjour,
-
-Vous distribuez le marbre d'Égypte Gala brossé, affiché 76,50 € TTC/m² sur
-c-negoce.com. Nous déstockons un lot de calcaire égyptien MINYALA de la même
-famille (beige clair, finition adoucie, 2 cm) à **35 €/m² TTC**, départ
-Gennevilliers (92) ou Vernon (27) — environ 38 palettes disponibles,
-minimum d'enlèvement 25 m² (875 €).
-
-Pour un importateur comme vous, c'est un complément de gamme immédiat, sans
-délai d'importation : la marchandise est à quai, contrôlable sur place avant
-enlèvement.
-
-Souhaitez-vous recevoir photos, fiche produit et disponibilités ? Je peux vous
-réserver un créneau de visite du stock à Gennevilliers **cette semaine
-(jeudi 29 ou vendredi 30/10)**.
-
-Cordialement,
-Joseph HANNA — Pierre d'Égypte (pierredegypte.online)
-
-*(Note interne : site C-Négoce en maintenance le 26/10 — re-vérifier le prix
-Gala affiché avant envoi.)*
+- Les écarts entre prix publics sont des **écarts de prix affichés**, pas des
+  marges commerciales (on ignore leurs prix d'achat).
+- Retiré partout : « 38 palettes », « finition adoucie », « disponibilité
+  immédiate », promesse d'échantillon avant vendredi, créneaux de visite
+  garantis. Remplacé par la formule validée de la veille : « photos et visite
+  du lot sur demande, sur rendez-vous ».
+- Plus de « même famille » / « très proche » : comparaison factuelle sans
+  équivalence technique affirmée (formats et finitions différents).
+- Offre inchangée et seule affirmée : **35 €/m² TTC, pierre seule, dalles
+  30×60×2 cm, minimum 25 m² (875 €), retrait sur rendez-vous à Gennevilliers
+  (92) ou Vernon (27) ; livraison et pose distinctes.**
+- Jours corrigés : mar. 27/10, mer. 28/10, jeu. 29/10, ven. 30/10.
 
 ---
 
-## 2. Thomas Sograma — contact@thomas-sograma.com (P1, marge +20,57 €/m²)
+## 1. C-Négoce — contact@c-negoce.com (P1)
 
-**Objet : Calcaire égyptien 2 cm — lot à 35 € TTC/m², complément de votre Crema Sinai**
+⚠️ *Avant envoi : reconfirmer le prix Gala (76,50 € TTC/m² lu le 26/10 sur
+version indexée — site officiel en maintenance). Le brouillon n'affirme aucun
+prix C-Négoce.*
+
+**Objet : Calcaire d'Égypte — lot MINYALA à 35 € TTC/m², départ Île-de-France**
 
 Bonjour,
 
-Votre catalogue propose le Crema Sinai adouci vieilli en 2 cm (55,57 € TTC/m²
-en opus romain). Nous déstockons un calcaire égyptien très proche, le MINYALA
-(beige, 2 cm), à **35 €/m² TTC**, enlèvement à Gennevilliers (92) ou
-Vernon (27), minimum 25 m² (875 €).
+Vous distribuez du marbre calcaire d'Égypte (gamme Gala). Nous déstockons un
+lot de calcaire d'Égypte MINYALA, dalles 30×60×2 cm, à **35 €/m² TTC pierre
+seule**, minimum 25 m² (875 €), retrait sur rendez-vous à Gennevilliers (92)
+ou Vernon (27). Livraison et pose en sus, traitées séparément.
 
-C'est l'occasion de renforcer votre gamme égyptienne avec un second
-approvisionnement déjà en France, sans aléa de transit.
+Formats et finitions diffèrent de vos références actuelles : je vous propose
+de juger sur pièces — photos et visite du lot sur demande.
 
-Puis-je vous envoyer photos et fiche produit ? Un échantillon peut partir
-**avant vendredi 30/10** si vous me communiquez l'agence destinataire.
+Souhaitez-vous recevoir la fiche produit et les photos ? Je peux vous proposer
+un rendez-vous au dépôt cette semaine (jeudi 29 ou vendredi 30/10, à convenir).
 
 Cordialement,
 Joseph HANNA — Pierre d'Égypte (pierredegypte.online)
 
 ---
 
-## 3. Pierres & Décors (Portet-sur-Garonne) — contact@pierres-decors.com (P1, marge +15 à +54 €/m²)
+## 2. Thomas Sograma — contact@thomas-sograma.com (P1)
+
+**Objet : Calcaire d'Égypte 30×60×2 cm — lot à 35 € TTC/m²**
+
+Bonjour,
+
+Votre catalogue comprend le Crema Sinai (calcaire d'Égypte, finition adoucie
+vieillie, affiché 55,57 € TTC/m² en opus romain 2 cm). Nous déstockons un
+autre calcaire d'Égypte, le MINYALA, en dalles 30×60×2 cm, à **35 €/m² TTC
+pierre seule**, minimum 25 m² (875 €), retrait sur rendez-vous à Gennevilliers
+(92) ou Vernon (27). Livraison et pose distinctes.
+
+Format et finition diffèrent de votre Crema Sinai — la comparaison se fait
+sur pièces : photos et visite du lot sur demande.
+
+Puis-je vous envoyer la fiche produit et les photos, et vers quelle agence ?
+
+Cordialement,
+Joseph HANNA — Pierre d'Égypte (pierredegypte.online)
+
+---
+
+## 3. Pierres & Décors (Portet-sur-Garonne) — contact@pierres-decors.com (P1)
+
+⚠️ *Avant envoi : confirmer l'identité exacte (raison sociale « L'univers de
+la Pierre », SIREN 799 580 188 — ne pas confondre avec « Pierres et Décors »
+de Royan) et chiffrer le transport Île-de-France → Haute-Garonne, qui pèsera
+dans leur calcul.*
 
 **Objet : Pierre d'Égypte — lot MINYALA 35 € TTC/m² départ Île-de-France**
 
 Bonjour,
 
-Votre rayon « Pierres d'Égypte » (KEROS, SAHARA, dès 50 €/m²) montre que cette
-pierre a sa clientèle à Toulouse. Nous déstockons un calcaire égyptien MINYALA
-(beige, 2 cm, finition adoucie) à **35 €/m² TTC**, départ Gennevilliers (92)
-ou Vernon (27), minimum 25 m² (875 €).
+Votre rayon « Pierres d'Égypte » (références KEROS, SAHARA) montre que cette
+pierre a sa clientèle à Toulouse. Nous déstockons un calcaire d'Égypte,
+le MINYALA, en dalles 30×60×2 cm, à **35 €/m² TTC pierre seule**, minimum
+25 m² (875 €), départ Gennevilliers (92) ou Vernon (27) sur rendez-vous.
+Livraison et pose distinctes ; le transport vers la Haute-Garonne est à
+chiffrer selon le volume.
 
-Environ 38 palettes sont disponibles — de quoi alimenter votre showroom en
-produit d'appel tout en gardant vos références actuelles en montée de gamme.
+Vos références et le MINYALA diffèrent par formats et finitions — photos et
+visite du lot sur demande pour comparer sur pièces.
 
-Je vous envoie photos et fiche produit ? Si le principe vous intéresse, je
-vous propose un point téléphonique **mardi 28/10** pour parler volumes et
-logistique vers la Haute-Garonne.
+Si le principe vous intéresse, je vous propose un point téléphonique
+**mercredi 28/10 ou jeudi 29/10**, à votre convenance, pour parler volumes
+et logistique.
 
 Cordialement,
 Joseph HANNA — Pierre d'Égypte (pierredegypte.online)
 
 ---
 
-## 4. Dalle Décor (Galluis, 78) — PAS D'E-MAIL : formulaire ou téléphone 01 34 86 41 72 (P1)
+## 4. Dalle Décor (Galluis, 78) — AUCUN E-MAIL CONFIRMÉ : script d'appel uniquement, 01 34 86 41 72 (P1)
 
-**Script d'appel / texte formulaire :**
+**Script d'appel (pas d'envoi) :**
 
-Bonjour, Joseph Hanna, de Pierre d'Égypte à Gennevilliers. Vous importez de la
-pierre depuis 1972 ; nous déstockons un lot de calcaire égyptien MINYALA —
-beige, 2 cm, environ 38 palettes — à **35 €/m² TTC**, enlèvement à
-Gennevilliers, à une demi-heure de chez vous, minimum 25 m².
+Bonjour, Joseph Hanna, de Pierre d'Égypte à Gennevilliers. Vous importez de
+la pierre depuis longtemps ; nous déstockons un lot de calcaire d'Égypte
+MINYALA — dalles 30×60×2 cm — à **35 €/m² TTC pierre seule**, minimum 25 m²
+(875 €), retrait à Gennevilliers, à une demi-heure de chez vous. Livraison
+possible en sus, traitée séparément.
 
-Vous pouvez venir voir la marchandise sur place avant toute décision. Quel
-jour cette semaine vous conviendrait pour passer au dépôt — **jeudi 29 ou
-vendredi 30/10** ?
-
----
-
-## 5. Minéral Pierre Naturelle — PAS D'E-MAIL PUBLIÉ : téléphone 03 87 98 67 37 / 03 60 12 33 53 (P1, marge +25,90 €/m²)
-
-**Script d'appel :**
-
-Bonjour, Joseph Hanna, société Pierre d'Égypte (Gennevilliers). Vous vendez le
-Sinaï Pearl dans vos showrooms de l'Est (environ 60,90 €/m²). Nous déstockons
-un calcaire égyptien de la même famille, le MINYALA, à **35 €/m² TTC**
-enlèvement Gennevilliers ou Vernon, minimum 25 m², environ 38 palettes.
-
-Puis-je vous envoyer photos et fiche produit par e-mail ? À quelle adresse ?
-Et si la pierre vous intéresse, le stock est visitable **cette semaine**.
+Vous pouvez venir voir la marchandise sur place, sur rendez-vous, avant toute
+décision. Quel jour vous arrangerait cette semaine ?
 
 ---
 
-## Écartés / rétrogradés après vérification (ne pas contacter en vague 1)
+## 5. Minéral Pierre Naturelle — PAS D'E-MAIL PUBLIÉ : script d'appel, 03 87 98 67 37 / 03 60 12 33 53 (P1)
 
-- **Cubik Minéral Outdoor (Sélestat)** : ÉCARTÉ — société introuvable au
-  registre national et sur le web. Fiche fantôme du relevé.
-- **La Maison des Cailloux (Capvern, 65)** : P3 — atelier-producteur (pas pur
-  revendeur), vend un travertin import à 29–30 €/m², SOUS nos 35 € ; argument
-  marge fragile ; ~800 km du stock.
-- **Carrelage Market (Puget-sur-Argens, 83)** : P3 — son Sinaï en ligne est un
-  déstockage à ≈35,12 €/m² TTC (le « 48 €/m² » du relevé n'existe plus) ;
-  argument marge inopérant tant que ce lot est affiché.
+⚠️ *Avant appel : rapprocher les deux prix relevés pour leur SINAI PEARL —
+48,50 €/m² TTC (notre bilan de veille du 26/10, 60×40×2 vieilli) vs ~60,90 €
+(lecture du 26/10 soir, référence/finition possiblement différente). Tant que
+ce n'est pas tranché, AUCUN prix Minéral n'est cité — le script n'en cite pas.*
+
+**Script d'appel (pas d'envoi) :**
+
+Bonjour, Joseph Hanna, société Pierre d'Égypte à Gennevilliers. Vous
+distribuez du calcaire d'Égypte, notamment le Sinaï Pearl, dans vos showrooms
+de l'Est. Nous déstockons un autre calcaire d'Égypte, le MINYALA, en dalles
+30×60×2 cm, à **35 €/m² TTC pierre seule**, minimum 25 m² (875 €), retrait
+sur rendez-vous à Gennevilliers ou Vernon. Livraison et pose distinctes.
+
+Formats et finitions diffèrent de vos références — puis-je vous envoyer
+photos et fiche produit par e-mail, et à quelle adresse ? Le lot est visitable
+sur rendez-vous.
+
+---
+
+## Écartés / priorité basse (inchangé sur le fond, formulation corrigée)
+
+- **Cubik Minéral Outdoor (Sélestat)** : non identifiée lors de la
+  vérification du 26/10 (registre national + web) — **fiche écartée tant que
+  son existence n'est pas établie**, sans affirmer définitivement qu'elle
+  n'existe pas.
+- **La Maison des Cailloux (Capvern, 65)** : priorité basse — atelier-
+  producteur plutôt que revendeur ; son travertin import est affiché 29–30 €/m²,
+  sous nos 35 € ; ~800 km du stock.
+- **Carrelage Market (Puget-sur-Argens, 83)** : priorité basse — son Sinaï en
+  ligne est un déstockage affiché ≈35,12 €/m² TTC ; l'écart de prix affiché
+  annoncé (sur la base de 48 €/m²) n'a pas été retrouvé.
 
 ## Conditions de départ (toutes bloquantes)
 
 1. From réel **info@pierredegypte.online** vérifié (test Network Solutions).
 2. Contrôle historique/STOP par destinataire (fait : aucun des 5 jamais contacté).
-3. Fiche produit Shopify fiable (variante « Livraison 53 € » affichée sold out
-   — choix A/B/C en attente).
-4. **Validation du propriétaire sur ces brouillons.**
+3. Points à vérifier par fiche (ci-dessus) levés : prix C-Négoce, identité et
+   transport Pierres & Décors, prix Minéral rapproché du bilan.
+4. Fiche produit Shopify fiable (variante « Livraison » affichée sold out —
+   choix A/B/C en attente).
+5. **Validation du propriétaire sur ces textes v2.**

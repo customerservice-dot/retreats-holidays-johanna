@@ -29,9 +29,9 @@ Conséquences pratiques :
 
 | Vague | Date proposée | Cibles | Contenu |
 |---|---|---|---|
-| 1 | lun. 27/10 | **Top 8** : Adi Roc, Espace TP, Kei-Stone, Hestia, Marbrerie Arnaud, Artemis, Nimex International, Tricycle | Message A (35 €/m² TTC, min 25 m², retrait Gennevilliers/Vernon) + angle personnalisé par fiche |
-| 2 | mar. 28/10 | Autres P1 (Dalle Décor, Paveurs E&L, MC Pierre, Travertin.fr, Cupa Stone, Guilloux, BCA, Vallois, Pinson, Minéka…) | Message A + angle segment |
-| 3 | mer. 29/10 → mar. 04/11 | P2 (marbreries IdF, négoces régionaux, nouveaux du croisement) puis P3 (voirie/TP : Eurovia, Colas, Keravis, SRTP — après dossier technique) | Message A ; P3 seulement avec preuve d'adéquation voirie |
+| 1 | mar. 27/10 (glisse avec la levée du verrou) | **Top 8** : Adi Roc, Espace TP, Kei-Stone, Hestia, Marbrerie Arnaud, Artemis, Nimex International, Tricycle | Message A (35 €/m² TTC, min 25 m², retrait Gennevilliers/Vernon) + angle personnalisé par fiche |
+| 2 | mer. 28/10 | Autres P1 (Dalle Décor, Paveurs E&L, MC Pierre, Travertin.fr, Cupa Stone, Guilloux, BCA, Vallois, Pinson, Minéka…) | Message A + angle segment |
+| 3 | jeu. 29/10 → mer. 04/11 | P2 (marbreries IdF, négoces régionaux, nouveaux du croisement) puis P3 (voirie/TP : Eurovia, Colas, Keravis, SRTP — après dossier technique) | Message A ; P3 seulement avec preuve d'adéquation voirie |
 
 Angles particuliers notés en fiche :
 - **Hestia** : vend déjà une gamme « Egypta » → se positionner en second fournisseur différencié.
