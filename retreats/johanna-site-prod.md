@@ -13,7 +13,7 @@
 
 ## ⚠️ À arbitrer par le propriétaire
 
-1. **Deux versions en ligne en parallèle (vérifié par moi)** : `www.retreats-holidays.com` sert l'ANCIENNE build anglaise (« Wellness & Yoga Retreats from the Middle East ») pendant que la nouvelle version (PR #20) ne vit que sur l'URL vercel.app. Les visiteurs du domaine public voient l'ancienne version, sans les correctifs. Correction : rattacher/vérifier le domaine sur le nouveau projet Vercel.
+1. ~~Deux versions en ligne en parallèle~~ — **RÉSOLU le 28/10** : domaines vérifiés sur le projet `retreats-holidays-live`, www sert la nouvelle version (`comparatif-versions-site.md`). L'ancien site kodekins et son parcours Stripe ne sont plus servis au public.
 2. **Page Terms, § 17 (`src/pages/Terms.tsx`)** : frais de conciergerie **2,99 €** « quand une mise en relation via Johanna est confirmée », **5 %** de frais prestataires, et « booking fee is **non-refundable** after 48 hours ». Trois conflits : encaissement avant l'arbitrage juridique (§ 4 de `dahab-test.md`) ; « non remboursable » contraire à la règle du 15/10 ; un modèle « place de marché » que rien d'autre ne reflète. Et la page est en anglais sur un site français. → ajouté au périmètre du brief juridique.
 3. **Resend est configuré en production** (`email:true` au statut `/api/chat`) alors que le chantier Resend a été déclaré clôturé : les e-mails de mise en relation partiront réellement. À confirmer : voulu ou pas ; et quel expéditeur (`RESEND_FROM`, non lisible de l'extérieur).
 4. **`OPENROUTER_MODEL` absent** de l'environnement : le secours OpenRouter utiliserait le défaut `openrouter/free`. Mineur tant que la voie principale (Hostinger) répond — c'est le cas.

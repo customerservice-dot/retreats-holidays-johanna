@@ -1,5 +1,7 @@
 # Une seule cible pour www.retreats-holidays.com — comparatif de décision (27/10/2026)
 
+> **TRANCHÉ ET EXÉCUTÉ le 28/10/2026 : cible B.** Le propriétaire a fait poser les TXT `_vercel` chez Hostinger ; les deux domaines sont vérifiés sur le projet Vercel `retreats-holidays-live` et **www sert la nouvelle version** (vérifié indépendamment par les deux sessions le 28/10 ; contrôles Playwright de la session Pierre : Johanna présente, aucune mention « 5% fee », WhatsApp +230, aucune référence Stripe ; l'apex redirige en 308 vers www ; ni A ni NS touchés). L'ancien site kodekins n'est plus servi au public ; la branche `feat/johanna-embed-remove-stripe` est définitivement obsolète. **Le site public = `retreats-holidays-live`/`main` désormais.** Le comparatif ci-dessous est conservé pour mémoire.
+
 *Demandé par le propriétaire (relais session Pierre, 27/10) : rapprocher les deux versions du site avant toute bascule, et choisir UNE cible. Consignes en vigueur : aucune seconde bascule avant ce choix, branche `feat/johanna-embed-remove-stripe` (kodekins) PARQUÉE, aucun changement DNS/domaine. Tout ce qui suit est vérifié sur pièces le 27/10 sauf mention contraire.*
 
 ## Version A — l'ancien site (dépôt `kodekins/retreat-holidays`), celui que le public voit
