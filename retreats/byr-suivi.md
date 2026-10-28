@@ -7,7 +7,7 @@
 **Conséquences :**
 1. **Canal BYR gelé** : le support ne répondra plus (la relance du 15/10 restera sans réponse — ce n'était pas une absence de Rio, c'est l'auto-réponse de la faillite). Finaliser les fiches (87 %, carte, conditions, « Request publishing ») est **sans objet** tant que le sort de la plateforme n'est pas tranché.
 2. **Page Dahab encore en ligne = risque immédiat** : un voyageur qui réserverait paierait une société en faillite (fonds dans la masse, remboursement incertain). Vérifier si le tableau de bord organisateur permet encore de **dépublier ou corriger** la fiche 120725 ; sinon, demande écrite au cabinet du curateur.
-3. **Créances éventuelles** : si Tripaneer doit de l'argent (réservations déjà encaissées par la plateforme et non reversées), déclarer via ClaimsAgent, pièces à l'appui, avant la réunion des créanciers.
+3. **Créances éventuelles** : si Tripaneer doit de l'argent (réservations déjà encaissées par la plateforme et non reversées), déclarer via ClaimsAgent, pièces à l'appui, sans tarder. Précision du propriétaire (28/10) : **le 9 décembre est une date de réunion des créanciers à vérifier au registre, pas une échéance établie de déclaration** — le délai de déclaration réel est à confirmer auprès du registre ou du cabinet du curateur.
 4. **Vigilance phishing** : les sources signalent des arnaques « récupération de fonds » et de faux e-mails de curateur — ne rien payer, ne rien signer sans vérification au registre officiel.
 5. **Distribution** : pivot vers nos propres canaux (listes d'intérêt sans paiement, prêtes dans `listes-interet.md`) ; toute autre plateforme = décision du propriétaire.
 
