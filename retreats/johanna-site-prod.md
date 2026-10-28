@@ -26,6 +26,7 @@
 
 **Précisions du propriétaire (28/10, pour l'exactitude du journal) :**
 - **La Johanna publique tourne sur AppDeploy** : corriger `src/lib/johanna.ts` dans `retreats-holidays-live` ne suffit pas pour le bot intégré — la règle « une question à la fois » doit aussi être appliquée **dans l'application AppDeploy**. (Mes tests du 28/10 ont validé l'API `/api/chat` du site ; le bot intégré que voit le visiteur est une surface distincte.)
+- **Correction « une question à la fois » : DÉPLOYÉE sur AppDeploy le 28/10** (version 1793196748636), par le propriétaire depuis sa propre session ChatGPT — l'accès AppDeploy est là-bas, pas dans les connecteurs de la session Claude (vérifié : aucun connecteur AppDeploy, Lovable et Supabase vides, le projet Vercel `retreat-holidays-johanna-live` n'est qu'une copie compilée). **Test réel du propriétaire sur deux échanges : le bot demande uniquement les transferts, puis uniquement les activités, sans redemander les informations fournies.** Aucun e-mail commercial ni paiement déclenché. Le prompt distinct du dépôt (`src/lib/johanna.ts`, qui porte déjà la règle en texte) n'a pas été modifié — un écart ponctuel du modèle y reste possible, observé une fois le 28/10, sans gravité.
 - **Les connecteurs Gmail/Resend permettent des contrôles ponctuels, pas une surveillance continue** des demandes : leur présence ne vaut pas veille — chaque vérification est un acte explicite, à la demande.
 
 ## ⚠️ À arbitrer par le propriétaire
