@@ -11,6 +11,17 @@
 5. **Les trois rôles téléphoniques, correctement séparés** (commentaire de code explicite, grep confirmé) : WhatsApp Johanna « Aide humaine » **+230 5846 1923** ; WhatsApp Johanna « Demande exclusive » **+20 155 644 3550** ; **+33 7 58 50 41 73** = contact du site uniquement (footer/Contact/SEO), jamais présenté comme WhatsApp Johanna. Les liens `wa.me` préremplissent un message construit **uniquement avec les choix du visiteur** (jamais les suggestions ou prix de Johanna) ; c'est le visiteur qui appuie sur envoyer.
 6. **Parcours de mise en relation** : chat → jeton `[[COLLECT]]` → formulaire prérempli → `POST /api/inquiry` (validation + honeypot anti-spam) → envoi Resend vers customerservice@exclusiveyogaretreats.com, Cc info@retreats-holidays.com et joseph.hanna@retreats-holidays.com, Reply-To le visiteur ; repli `mailto:` prérempli si Resend absent. Le chat ne cite jamais Pierre d'Égypte/Minyala (filtre de marque).
 
+## Test complet du formulaire public — 28/10/2026 (feu vert du propriétaire), RÉUSSI
+
+*Périmètre : soumission marquée TEST, bouclée sur les adresses du propriétaire — aucun paiement, aucun prospect réel. Vérifications par connecteurs Gmail et Resend directs (le quota Zapier n'est plus un prérequis pour ces contrôles).*
+
+1. **Chaîne chat → formulaire** (sur www.retreats-holidays.com/api/chat) : le bot qualifie avant de collecter — conforme. Anomalie mineure relevée : au 2ᵉ tour il a posé **deux questions dans un même message** (prénom + attentes), contre la règle « une seule question à la fois » du prompt. Cosmétique, à corriger à l'occasion dans le prompt.
+2. **Soumission TEST** sur `POST www.retreats-holidays.com/api/inquiry` : acceptée (`ok:true`), aucun repli mailto.
+3. **Envoi Resend : statut `delivered`** (13:17:35 UTC). Expéditeur réel constaté : **« Johanna <customerservice@exclusiveyogaretreats.com> »** (RESEND_FROM), To customerservice@, **Cc info@retreats-holidays.com + joseph.hanna@retreats-holidays.com**, Reply-To = l'adresse du visiteur. Corps complet, avec le pied « Aucun tarif n'a été annoncé. Johanna n'a pas confirmé de réservation ni de paiement. »
+4. **Réception vérifiée dans la boîte customerservice@** (fil 1a182a8c4260c5e0, arrivé en boîte de réception).
+5. **Journal Resend remonté** : les demandes antérieures du 18–19/10 (« TEST TECHNIQUE — ChatGPT », « TEST QA », « TEST-JOHANNA ») sont toutes des tests ; la demande « France » du 18/10 a été vérifiée — **coordonnées factices (domaine example.com, numéro type), c'était aussi un test**. Aucune demande réelle en attente dans ce canal au 28/10.
+6. **Hors périmètre de ce test, par construction** : le Zap Johanna (boîte botpress) n'est pas dans ce parcours — le formulaire aboutit dans la boîte du propriétaire, qui traite ; les 2,99 € restent une **proposition affichée, pas un encaissement opérationnel** (aucun chemin de paiement dans l'app).
+
 ## ⚠️ À arbitrer par le propriétaire
 
 1. ~~Deux versions en ligne en parallèle~~ — **RÉSOLU le 28/10** : domaines vérifiés sur le projet `retreats-holidays-live`, www sert la nouvelle version (`comparatif-versions-site.md`). L'ancien site kodekins et son parcours Stripe ne sont plus servis au public.
