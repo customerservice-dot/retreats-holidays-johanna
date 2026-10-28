@@ -22,6 +22,8 @@
 5. **Journal Resend remonté** : les demandes antérieures du 18–19/10 (« TEST TECHNIQUE — ChatGPT », « TEST QA », « TEST-JOHANNA ») sont toutes des tests ; la demande « France » du 18/10 a été vérifiée — **coordonnées factices (domaine example.com, numéro type), c'était aussi un test**. Aucune demande réelle en attente dans ce canal au 28/10.
 6. **Hors périmètre de ce test, par construction** : le Zap Johanna (boîte botpress) n'est pas dans ce parcours — le formulaire aboutit dans la boîte du propriétaire, qui traite ; les 2,99 € restent une **proposition affichée, pas un encaissement opérationnel** (aucun chemin de paiement dans l'app).
 
+**Complément du propriétaire (28/10, après ce test)** : la **PR #27** a ajouté les parcours **particulier / centre de yoga** au formulaire ; son test distinct de **13 h 36 UTC** a confirmé la transmission des nouveaux champs. **Site et Johanna : déployés et validés.** Restent ouverts (non clôturés par ce rapport) : encaissement, finalisation BYR, arbitrage juridique, quota Zapier. La réserve « une question à la fois » reste à corriger dans le prompt (`retreats-holidays-live`, `src/lib/johanna.ts`) — elle n'empêche pas la réception des demandes.
+
 ## ⚠️ À arbitrer par le propriétaire
 
 1. ~~Deux versions en ligne en parallèle~~ — **RÉSOLU le 28/10** : domaines vérifiés sur le projet `retreats-holidays-live`, www sert la nouvelle version (`comparatif-versions-site.md`). L'ancien site kodekins et son parcours Stripe ne sont plus servis au public.
