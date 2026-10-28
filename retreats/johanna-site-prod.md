@@ -29,6 +29,17 @@
 - **Correction « une question à la fois » : DÉPLOYÉE sur AppDeploy le 28/10** (version 1793196748636), par le propriétaire depuis sa propre session ChatGPT — l'accès AppDeploy est là-bas, pas dans les connecteurs de la session Claude (vérifié : aucun connecteur AppDeploy, Lovable et Supabase vides, le projet Vercel `retreat-holidays-johanna-live` n'est qu'une copie compilée). **Test réel du propriétaire sur deux échanges : le bot demande uniquement les transferts, puis uniquement les activités, sans redemander les informations fournies.** Aucun e-mail commercial ni paiement déclenché. Le prompt distinct du dépôt (`src/lib/johanna.ts`, qui porte déjà la règle en texte) n'a pas été modifié — un écart ponctuel du modèle y reste possible, observé une fois le 28/10, sans gravité.
 - **Les connecteurs Gmail/Resend permettent des contrôles ponctuels, pas une surveillance continue** des demandes : leur présence ne vaut pas veille — chaque vérification est un acte explicite, à la demande.
 
+## Audit de la page « Nos retraites » (/retreats) — 28/10/2026, sur main 63b48c5 (PR #27) + production
+
+**Conforme, vérifié en production** : /retreats répond 200 ; l'ancienne URL /our-exclusive-retreats redirige en 308 ; les 4 images /stays répondent 200 ; durées et lieux = référence du 15/10 (Dahab 5 j/4 n, Nil 5 j/4 n, Mamers 7 j/6 n, Maurice signature) ; Gizeh absente partout (llms.txt le dit explicitement) ; aucun prix de séjour affiché (choix assumé site-wide) ; aucun reste du +33 ; deux encarts particulier / centre-professeur avec entrées chat et formulaire ; UI FR/EN seulement (pas de risque de rendu arabe sur cette page).
+
+**Modifications à faire, par priorité :**
+1. **Retirer ou neutraliser l'encart « Retreats Holidays sur BookYogaRetreats »** (`src/pages/Retreats.tsx`, section + lien « Consulter notre fiche Dahab ») : il envoie les visiteurs vers la fiche d'une **plateforme en faillite** (Tripaneer, 01/10), fiche dont les conditions de paiement sont non conformes et dont la date affichée (19/10) est passée — quiconque y réserverait paierait la masse. À remplacer par l'entrée Johanna/formulaire tant que le sort de Tripaneer n'est pas tranché. (Fiche externe invérifiable d'ici : le site bloque la consultation automatisée.)
+2. **Mettre à jour `public/llms.txt`** : il publie encore le **WhatsApp « exclusif » +20 155 644 3550**, supprimé/aliasé par la PR #25 (seul le +230 doit paraître) ; « Dahab… being finalised with Book Yoga Retreats » à reformuler (faillite) ; « Mauritius: coming soon » à aligner sur le libellé « signature ».
+3. Mineur : la description Maurice du fil `OFFERS` dit « programme à préciser ensemble » mais `llms.txt` dit « not bookable yet » — harmoniser à l'occasion.
+
+*Ces modifications se font dans `retreats-holidays-live` (accès lecture seule dans cette session : signalées, pas poussées).*
+
 ## ⚠️ À arbitrer par le propriétaire
 
 1. ~~Deux versions en ligne en parallèle~~ — **RÉSOLU le 28/10** : domaines vérifiés sur le projet `retreats-holidays-live`, www sert la nouvelle version (`comparatif-versions-site.md`). L'ancien site kodekins et son parcours Stripe ne sont plus servis au public.
