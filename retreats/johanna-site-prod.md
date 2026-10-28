@@ -22,7 +22,11 @@
 5. **Journal Resend remonté** : les demandes antérieures du 18–19/10 (« TEST TECHNIQUE — ChatGPT », « TEST QA », « TEST-JOHANNA ») sont toutes des tests ; la demande « France » du 18/10 a été vérifiée — **coordonnées factices (domaine example.com, numéro type), c'était aussi un test**. Aucune demande réelle en attente dans ce canal au 28/10.
 6. **Hors périmètre de ce test, par construction** : le Zap Johanna (boîte botpress) n'est pas dans ce parcours — le formulaire aboutit dans la boîte du propriétaire, qui traite ; les 2,99 € restent une **proposition affichée, pas un encaissement opérationnel** (aucun chemin de paiement dans l'app).
 
-**Complément du propriétaire (28/10, après ce test)** : la **PR #27** a ajouté les parcours **particulier / centre de yoga** au formulaire ; son test distinct de **13 h 36 UTC** a confirmé la transmission des nouveaux champs. **Site et Johanna : déployés et validés.** Restent ouverts (non clôturés par ce rapport) : encaissement, finalisation BYR, arbitrage juridique, quota Zapier. La réserve « une question à la fois » reste à corriger dans le prompt (`retreats-holidays-live`, `src/lib/johanna.ts`) — elle n'empêche pas la réception des demandes.
+**Complément du propriétaire (28/10, après ce test)** : la **PR #27** a ajouté les parcours **particulier / centre de yoga** au formulaire ; son test distinct de **13 h 36 UTC** a confirmé la transmission des nouveaux champs. **Site et Johanna : déployés et validés.** Restent ouverts (non clôturés par ce rapport) : encaissement, finalisation BYR, arbitrage juridique, quota Zapier. La réserve « une question à la fois » reste à corriger — elle n'empêche pas la réception des demandes.
+
+**Précisions du propriétaire (28/10, pour l'exactitude du journal) :**
+- **La Johanna publique tourne sur AppDeploy** : corriger `src/lib/johanna.ts` dans `retreats-holidays-live` ne suffit pas pour le bot intégré — la règle « une question à la fois » doit aussi être appliquée **dans l'application AppDeploy**. (Mes tests du 28/10 ont validé l'API `/api/chat` du site ; le bot intégré que voit le visiteur est une surface distincte.)
+- **Les connecteurs Gmail/Resend permettent des contrôles ponctuels, pas une surveillance continue** des demandes : leur présence ne vaut pas veille — chaque vérification est un acte explicite, à la demande.
 
 ## ⚠️ À arbitrer par le propriétaire
 
